@@ -7,9 +7,19 @@ const pool = new Pool({
 
 export async function GET(request, { params }) {
   try {
-    // In Next.js App Router, params must be awaited in dynamic routes if used extensively or depending on version.
-    // Next 15 requires `params` to be resolved, but since we are just extracting userId:
     const { userId } = await params;
+    const cookieHeader = request.headers.get('cookie') || '';
+    const authUrl = process.env.NEXT_PUBLIC_NEON_AUTH_URL;
+    
+    // Validate session
+    const authRes = await fetch(`${authUrl}/get-session`, {
+      headers: { cookie: cookieHeader }
+    }).catch(() => null);
+    
+    const sessionData = authRes ? await authRes.json().catch(() => null) : null;
+    if (!sessionData?.user || sessionData.user.id !== userId) {
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+    }
     
     const result = await pool.query('SELECT data FROM tamer_profiles WHERE user_id = $1', [userId]);
     
@@ -27,6 +37,19 @@ export async function GET(request, { params }) {
 export async function POST(request, { params }) {
   try {
     const { userId } = await params;
+    const cookieHeader = request.headers.get('cookie') || '';
+    const authUrl = process.env.NEXT_PUBLIC_NEON_AUTH_URL;
+    
+    // Validate session
+    const authRes = await fetch(`${authUrl}/get-session`, {
+      headers: { cookie: cookieHeader }
+    }).catch(() => null);
+    
+    const sessionData = authRes ? await authRes.json().catch(() => null) : null;
+    if (!sessionData?.user || sessionData.user.id !== userId) {
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+    }
+
     const data = await request.json();
     
     await pool.query(

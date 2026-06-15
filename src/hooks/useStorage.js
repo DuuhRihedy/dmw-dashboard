@@ -49,7 +49,7 @@ export function useStorage() {
 
   useEffect(() => {
     if (userId) {
-      fetch(`/api/profile/${userId}`)
+      fetch(`/api/profile/${userId}`, { credentials: 'include' })
         .then(res => res.json())
         .then(data => {
           if (data && data.tamers && Object.keys(data.tamers).length > 0) {
@@ -67,6 +67,7 @@ export function useStorage() {
       fetch(`/api/profile/${userId}`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
         body: JSON.stringify({ tamers: t, activeId: loadActiveId() })
       }).catch(console.error);
     }

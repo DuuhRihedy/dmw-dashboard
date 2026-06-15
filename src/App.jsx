@@ -78,6 +78,14 @@ export default function App() {
 
   return (
     <div className="app-layout">
+      {/* MOBILE OVERLAY */}
+      {sidebarOpen && (
+        <div 
+          className="mobile-overlay"
+          onClick={() => setSidebarOpen(false)}
+        />
+      )}
+      
       {/* SIDEBAR */}
       <aside className={`sidebar ${sidebarOpen ? 'open' : ''}`}>
         <div className="sidebar-logo">

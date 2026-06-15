@@ -9,24 +9,20 @@ export const { signIn, signUp, signOut } = authClient;
 
 // Como o cliente vanilla usa NanoStores ou similar internamente:
 export function useSession() {
-  const [session, setSession] = useState(authClient.useSession?.get?.() || null);
-  const [isPending, setIsPending] = useState(true);
+  const [state, setState] = useState(authClient.useSession?.get?.() || { data: null, isPending: true });
 
   useEffect(() => {
     if (!authClient.useSession?.subscribe) {
-      setIsPending(false);
+      setState({ data: null, isPending: false });
       return;
     }
     
-    // Subscribe to store changes
     const unsubscribe = authClient.useSession.subscribe((val) => {
-      setSession(val);
-      setIsPending(false);
+      setState(val);
     });
     
     return () => unsubscribe();
   }, []);
 
-  // Format to match expected { data: session, isPending }
-  return { data: session, isPending };
+  return state;
 }

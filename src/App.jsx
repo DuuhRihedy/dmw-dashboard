@@ -104,7 +104,10 @@ export default function App() {
           )}
           <a href={WIKI} target="_blank" rel="noopener noreferrer">📖 DMW Wiki</a>
           <a href={DISCORD} target="_blank" rel="noopener noreferrer" style={{ marginTop: 8 }}>💬 Discord</a>
-          <button onClick={() => signOut()} className="w-full text-left text-red-400 hover:text-red-300 mt-4 px-2 py-1 flex items-center gap-2 text-sm transition-colors cursor-pointer">
+          <button onClick={async () => {
+            await signOut();
+            window.location.href = '/login';
+          }} className="w-full text-left text-red-400 hover:text-red-300 mt-4 px-2 py-1 flex items-center gap-2 text-sm transition-colors cursor-pointer">
             🚪 Sair / Logout
           </button>
         </div>

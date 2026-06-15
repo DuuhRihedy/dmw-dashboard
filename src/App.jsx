@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useStorage } from './hooks/useStorage';
 import { PROGRESSION, TITLES, WIKI, DISCORD } from './data/gameData';
-import { signOut, useSession } from './auth';
+import { authClient, useSession } from './auth';
 import Dashboard from './components/Dashboard';
 import Progression from './components/Progression';
 import Digimons from './components/Digimons';
@@ -105,7 +105,11 @@ export default function App() {
           <a href={WIKI} target="_blank" rel="noopener noreferrer">📖 DMW Wiki</a>
           <a href={DISCORD} target="_blank" rel="noopener noreferrer" style={{ marginTop: 8 }}>💬 Discord</a>
           <button onClick={async () => {
-            await signOut();
+            try {
+              await authClient.signOut();
+            } catch (err) {
+              console.error('Logout error:', err);
+            }
             localStorage.clear();
             window.location.href = '/login';
           }} className="w-full text-left text-red-400 hover:text-red-300 mt-4 px-2 py-1 flex items-center gap-2 text-sm transition-colors cursor-pointer">

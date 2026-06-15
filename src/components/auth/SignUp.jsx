@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { useNavigate, Link } from 'react-router-dom';
+import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import { signUp } from '../../auth';
 import { Mail, Lock, User, AlertCircle, Loader2, CheckCircle2 } from 'lucide-react';
 
@@ -10,7 +11,7 @@ export default function SignUp() {
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
   const [success, setSuccess] = useState(false);
-  const navigate = useNavigate();
+  const router = useRouter();
 
   const handleSignUp = async (e) => {
     e.preventDefault();
@@ -36,7 +37,7 @@ export default function SignUp() {
       
       // Sucesso! Mostra a mensagem e redireciona depois
       setSuccess(true);
-      setTimeout(() => navigate('/login'), 2500);
+      setTimeout(() => router.push('/login'), 2500);
       
     } catch (err) {
       setError(err.message);
@@ -131,7 +132,7 @@ export default function SignUp() {
 
         <div className="mt-8 text-center text-sm text-gray-400">
           Já faz parte da Guilda?{' '}
-          <Link to="/login" className="text-blue-400 hover:text-blue-300 transition-colors font-medium">
+          <Link href="/login" className="text-blue-400 hover:text-blue-300 transition-colors font-medium">
             Entrar
           </Link>
         </div>

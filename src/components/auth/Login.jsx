@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { useNavigate, Link } from 'react-router-dom';
+import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import { signIn } from '../../auth';
 import { Mail, Lock, AlertCircle, Loader2 } from 'lucide-react';
 
@@ -8,7 +9,7 @@ export default function Login() {
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
-  const navigate = useNavigate();
+  const router = useRouter();
 
   const handleLogin = async (e) => {
     e.preventDefault();
@@ -26,7 +27,7 @@ export default function Login() {
       }
       
       // Se der certo, redireciona pro dashboard
-      navigate('/');
+      router.push('/');
     } catch (err) {
       setError(err.message);
     } finally {
@@ -96,7 +97,7 @@ export default function Login() {
 
         <div className="mt-8 text-center text-sm text-gray-400">
           Não tem uma conta ainda?{' '}
-          <Link to="/signup" className="text-blue-400 hover:text-blue-300 transition-colors font-medium">
+          <Link href="/signup" className="text-blue-400 hover:text-blue-300 transition-colors font-medium">
             Criar conta
           </Link>
         </div>

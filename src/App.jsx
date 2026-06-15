@@ -82,7 +82,7 @@ export default function App() {
       <aside className={`sidebar ${sidebarOpen ? 'open' : ''}`}>
         <div className="sidebar-logo">
           <span className="logo-icon">🐉</span>
-          <h1>DMW Dashboard</h1>
+          <h1>{session?.user?.name ? session.user.name.split(' ')[0] : 'DuuhRihedy'} Dashboard</h1>
         </div>
         <nav className="sidebar-nav">
           {NAV_ITEMS.map(item => (

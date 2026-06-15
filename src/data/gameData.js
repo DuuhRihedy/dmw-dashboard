@@ -14,6 +14,34 @@ export const ATTRIBUTES = [
   { id: 'none', name: 'No Attribute', short: 'No', beats: 'None' },
 ];
 
+export const ELEMENTS = [
+  { id: 'fire', name: 'Fire', icon: '🔥' },
+  { id: 'ice', name: 'Ice', icon: '❄️' },
+  { id: 'water', name: 'Water', icon: '💧' },
+  { id: 'thunder', name: 'Thunder', icon: '⚡' },
+  { id: 'steel', name: 'Steel', icon: '⚙️' },
+  { id: 'wind', name: 'Wind', icon: '🌪️' },
+  { id: 'wood', name: 'Wood', icon: '🌳' },
+  { id: 'earth', name: 'Earth', icon: '🪨' },
+  { id: 'light', name: 'Light', icon: '✨' },
+  { id: 'darkness', name: 'Darkness', icon: '🌑' },
+  { id: 'neutral', name: 'Neutral', icon: '⚪' },
+];
+
+export const FAMILIES = [
+  { id: 'dr', name: 'Dragon\'s Roar', short: 'DR' },
+  { id: 'nsp', name: 'Nature Spirits', short: 'NSp' },
+  { id: 'wg', name: 'Wind Guardians', short: 'WG' },
+  { id: 'me', name: 'Metal Empire', short: 'ME' },
+  { id: 'vb', name: 'Virus Busters', short: 'VB' },
+  { id: 'jt', name: 'Jungle Troopers', short: 'JT' },
+  { id: 'ds', name: 'Deep Savers', short: 'DS' },
+  { id: 'nso', name: 'Nightmare Soldiers', short: 'NSo' },
+  { id: 'uk', name: 'Unknown', short: 'UK' },
+  { id: 'vi', name: 'Virus', short: 'VI' },
+  { id: 'sa', name: 'Sweet Area', short: 'SA' },
+];
+
 export const RANKS = ['A', 'A+', 'S', 'S+', 'SS', 'SS+', 'SSS', 'SSS+', 'U'];
 
 export const DIGIVICES = [

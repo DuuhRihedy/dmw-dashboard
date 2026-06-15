@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { CLASSES, ATTRIBUTES, RANKS } from '../data/gameData';
+import { CLASSES, ATTRIBUTES, RANKS, ELEMENTS, FAMILIES } from '../data/gameData';
 
 function DigimonModal({ digimon, onSave, onClose }) {
   const isEdit = !!digimon;
@@ -8,13 +8,28 @@ function DigimonModal({ digimon, onSave, onClose }) {
     rank: digimon?.rank || 'SSS',
     class: digimon?.class || 'sk',
     attribute: digimon?.attribute || 'vaccine',
+    element: digimon?.element || 'neutral',
     level: digimon?.level || 1,
+    scale: digimon?.scale || 100,
     cloneStatus: digimon?.cloneStatus || 'none',
     transcendence: digimon?.transcendence || 0,
+    families: digimon?.families || [],
+    stats: digimon?.stats || { hp: '', ds: '', at: '', as: '', ct: '', cd: '', ht: '', de: '', bl: '', ev: '', sk: '' },
     notes: digimon?.notes || '',
   });
 
+  const [showAdvanced, setShowAdvanced] = useState(false);
+
   const set = (k, v) => setForm(f => ({ ...f, [k]: v }));
+  const setStat = (k, v) => setForm(f => ({ ...f, stats: { ...f.stats, [k]: v } }));
+  const toggleFamily = (id) => {
+    setForm(f => {
+      const fams = f.families || [];
+      return { ...f, families: fams.includes(id) ? fams.filter(x => x !== id) : [...fams, id] };
+    });
+  };
+
+
 
   return (
     <div className="modal-overlay" onClick={(e) => e.target === e.currentTarget && onClose()}>
@@ -46,8 +61,20 @@ function DigimonModal({ digimon, onSave, onClose }) {
             </select>
           </div>
           <div className="form-group">
+            <label className="form-label">Elemento</label>
+            <select className="form-select" value={form.element} onChange={e => set('element', e.target.value)}>
+              {ELEMENTS.map(a => <option key={a.id} value={a.id}>{a.icon} {a.name}</option>)}
+            </select>
+          </div>
+        </div>
+        <div className="form-row">
+          <div className="form-group">
             <label className="form-label">Level</label>
-            <input type="number" className="form-input" min="1" max="120" value={form.level} onChange={e => set('level', +e.target.value)} />
+            <input type="number" className="form-input" min="1" max="140" value={form.level} onChange={e => set('level', +e.target.value)} />
+          </div>
+          <div className="form-group">
+            <label className="form-label">Tamanho (Scale %)</label>
+            <input type="number" className="form-input" min="100" max="140" step="0.01" value={form.scale} onChange={e => set('scale', e.target.value ? +e.target.value : '')} placeholder="ex: 139.18" />
           </div>
         </div>
         <div className="form-row">
@@ -63,6 +90,31 @@ function DigimonModal({ digimon, onSave, onClose }) {
             <label className="form-label">Transcendence</label>
             <input type="number" className="form-input" min="0" max="10" value={form.transcendence} onChange={e => set('transcendence', +e.target.value)} />
           </div>
+        </div>
+        <div className="form-group">
+          <label className="form-label">Famílias</label>
+          <div className="families-grid">
+            {FAMILIES.map(fam => (
+              <button key={fam.id} type="button" className={`family-btn ${form.families.includes(fam.id) ? 'active' : ''}`} onClick={() => toggleFamily(fam.id)}>
+                {fam.short}
+              </button>
+            ))}
+          </div>
+        </div>
+        <div className="form-group">
+          <button type="button" className="btn btn-outline" style={{ width: '100%' }} onClick={() => setShowAdvanced(!showAdvanced)}>
+            {showAdvanced ? 'Ocultar Status Avançados 📊' : 'Mostrar Status Avançados 📊'}
+          </button>
+          {showAdvanced && (
+            <div className="advanced-stats-grid">
+              {['hp', 'ds', 'at', 'as', 'ct', 'cd', 'ht', 'de', 'bl', 'ev', 'sk'].map(st => (
+                <div key={st} className="form-group">
+                  <label className="form-label" style={{ fontSize: '0.7rem' }}>{st.toUpperCase()}</label>
+                  <input type={st === 'as' ? 'number' : 'text'} step={st === 'as' ? '0.01' : '1'} className="form-input" style={{ padding: '4px', fontSize: '0.8rem' }} value={form.stats[st] || ''} onChange={e => setStat(st, e.target.value)} />
+                </div>
+              ))}
+            </div>
+          )}
         </div>
         <div className="form-group">
           <label className="form-label">Notas</label>
@@ -113,12 +165,23 @@ export default function Digimons({ tamer, addDigimon, updateDigimon, deleteDigim
             const attr = ATTRIBUTES.find(a => a.id === d.attribute);
             return (
               <div className="digi-card" key={d.id}>
-                <div className="digi-name">{d.name}</div>
+                <div className="digi-name">{d.name} <span style={{fontSize: '0.8rem', color: '#888', fontWeight: 'normal'}}>Lv.{d.level} ({d.scale || 100}%)</span></div>
                 <div className="digi-meta">
                   <span className="digi-tag tag-rank">{d.rank}</span>
                   <span className="digi-tag tag-class">{cls?.icon || '?'}</span>
                   <span className="digi-tag tag-attr">{attr?.short || '?'}</span>
+                  {d.element && d.element !== 'neutral' && (
+                    <span className="digi-tag" style={{background: '#1f2937', color: '#e5e7eb'}}>{ELEMENTS.find(e => e.id === d.element)?.icon}</span>
+                  )}
                 </div>
+                {(d.families && d.families.length > 0) && (
+                  <div style={{ display: 'flex', gap: '4px', marginTop: '6px', flexWrap: 'wrap' }}>
+                    {d.families.map(fid => {
+                      const f = FAMILIES.find(x => x.id === fid);
+                      return f ? <span key={fid} style={{fontSize: '0.65rem', background: '#3b82f6', color: 'white', padding: '2px 6px', borderRadius: '4px'}}>{f.short}</span> : null;
+                    })}
+                  </div>
+                )}
                 <div className="digi-stats">
                   <div><span className="stat-label-sm">Level</span><div className="stat-val">{d.level}</div></div>
                   <div><span className="stat-label-sm">Clone</span><div className="stat-val">{d.cloneStatus || '—'}</div></div>

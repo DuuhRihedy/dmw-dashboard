@@ -280,7 +280,8 @@
         "name": "X-Antibody - CORE",
         "qty": 3
       }
-    ]
+    ],
+    "itemType": "Bracelet"
   },
   {
     "name": "Sealed [Knight's Bracelet]",
@@ -295,7 +296,8 @@
         "name": "X-Antibody - CORE",
         "qty": 5
       }
-    ]
+    ],
+    "itemType": "Bracelet"
   },
   {
     "name": "Sealed [Radiant Knight's Bracelet]",
@@ -310,7 +312,8 @@
         "name": "X-Antibody - CORE",
         "qty": 8
       }
-    ]
+    ],
+    "itemType": "Bracelet"
   },
   {
     "name": "Sealed [Royal: Knight's Bracelet]",
@@ -329,7 +332,8 @@
         "name": "Dexmon's Memory",
         "qty": 1
       }
-    ]
+    ],
+    "itemType": "Bracelet"
   },
   {
     "name": "Sealed [Royal&#160;: Radiant Knight's Bracelet]",
@@ -348,7 +352,8 @@
         "name": "Dexmon's Memory",
         "qty": 5
       }
-    ]
+    ],
+    "itemType": "Bracelet"
   },
   {
     "name": "Sealed [Royal&#160;: X-Knight's Bracelet]",
@@ -371,7 +376,8 @@
         "name": "Yggdrasil's Records",
         "qty": 1
       }
-    ]
+    ],
+    "itemType": "Bracelet"
   },
   {
     "name": "Sealed [Royal&#160;: Yggdrasil Bracelet]",
@@ -390,7 +396,8 @@
         "name": "Yggdrasil Core",
         "qty": 50
       }
-    ]
+    ],
+    "itemType": "Bracelet"
   },
   {
     "name": "Sealed [Royal&#160;: Yggdrasil Bracelet]",
@@ -413,7 +420,8 @@
         "name": "Yggdrasil Core",
         "qty": 30
       }
-    ]
+    ],
+    "itemType": "Bracelet"
   },
   {
     "name": "X-Antibody - DATA x5",

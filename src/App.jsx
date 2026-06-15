@@ -119,6 +119,13 @@ export default function App() {
               console.error('Logout error:', err);
             }
             localStorage.clear();
+            // Clear any cookies that might hold the session
+            document.cookie.split(";").forEach((c) => {
+              document.cookie = c
+                .replace(/^ +/, "")
+                .replace(/=.*/, "=;expires=" + new Date().toUTCString() + ";path=/");
+            });
+            // Force a hard reload to the login page
             window.location.href = '/login';
           }} className="w-full text-left text-red-400 hover:text-red-300 mt-4 px-2 py-1 flex items-center gap-2 text-sm transition-colors cursor-pointer">
             🚪 Sair / Logout

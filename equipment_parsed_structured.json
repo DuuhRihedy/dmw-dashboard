@@ -1,0 +1,6070 @@
+{
+  "Digivices": {
+    "_root": [
+      {
+        "name": "102-Blue-BT",
+        "rawCells": [
+          "",
+          "102-Blue-BT",
+          "3 chipsets slots",
+          "",
+          "Obtainable from Qinglongmon (Raid) Box."
+        ]
+      },
+      {
+        "name": "Advanced 102-Blue-BT",
+        "rawCells": [
+          "",
+          "Advanced 102-Blue-BT",
+          "3 chipsets slots",
+          "random bonus stat equivalent to R11 chipset between HP, DS, AT, or DE",
+          "Obtainable from Fanglongmon (Raid)"
+        ]
+      },
+      {
+        "name": "103-Purple-BT",
+        "rawCells": [
+          "",
+          "103-Purple-BT",
+          "4 chipsets slots",
+          "",
+          "Obtainable from Qinglongmon (Raid) Box or events or for 15 Seasonal Colosseum Vouchers."
+        ]
+      },
+      {
+        "name": "Digivice of Beginning Lv 0",
+        "rawCells": [
+          "",
+          "Digivice of Beginning Lv 0",
+          "3 chipsets slots",
+          "",
+          "A main quest at Minato City"
+        ]
+      },
+      {
+        "name": "Digivice of Beginning Lv 1",
+        "rawCells": [
+          "",
+          "Digivice of Beginning Lv 1",
+          "3 chipsets slots",
+          "Attack +133~152",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Beginning Lv 2",
+        "rawCells": [
+          "",
+          "Digivice of Beginning Lv 2",
+          "3 chipsets slots",
+          "2 options",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Adventure Lv 0",
+        "rawCells": [
+          "",
+          "Digivice of Adventure Lv 0",
+          "4 chipsets slots",
+          "",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Adventure Lv 1",
+        "rawCells": [
+          "",
+          "Digivice of Adventure Lv 1",
+          "4 chipsets slots",
+          "Attack +153~168",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Adventure Lv 2",
+        "rawCells": [
+          "",
+          "Digivice of Adventure Lv 2",
+          "4 chipsets slots",
+          "2 options",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "True Digivice",
+        "rawCells": [
+          "",
+          "True Digivice",
+          "Box",
+          "Right click to obtain a random Crest Digivice",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Courage",
+        "rawCells": [
+          "",
+          "Digivice of Courage",
+          "4 chipsets slots",
+          "2 options, Crest of Courage",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Friendship",
+        "rawCells": [
+          "",
+          "Digivice of Friendship",
+          "4 chipsets slots",
+          "2 options, Crest of Friendship",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Love",
+        "rawCells": [
+          "",
+          "Digivice of Love",
+          "4 chipsets slots,",
+          "2 options, Crest of Love",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Purity",
+        "rawCells": [
+          "",
+          "Digivice of Purity",
+          "4 chipsets slots",
+          "2 options, Crest of Purity",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Knowledge",
+        "rawCells": [
+          "",
+          "Digivice of Knowledge",
+          "4 chipsets slots",
+          "2 options, Crest of Knowledge",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Sincerity",
+        "rawCells": [
+          "",
+          "Digivice of Sincerity",
+          "4 chipsets slots",
+          "2 options, Crest of Sincerity",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Hope",
+        "rawCells": [
+          "",
+          "Digivice of Hope",
+          "4 chipsets slots",
+          "2 options, Crest of Hope",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Light",
+        "rawCells": [
+          "",
+          "Digivice of Light",
+          "4 chipsets slots",
+          "2 options, Crest of Light",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Kindness",
+        "rawCells": [
+          "",
+          "Digivice of Kindness",
+          "4 chipsets slots",
+          "2 options, Crest of Kindness",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Fate",
+        "rawCells": [
+          "",
+          "Digivice of Fate",
+          "4 chipsets slots",
+          "2 options, Crest of Fate",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Miracles",
+        "rawCells": [
+          "",
+          "Digivice of Miracles",
+          "4 chipsets slots",
+          "2 options, Crest of Miracles",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "True Digivice (Advanced)",
+        "rawCells": [
+          "",
+          "True Digivice (Advanced)",
+          "Box",
+          "Right click to obtain a random Crest Digivice",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Courage (Advanced)",
+        "rawCells": [
+          "",
+          "Digivice of Courage (Advanced)",
+          "5 chipsets slots",
+          "3 options, Crest of Courage",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Friendship (Advanced)",
+        "rawCells": [
+          "",
+          "Digivice of Friendship (Advanced)",
+          "5 chipsets slots",
+          "3 options, Crest of Friendship",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Love (Advanced)",
+        "rawCells": [
+          "",
+          "Digivice of Love (Advanced)",
+          "5 chipsets slots,",
+          "3 options, Crest of Love",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Purity (Advanced)",
+        "rawCells": [
+          "",
+          "Digivice of Purity (Advanced)",
+          "5 chipsets slots",
+          "3 options, Crest of Purity",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Knowledge (Advanced)",
+        "rawCells": [
+          "",
+          "Digivice of Knowledge (Advanced)",
+          "5 chipsets slots",
+          "3 options, Crest of Knowledge",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Sincerity (Advanced)",
+        "rawCells": [
+          "",
+          "Digivice of Sincerity (Advanced)",
+          "5 chipsets slots",
+          "3 options, Crest of Sincerity",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Hope (Advanced)",
+        "rawCells": [
+          "",
+          "Digivice of Hope (Advanced)",
+          "5 chipsets slots",
+          "3 options, Crest of Hope",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Light (Advanced)",
+        "rawCells": [
+          "",
+          "Digivice of Light (Advanced)",
+          "5 chipsets slots",
+          "3 options, Crest of Light",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Kindness (Advanced)",
+        "rawCells": [
+          "",
+          "Digivice of Kindness (Advanced)",
+          "5 chipsets slots",
+          "3 options, Crest of Kindness",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Fate (Advanced)",
+        "rawCells": [
+          "",
+          "Digivice of Fate (Advanced)",
+          "5 chipsets slots",
+          "3 options, Crest of Fate",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "Digivice of Miracles (Advanced)",
+        "rawCells": [
+          "",
+          "Digivice of Miracles (Advanced)",
+          "5 chipsets slots",
+          "3 options, Crest of Miracles",
+          "Nanomon (Item Craft)"
+        ]
+      },
+      {
+        "name": "103-OT-Blue Digivice",
+        "rawCells": [
+          "",
+          "103-OT-Blue Digivice",
+          "4 chipsets slots",
+          "2 options",
+          "Events"
+        ]
+      },
+      {
+        "name": "103-OT-Orange Digivice",
+        "rawCells": [
+          "",
+          "103-OT-Orange Digivice",
+          "4 chipsets slots",
+          "2 options",
+          "Event Cash gamble box"
+        ]
+      },
+      {
+        "name": "103-OT-Purple Digivice",
+        "rawCells": [
+          "",
+          "103-OT-Purple Digivice",
+          "4 chipsets slots",
+          "2 options",
+          "Event Cash gamble box"
+        ]
+      },
+      {
+        "name": "DMW Digivice",
+        "rawCells": [
+          "",
+          "DMW Digivice",
+          "2 chipsets slots",
+          "+250 DE, +250 AT, +250 HP",
+          "Obtained from  Jijimon in DMW Village"
+        ]
+      },
+      {
+        "name": "D-Ark Version 1",
+        "rawCells": [
+          "",
+          "D-Ark Version 1",
+          "3 chipsets slots",
+          "+200 AT, +1300 HP, 4% Critical Damage",
+          "Infinite Mountain Dungeon 2.0, Finishing Shinjuku questline"
+        ]
+      },
+      {
+        "name": "D-Ark Version 2",
+        "rawCells": [
+          "",
+          "D-Ark Version 2",
+          "3 chipsets slots",
+          "+300 AT, +1800 HP, 6% Critical Damage",
+          "Crafted from  Jijimon in DMW Village"
+        ]
+      },
+      {
+        "name": "D-Ark Version 3",
+        "rawCells": [
+          "",
+          "D-Ark Version 3",
+          "3 chipsets slots",
+          "+400 AT, +2400 HP, 8% Critical Damage",
+          "Crafted from  Jijimon in DMW Village"
+        ]
+      },
+      {
+        "name": "D-Ark Version 4",
+        "rawCells": [
+          "",
+          "D-Ark Version 4",
+          "3 chipsets slots",
+          "+650 AT, +3000 HP, 14% Critical Damage",
+          "Crafted from  Jijimon in DMW Village"
+        ]
+      },
+      {
+        "name": "D-Ark Version 5",
+        "rawCells": [
+          "",
+          "D-Ark Version 5",
+          "4 chipsets slots",
+          "+1000 AT, +3600 HP, 20% Critical Damage",
+          "Crafted from  Jijimon in DMW Village"
+        ]
+      },
+      {
+        "name": "Digizoid D-Ark",
+        "rawCells": [
+          "",
+          "Digizoid D-Ark",
+          "4 chipsets slots",
+          "+4500 HP, +600 DE, +400 AT",
+          "Crafted from  Takato in Dats"
+        ]
+      },
+      {
+        "name": "Rage D-Ark",
+        "rawCells": [
+          "",
+          "Rage D-Ark",
+          "4 chipsets slots",
+          "+1800 HP, +1600 AT, +25% Critical Damage",
+          "Crafted from  Takato in Dats"
+        ]
+      },
+      {
+        "name": "ChromeDigizoid D-Ark",
+        "rawCells": [
+          "",
+          "ChromeDigizoid D-Ark",
+          "5 chipsets slots",
+          "+80% HP, +60% DE",
+          "Crafted from  Takato in Dats"
+        ]
+      },
+      {
+        "name": "Uncontrollable Rage D-Ark",
+        "rawCells": [
+          "",
+          "Uncontrollable Rage D-Ark",
+          "5 chipsets slots",
+          "-200% DE, +60% AT, +40% Critical Damage",
+          "Crafted from  Takato in Dats"
+        ]
+      },
+      {
+        "name": "Royal Digivice",
+        "rawCells": [
+          "",
+          "Royal Digivice",
+          "3 chipsets slots",
+          "4 options",
+          "Obtained from Royal Knight's Dominion Daily Reward box."
+        ]
+      },
+      {
+        "name": "Void DigiVice [AA]",
+        "rawCells": [
+          "",
+          "Void DigiVice [AA]",
+          "6 chipsets slots",
+          "Attack +80%, Critical Damage +60.00%",
+          "Crafted from Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Void DigiVice [SK]",
+        "rawCells": [
+          "",
+          "Void DigiVice [SK]",
+          "6 chipsets slots",
+          "Data Attribute +85.00%, Vaccine Attribute +85.00%, Virus Attribute +85.00%, Unknown Attribute +85.00%",
+          "Crafted from Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Void DigiVice [TA]",
+        "rawCells": [
+          "",
+          "Void DigiVice [TA]",
+          "6 chipsets slots",
+          "MaxHP +120.00%, Defense +80.00%",
+          "Crafted from Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Digivice of Friendship Aura",
+        "rawCells": [
+          "Digivice of Courage Aura",
+          "Digivice of Friendship Aura",
+          "Digivice of Love Aura",
+          "Digivice of Purity Aura",
+          "Digivice of Knowledge Aura",
+          "Digivice of Sincerity Aura",
+          "Digivice of Kindness Aura"
+        ]
+      },
+      {
+        "name": "Digivice of Light Aura",
+        "rawCells": [
+          "Digivice of Hope Aura",
+          "Digivice of Light Aura",
+          "Digivice of Fate Aura",
+          "Digivice of Miracle Aura",
+          "103-OT Digivice (Orange) Aura",
+          "103-OT Digivice (Purple) Aura",
+          "103-Blue-OT Aura"
+        ]
+      },
+      {
+        "name": "D-Ark V2 Aura",
+        "rawCells": [
+          "D-Ark V1 Aura",
+          "D-Ark V2 Aura",
+          "D-Ark V3 Aura",
+          "D-Ark V4 Aura",
+          "D-Ark V5 Aura"
+        ]
+      },
+      {
+        "name": "Digizoid/ChromeDigizoid D-Ark",
+        "rawCells": [
+          "Rage/Uncontrollable Rage D-Ark",
+          "Digizoid/ChromeDigizoid D-Ark"
+        ]
+      }
+    ]
+  },
+  "Spiral KeyRing": {
+    "_root": [
+      {
+        "name": "Spiral KeyRing [AA] Lv.1",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [AA] Lv.1",
+          "Attack +3%, Critical Damage +5%, Critical Hit +5%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [AA] Lv.2",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [AA] Lv.2",
+          "Attack +4%, Critical Damage +7.50%, Critical Hit +7%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [AA] Lv.3",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [AA] Lv.3",
+          "Attack +5%, Critical Damage +10%, Critical Hit +10%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [AA] Lv.4",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [AA] Lv.4",
+          "Attack +6%, Critical Damage +15%, Critical Hit +15%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [AA] Lv.5",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [AA] Lv.5",
+          "Attack +7%, Critical Damage +20%, Critical Hit +20%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [AA] Lv.6",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [AA] Lv.6",
+          "Attack +8%, Critical Damage +25%, Critical Hit +25%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [AA] Lv.7",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [AA] Lv.7",
+          "Attack +9%, Critical Damage +30%, Critical Hit +30%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [AA] Lv.8",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [AA] Lv.8",
+          "Attack +12%, Critical Damage +35%, Critical Hit +35%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [AA] Lv.9",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [AA] Lv.9",
+          "Attack +15%, Critical Damage +40%, Critical Hit +40%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [AA] Lv.10",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [AA] Lv.10",
+          "Attack +20%, Critical Damage +50%, Critical Hit +50%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [SK] Lv.1",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [SK] Lv.1",
+          "MaxDS +500, Skill +2%, Basic Attribute +1%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [SK] Lv.2",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [SK] Lv.2",
+          "MaxDS +700, Skill +4%, Basic Attribute +2%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [SK] Lv.3",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [SK] Lv.3",
+          "MaxDS +900, Skill +6%, Basic Attribute +3%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [SK] Lv.4",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [SK] Lv.4",
+          "MaxDS +1100, Skill +8%, Basic Attribute +4%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [SK] Lv.5",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [SK] Lv.5",
+          "MaxDS +1300, Skill +10%, Basic Attribute +5%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [SK] Lv.6",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [SK] Lv.6",
+          "MaxDS +1500, Skill +12%, Basic Attribute +6%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [SK] Lv.7",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [SK] Lv.7",
+          "MaxDS +1750, Skill +14%, Basic Attribute +7%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [SK] Lv.8",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [SK] Lv.8",
+          "MaxDS +2000, Skill +16%, Basic Attribute +8%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [SK] Lv.9",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [SK] Lv.9",
+          "MaxDS +2250, Skill +18%, Basic Attribute +9%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [SK] Lv.10",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [SK] Lv.10",
+          "MaxDS +2500, Skill +25%, Basic Attribute +10%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [TANK] Lv.1",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [TANK] Lv.1",
+          "MaxHP +5%, Defense +5%, Block +1%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [TANK] Lv.2",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [TANK] Lv.2",
+          "MaxHP +8%, Defense +8%, Block +2%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [TANK] Lv.3",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [TANK] Lv.3",
+          "MaxHP +10%, Defense +10%, Block +3%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [TANK] Lv.4",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [TANK] Lv.4",
+          "MaxHP +12%, Defense +12%, Block +4%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [TANK] Lv.5",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [TANK] Lv.5",
+          "MaxHP +15%, Defense +15%, Block +5%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [TANK] Lv.6",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [TANK] Lv.6",
+          "MaxHP +18%, Defense +18%, Block +6%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [TANK] Lv.7",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [TANK] Lv.7",
+          "MaxHP +20%, Defense +20%, Block +7%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [TANK] Lv.8",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [TANK] Lv.8",
+          "MaxHP +22%, Defense +22%, Block +8%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [TANK] Lv.9",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [TANK] Lv.9",
+          "MaxHP +25%, Defense +25%, Block +9%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Spiral KeyRing [TANK] Lv.10",
+        "rawCells": [
+          "",
+          "Spiral KeyRing [TANK] Lv.10",
+          "MaxHP +30%, Defense +30%, Block +10%",
+          "From Taichi (Spiral Mountain)"
+        ]
+      }
+    ]
+  },
+  "Clothing": {
+    "Head": [
+      {
+        "name": "Soulmon / Halloween Hat",
+        "rawCells": [
+          "",
+          "Soulmon / Halloween Hat",
+          "115%",
+          "1",
+          "EXP +100%",
+          "Event",
+          "✅ / ❌"
+        ]
+      },
+      {
+        "name": "Xuanwumon's Aquatic Ornament",
+        "rawCells": [
+          "",
+          "Xuanwumon's Aquatic Ornament",
+          "120%",
+          "2",
+          "Attack +50, EXP +50%",
+          "From  MegaSeadramon (Raid) in Scar of Water Crystal (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Zhuqiaomon's Infernal Ornament",
+        "rawCells": [
+          "",
+          "Zhuqiaomon's Infernal Ornament",
+          "120%",
+          "2",
+          "Attack +100, EXP +200%",
+          "From  Birdramon (Raid) in Uprising Flame (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Baihumon's Flawless Ornament",
+        "rawCells": [
+          "",
+          "Baihumon's Flawless Ornament",
+          "120%",
+          "2",
+          "Attack +50, EXP +50%",
+          "From  Sinduramon (Raid) in Trace of Black Steel (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Qinglongmon's Lightning Ornament",
+        "rawCells": [
+          "",
+          "Qinglongmon's Lightning Ornament",
+          "120%",
+          "2",
+          "Attack +50, EXP +50%",
+          "From  Antylamon (Raid) Box in Descending Thunder God (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Pumpkinmon's Mask",
+        "rawCells": [
+          "",
+          "Pumpkinmon's Mask",
+          "100%",
+          "2",
+          "Attack +50, EXP +100%",
+          "Halloween Package from the Lv-Up Reward Box",
+          "✅"
+        ]
+      },
+      {
+        "name": "Spooky Pumpkinmon's Mask",
+        "rawCells": [
+          "",
+          "Spooky Pumpkinmon's Mask",
+          "100%",
+          "2",
+          "Attack +200, EXP +300%",
+          "Event / Cash Shop",
+          "✅ / ❌"
+        ]
+      },
+      {
+        "name": "Swimming Gears - Goggle",
+        "rawCells": [
+          "",
+          "Swimming Gears - Goggle",
+          "100%",
+          "2",
+          "Attack +200, EXP +300%",
+          "Event / Cash Shop",
+          "✅"
+        ]
+      },
+      {
+        "name": "Warrior Ornament",
+        "rawCells": [
+          "",
+          "Warrior Ornament",
+          "120%",
+          "2",
+          "Attack +150, Hit Rate +200, Critical +5%",
+          "Obtained from Vajramon Dungeon (Hard).",
+          "❌"
+        ]
+      },
+      {
+        "name": "Warrior Ornament [Shining]",
+        "rawCells": [
+          "",
+          "Warrior Ornament [Shining]",
+          "150%",
+          "3",
+          "Attack +150, Hit Rate +200, Critical Hit +5%",
+          "Obtained from Vajramon Dungeon (Hard).",
+          "✅"
+        ]
+      },
+      {
+        "name": "Futuristic Battle Optics [30 days]",
+        "rawCells": [
+          "",
+          "Futuristic Battle Optics [30 days]",
+          "120%",
+          "2",
+          "EXP +250% Tamer HP +600",
+          "From  Seraphimon NPC in DATS for  100 White Digizoid Tokens",
+          "✅"
+        ]
+      },
+      {
+        "name": "Starmon's Ornament",
+        "rawCells": [
+          "",
+          "Starmon's Ornament",
+          "150%",
+          "3",
+          "Skill Damage +7%, HP +1000",
+          "Obtained from Greenzone (Nightsky).",
+          "✅"
+        ]
+      },
+      {
+        "name": "Digital Hazard Cap",
+        "rawCells": [
+          "",
+          "Digital Hazard Cap",
+          "150%",
+          "3",
+          "Max HP +1500, Defense +600",
+          "Obtained from Burning Battle Field.",
+          "✅"
+        ]
+      },
+      {
+        "name": "Back To School [Formal Hat]",
+        "rawCells": [
+          "",
+          "Back To School [Formal Hat]",
+          "100%",
+          "2",
+          "Skill Damage +5%, HP +1000",
+          "Event / Cash Shop",
+          "❌"
+        ]
+      }
+    ],
+    "Fashion": [
+      {
+        "name": "Headphones",
+        "rawCells": [
+          "",
+          "Headphones",
+          "100%",
+          "1",
+          "EXP +50%",
+          "Buy from  Sora's mom NPC in Yokohama Village",
+          "❌"
+        ]
+      },
+      {
+        "name": "Rare Coin Cape",
+        "rawCells": [
+          "",
+          "Rare Coin Cape",
+          "120%",
+          "2",
+          "MaxHP +500, Hit Rate +500, Critical +10%",
+          "Obtained Rare Machine",
+          "✅"
+        ]
+      },
+      {
+        "name": "Xuanwumon's Aquatic Cape",
+        "rawCells": [
+          "",
+          "Xuanwumon's Aquatic Cape",
+          "120%",
+          "2",
+          "Skill Damage +5%",
+          "From  MarineDevimon (Raid) in Scar of Water Crystal (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Zhuqiaomon's Infernal Cape",
+        "rawCells": [
+          "",
+          "Zhuqiaomon's Infernal Cape",
+          "120%",
+          "2",
+          "Skill Damage +5%",
+          "From  Garudamon (Raid) in Uprising Flame (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Baihumon's Flawless Cape",
+        "rawCells": [
+          "",
+          "Baihumon's Flawless Cape",
+          "120%",
+          "2",
+          "Skill Damage +5%",
+          "From  Sinduramon (Raid) in Trace of Black Steel (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Qinglongmon's Lightning Cape",
+        "rawCells": [
+          "",
+          "Qinglongmon's Lightning Cape",
+          "120%",
+          "2",
+          "Skill Damage +7%",
+          "From  Qinglongmon (Raid) Box in Descending Thunder God (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Agumon Ornament [30 days]",
+        "rawCells": [
+          "",
+          "Agumon Ornament [30 days]",
+          "100%",
+          "2",
+          "Attack +100, EXP +200%",
+          "Obtained from Adventure Agumon Costume Set [30D] bought from cash shop during events.",
+          "✅ / ❌"
+        ]
+      },
+      {
+        "name": "Swimming Gears - Tube",
+        "rawCells": [
+          "",
+          "Swimming Gears - Tube",
+          "100%",
+          "2",
+          "Attack +400, EXP +300%",
+          "Event / Cash Shop",
+          "✅"
+        ]
+      },
+      {
+        "name": "Shoutmon's Cape",
+        "rawCells": [
+          "",
+          "Shoutmon's Cape",
+          "150%",
+          "3",
+          "Skill Damage +10%, DS +1000",
+          "Obtained from Greenzone (Nightsky).",
+          "✅"
+        ]
+      },
+      {
+        "name": "Digital Hazard Cape",
+        "rawCells": [
+          "",
+          "Digital Hazard Cape",
+          "150%",
+          "3",
+          "Max HP +1200, Defense +500",
+          "Obtained from Burning Battle Field.",
+          "✅"
+        ]
+      },
+      {
+        "name": "Back To School [Formal Bouquet]",
+        "rawCells": [
+          "",
+          "Back To School [Formal Bouquet]",
+          "100%",
+          "2",
+          "Skill Damage +7%, DS +1500",
+          "Event / Cash Shop",
+          "❌"
+        ]
+      }
+    ],
+    "Top": [
+      {
+        "name": "T-Shirts",
+        "rawCells": [
+          "",
+          "T-Shirts",
+          "55%",
+          "1",
+          "None",
+          "Buy from  Sora's mom NPC in Yokohama Village / Scan from High Class DigiEggs",
+          "❌"
+        ]
+      },
+      {
+        "name": "Xuanwumon's Aquatic Hooded Shirt",
+        "rawCells": [
+          "",
+          "Xuanwumon's Aquatic Hooded Shirt",
+          "120%",
+          "3",
+          "Tamer HP +1200",
+          "From  Xuanwumon (Raid) in Scar of Water Crystal (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Zhuqiamon's Infernal Hooded Shirt",
+        "rawCells": [
+          "",
+          "Zhuqiamon's Infernal Hooded Shirt",
+          "120%",
+          "3",
+          "Tamer HP +900",
+          "From  Zhuqiaomon (Raid) in Uprising Flame (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Baihumon's Flawless Hooded Shirt",
+        "rawCells": [
+          "",
+          "Baihumon's Flawless Hooded Shirt",
+          "120%",
+          "3",
+          "Tamer HP +1100",
+          "From  Blossomon (Raid) in Trace of Black Steel (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Qinglongmon's Lightning Hooded Shirt",
+        "rawCells": [
+          "",
+          "Qinglongmon's Lightning Hooded Shirt",
+          "120%",
+          "3",
+          "Tamer HP +900",
+          "From  Qinglongmon (Raid) Box in Descending Thunder God (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Soulmon's Robe",
+        "rawCells": [
+          "",
+          "Soulmon's Robe",
+          "100%",
+          "2",
+          "Attack +50, Tamer HP +1000",
+          "Halloween Package from the Lv-Up Reward Box",
+          "✅"
+        ]
+      },
+      {
+        "name": "Spooky Soulmon's Robe [30 days]",
+        "rawCells": [
+          "",
+          "Spooky Soulmon's Robe [30 days]",
+          "100%",
+          "2",
+          "Skill Damage 10%, Tamer HP +1000",
+          "Event / Cash Shop",
+          "✅ / ❌"
+        ]
+      },
+      {
+        "name": "Agumon Top",
+        "rawCells": [
+          "",
+          "Agumon Top",
+          "100%",
+          "2",
+          "Skill Damage 10%, Tamer HP +700",
+          "Event / Cash Shop",
+          "✅ / ❌"
+        ]
+      },
+      {
+        "name": "Swimming Gears - Life Vest",
+        "rawCells": [
+          "",
+          "Swimming Gears - Life Vest",
+          "100%",
+          "2",
+          "Skill Damage 12%, Tamer HP +300",
+          "Event / Cash Shop",
+          "✅"
+        ]
+      },
+      {
+        "name": "Rare Coin Top",
+        "rawCells": [
+          "",
+          "Rare Coin Top",
+          "100%",
+          "3",
+          "Skill Damage +12%, MaxHP +1000, MaxDS +200",
+          "Obtained Rare Machine",
+          "✅"
+        ]
+      },
+      {
+        "name": "Warrior Top",
+        "rawCells": [
+          "",
+          "Warrior Top",
+          "150%",
+          "2",
+          "Attack +250, HP +1500",
+          "Obtained from Vajramon Dungeon (Hard).",
+          "❌"
+        ]
+      },
+      {
+        "name": "Warrior Top [Shining]",
+        "rawCells": [
+          "",
+          "Warrior Top [Shining]",
+          "150%",
+          "3",
+          "Attack +250, HP +1500",
+          "Obtained from Vajramon Dungeon (Hard).",
+          "✅"
+        ]
+      },
+      {
+        "name": "Futuristic Battle Suit Top [30 days]",
+        "rawCells": [
+          "",
+          "Futuristic Battle Suit Top [30 days]",
+          "120%",
+          "3",
+          "EXP + 250%, Tamer HP +1200",
+          "From  Seraphimon NPC in DATS for  150 White Digizoid Tokens",
+          "✅"
+        ]
+      },
+      {
+        "name": "Digital Hazard Shirt",
+        "rawCells": [
+          "",
+          "Digital Hazard Shirt",
+          "150%",
+          "3",
+          "Max HP +1600, Defense +600",
+          "Obtained from Burning Battle Field.",
+          "✅"
+        ]
+      },
+      {
+        "name": "Back To School [Formal Robe]",
+        "rawCells": [
+          "",
+          "Back To School [Formal Robe]",
+          "100%",
+          "2",
+          "Skill Damage +12%, HP +1500",
+          "Event / Cash Shop",
+          "❌"
+        ]
+      }
+    ],
+    "Bottom": [
+      {
+        "name": "Pants",
+        "rawCells": [
+          "",
+          "Pants",
+          "55%",
+          "2",
+          "None",
+          "Buy from  Sora's mom NPC in Yokohama Village",
+          "❌"
+        ]
+      },
+      {
+        "name": "Xuanwumon's Aquatic Short Pants",
+        "rawCells": [
+          "",
+          "Xuanwumon's Aquatic Short Pants",
+          "120%",
+          "3",
+          "Tamer DS +1100",
+          "From  MarineDevimon (Raid) in Scar of Water Crystal (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Zhuqiamon's Infernal Short Pants",
+        "rawCells": [
+          "",
+          "Zhuqiamon's Infernal Short Pants",
+          "120%",
+          "3",
+          "Tamer DS +1100",
+          "From  Zhuqiaomon (Raid) in Uprising Flame (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Baihumon's Flawless Short Pants",
+        "rawCells": [
+          "",
+          "Baihumon's Flawless Short Pants",
+          "120%",
+          "3",
+          "Tamer DS +1100",
+          "From  Blossomon (Raid) in Trace of Black Steel (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Qinglongmon's Lightning Short Pants",
+        "rawCells": [
+          "",
+          "Qinglongmon's Lightning Short Pants",
+          "120%",
+          "3",
+          "Tamer DS +1100",
+          "From  Mihiramon (Raid) Box in Descending Thunder God (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Rare Coin Pants",
+        "rawCells": [
+          "",
+          "Rare Coin Pants",
+          "120%",
+          "2",
+          "AT +400, Tamer HP +1000, DE +50",
+          "Obtained from Rare Machine.",
+          "❌"
+        ]
+      },
+      {
+        "name": "Agumon Pants",
+        "rawCells": [
+          "",
+          "Agumon Pants",
+          "120%",
+          "2",
+          "Attack +200, Tamer DS +1200",
+          "Obtained from Adventure Agumon Costume Set [30D] bought from cash shop during events.",
+          "✅ / ❌"
+        ]
+      },
+      {
+        "name": "Swimming Gears - Swimsuit",
+        "rawCells": [
+          "",
+          "Swimming Gears - Swimsuit",
+          "100%",
+          "2",
+          "Attack +200, Tamer DS +1200",
+          "Cash Shop",
+          "✅"
+        ]
+      },
+      {
+        "name": "Candlemon's Candlestick",
+        "rawCells": [
+          "",
+          "Candlemon's Candlestick",
+          "120%",
+          "2",
+          "Attack +200, Tamer DS +1000",
+          "Halloween Package from the Lv-Up Reward Box",
+          "✅"
+        ]
+      },
+      {
+        "name": "Spooky Candlemon's Candlestick",
+        "rawCells": [
+          "",
+          "Spooky Candlemon's Candlestick",
+          "120%",
+          "2",
+          "Attack +200, Tamer DS +1500",
+          "Event / Cash Shop",
+          "✅ / ❌"
+        ]
+      },
+      {
+        "name": "Warrior Pants",
+        "rawCells": [
+          "",
+          "Warrior Pants",
+          "150%",
+          "2",
+          "Attack +250, HP +1700",
+          "Obtained from Vajramon Dungeon (Hard).",
+          "❌"
+        ]
+      },
+      {
+        "name": "Warrior Pants [Shining]",
+        "rawCells": [
+          "",
+          "Warrior Pants [Shining]",
+          "150%",
+          "3",
+          "Attack +250, HP +1700",
+          "Obtained from Vajramon Dungeon (Hard).",
+          "✅"
+        ]
+      },
+      {
+        "name": "Futuristic Battle Suit Pants [30 days]",
+        "rawCells": [
+          "",
+          "Futuristic Battle Suit Pants [30 days]",
+          "120%",
+          "2",
+          "EXP + 250%, Tamer HP +700",
+          "From  Seraphimon NPC in DATS for  150 White Digizoid Tokens",
+          "✅"
+        ]
+      },
+      {
+        "name": "Dorulumon's Pants",
+        "rawCells": [
+          "",
+          "Dorulumon's Pants",
+          "150%",
+          "3",
+          "Skill Damage +8%, DS +1600, DE +500",
+          "Obtained from Greenzone (Nightsky).",
+          "✅"
+        ]
+      },
+      {
+        "name": "Digital Hazard Pants",
+        "rawCells": [
+          "",
+          "Digital Hazard Pants",
+          "150%",
+          "3",
+          "Max HP +1600, Defense +800, Skill Damage +5%",
+          "Obtained from Burning Battle Field.",
+          "✅"
+        ]
+      },
+      {
+        "name": "Back To School [Formal Dress Trousers]",
+        "rawCells": [
+          "",
+          "Back To School [Formal Dress Trousers]",
+          "100%",
+          "2",
+          "Skill Damage 7/%, DS +2000",
+          "Event / Cash Shop",
+          "❌"
+        ]
+      }
+    ],
+    "Gloves": [
+      {
+        "name": "Agumon Paw Gloves",
+        "rawCells": [
+          "",
+          "Agumon Paw Gloves",
+          "100%",
+          "2",
+          "Tamer Attack +300, Tamer HP +700",
+          "Event / Cash Shop",
+          "✅ / ❌"
+        ]
+      },
+      {
+        "name": "Swimming Gears - Water Pistol",
+        "rawCells": [
+          "",
+          "Swimming Gears - Water Pistol",
+          "100%",
+          "2",
+          "Tamer Attack +300, Tamer HP +1000",
+          "Event / Cash Shop",
+          "✅"
+        ]
+      },
+      {
+        "name": "WaruMonzaemon Gloves",
+        "rawCells": [
+          "",
+          "WaruMonzaemon Gloves",
+          "100%",
+          "2",
+          "Attack +300, HP +200",
+          "Halloween Package from the Lv-Up Reward Box",
+          "✅"
+        ]
+      },
+      {
+        "name": "Spooky WaruMonzaemon Gloves",
+        "rawCells": [
+          "",
+          "Spooky WaruMonzaemon Gloves",
+          "100%",
+          "2",
+          "Attack +300, HP +400",
+          "Event / Cash Shop",
+          "✅ / ❌"
+        ]
+      },
+      {
+        "name": "Shiny Desert Gloves",
+        "rawCells": [
+          "",
+          "Shiny Desert Gloves (60 days)",
+          "120%",
+          "2",
+          "Tamer Attack +210",
+          "Trade 30  Shiny Desert Coins with Wizardmon NPC at Server Continent Desert",
+          "❌"
+        ]
+      },
+      {
+        "name": "Xuanwumon's Aquatic Gloves",
+        "rawCells": [
+          "",
+          "Xuanwumon's Aquatic Gloves",
+          "150%",
+          "2",
+          "Tamer Attack +330",
+          "From  Xuanwumon (Raid) in Scar of Water Crystal (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Zhuqiamon's Infernal Gloves",
+        "rawCells": [
+          "",
+          "Zhuqiamon's Infernal Gloves",
+          "150%",
+          "2",
+          "Tamer Attack +330",
+          "From  Phoenixmon (Raid) in Uprising Flame (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Baihumon's Flawless Gloves",
+        "rawCells": [
+          "",
+          "Baihumon's Flawless Gloves",
+          "150%",
+          "2",
+          "Tamer Attack +400",
+          "From  Baihumon (Raid) in Trace of Black Steel (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Qinglongmon's Lightning Gloves",
+        "rawCells": [
+          "",
+          "Qinglongmon's Lightning Gloves",
+          "150%",
+          "2",
+          "Tamer Attack +330",
+          "From  Majiramon (Raid) Box in Descending Thunder God (Hard Mode)",
+          "✅"
+        ]
+      },
+      {
+        "name": "Warrior Gloves",
+        "rawCells": [
+          "",
+          "Warrior Gloves",
+          "150%",
+          "2",
+          "Attack +300, Hit Rate +300",
+          "Obtained from Vajramon Dungeon (Hard).",
+          "❌"
+        ]
+      },
+      {
+        "name": "Warrior Gloves [Shining]",
+        "rawCells": [
+          "",
+          "Warrior Gloves [Shining]",
+          "150%",
+          "3",
+          "Attack +300, Hit Rate +300",
+          "Obtained from Vajramon Dungeon (Hard).",
+          "✅"
+        ]
+      },
+      {
+        "name": "Futuristic Battle Gauntlets [30D]",
+        "rawCells": [
+          "",
+          "Futuristic Battle Gauntlets [30D]",
+          "120%",
+          "2",
+          "EXP +250%, Tamer HP +800",
+          "From  Seraphimon NPC in DATS for  200 White Digizoid Tokens",
+          "✅"
+        ]
+      },
+      {
+        "name": "Balistamon's Gloves",
+        "rawCells": [
+          "",
+          "Balistamon's Gloves",
+          "150%",
+          "3",
+          "Skill Damage +15%, AT +150",
+          "Obtained from Greenzone (Nightsky).",
+          "✅"
+        ]
+      },
+      {
+        "name": "Digital Hazard Gloves",
+        "rawCells": [
+          "",
+          "Digital Hazard Gloves",
+          "150%",
+          "3",
+          "Max HP +1000, Defense +600, AT +300",
+          "Obtained from Burning Battle Field.",
+          "✅"
+        ]
+      },
+      {
+        "name": "Back To School [Formal Gloves]",
+        "rawCells": [
+          "",
+          "Back To School [Formal Gloves]",
+          "100%",
+          "2",
+          "Skill Damage +10%, AT +200",
+          "Event / Cash Shop",
+          "❌"
+        ]
+      }
+    ],
+    "Shoes": [
+      {
+        "name": "Shiny Desert Shoes",
+        "rawCells": [
+          "",
+          "Shiny Desert Shoes",
+          "115%",
+          "1",
+          "Movement Speed +30%",
+          "Trade 30  Shiny Desert Coins with Wizardmon NPC at Server Continent Desert",
+          "❌"
+        ]
+      },
+      {
+        "name": "Sports Sneakers",
+        "rawCells": [
+          "",
+          "Sports Sneakers",
+          "115%",
+          "1",
+          "Movement Speed +30%",
+          "Buy from Sora's Mom at Yokohama East Village / Cash Shop",
+          "❌"
+        ]
+      },
+      {
+        "name": "Sports Sneakers",
+        "rawCells": [
+          "",
+          "Sports Sneakers",
+          "115%",
+          "1",
+          "Movement Speed +30%",
+          "Buy from Sora's Mom at Yokohama Village or Mary at DATS Center / Cash Shop",
+          "❌"
+        ]
+      },
+      {
+        "name": "Wizardmon Shoes",
+        "rawCells": [
+          "",
+          "Wizardmon Shoes",
+          "100%",
+          "2",
+          "Movement Speed +30%, Friendliness +30",
+          "Halloween Package from the Lv-Up Reward Box",
+          "✅"
+        ]
+      },
+      {
+        "name": "Spooky Wizardmon Shoes",
+        "rawCells": [
+          "",
+          "Spooky Wizardmon Shoes",
+          "100%",
+          "2",
+          "Movement Speed +30%, Friendliness +30, Defense +100",
+          "Event / Cash Shop",
+          "✅ / ❌"
+        ]
+      },
+      {
+        "name": "Agumon Feet Shoes",
+        "rawCells": [
+          "",
+          "Agumon Feet Shoes",
+          "100%",
+          "2",
+          "Movement Speed +30%, Friendliness +30, Defense +200",
+          "Event / Cash Shop",
+          "✅ / ❌"
+        ]
+      },
+      {
+        "name": "Satan Shoes",
+        "rawCells": [
+          "",
+          "Satan Shoes",
+          "100%",
+          "2",
+          "Movement Speed +40%, Friendliness +20, Defense +400",
+          "Obtained from Infinite Mountain Dungeon 2.0",
+          "✅"
+        ]
+      },
+      {
+        "name": "Swimming Gears - Flippers",
+        "rawCells": [
+          "",
+          "Swimming Gears - Flippers",
+          "100%",
+          "2",
+          "Movement Speed +30%, HP +200, Defense +100",
+          "Event / Cash Shop",
+          "✅"
+        ]
+      },
+      {
+        "name": "Sparrowmon's Shoes",
+        "rawCells": [
+          "",
+          "Sparrowmon's Shoes",
+          "100%",
+          "3",
+          "Movement Speed +40%, Friendliness +20, Skill Damage +5%",
+          "Obtained from Greenzone (Nightsky).",
+          "✅"
+        ]
+      },
+      {
+        "name": "Back To School [Formal Dress Boots]",
+        "rawCells": [
+          "",
+          "Back To School [Formal Dress Boots]",
+          "100%",
+          "2",
+          "Movement Speed +30%, Friendliness +20, Skill Damage +5%",
+          "Event / Cash Shop",
+          "❌"
+        ]
+      }
+    ]
+  },
+  "Fanglongmon's Clothing": {
+    "Head": [
+      {
+        "name": "Fanglongmon’s Shining Ornament Lv1",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Ornament Lv1",
+          "150%",
+          "3",
+          "Skill Damage +3% / Attack +180 / MaxHP +900",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Ornament Lv2",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Ornament Lv2",
+          "150%",
+          "3",
+          "Skill Damage +4% / Attack +210 / MaxHP +1050",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Ornament Lv3",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Ornament Lv3",
+          "150%",
+          "3",
+          "Skill Damage +5% / Attack +240 / MaxHP +1200",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Ornament Lv4",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Ornament Lv4",
+          "150%",
+          "3",
+          "Skill Damage +6% / Attack +270 / MaxHP +1350",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Ornament Lv5",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Ornament Lv5",
+          "150%",
+          "3",
+          "Skill Damage +7% / Attack +300 / MaxHP +1500",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Ornament [AA]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Ornament [AA]",
+          "150%",
+          "3",
+          "Attack +450 / MaxHP +2000 / MaxHP +2000",
+          "Attack +5% / Attack +3% / Attack +1%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Ornament [SK]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Ornament [SK]",
+          "150%",
+          "3",
+          "Skill Damage +7% / MaxHP +2000",
+          "Skill Damage +5% / Skill Damage +3% / Skill Damage +1%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Ornament [TA]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Ornament [TA]",
+          "150%",
+          "3",
+          "MaxHP +1500 / Defense +600 / Damage Reduction +1%",
+          "MaxDS +2000 / MaxDS +1800 / MaxDS +1500"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Ornament [SU]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Ornament [SU]",
+          "150%",
+          "3",
+          "Skill Damage +7% / MaxHP +2000 / MaxDS +2000",
+          "MaxDS +2000 / MaxDS +1800 / MaxDS +1500"
+        ]
+      }
+    ],
+    "Fashion": [
+      {
+        "name": "Fanglongmon’s Shining Cape Lv1",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Cape Lv1",
+          "150%",
+          "3",
+          "Skill Damage +6% / Attack +240 / MaxHP +720",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Cape Lv2",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Cape Lv2",
+          "150%",
+          "3",
+          "Skill Damage +7% / Attack +280 / MaxHP +840",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Cape Lv3",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Cape Lv3",
+          "150%",
+          "3",
+          "Skill Damage +8% / Attack +320 / MaxHP +960",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Cape Lv4",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Cape Lv4",
+          "150%",
+          "3",
+          "Skill Damage +9% / Attack +360 / MaxHP +1080",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Cape Lv5",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Cape Lv5",
+          "150%",
+          "3",
+          "Skill Damage +10% / Attack +400 / MaxHP +1200",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Cape [AA]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Cape [AA]",
+          "150%",
+          "3",
+          "Attack +450 / MaxHP +1000 / MaxDS +1000",
+          "Hit Rate +500 / Hit Rate +300 / Hit Rate +150"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Cape [SK]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Cape [SK]",
+          "150%",
+          "3",
+          "Skill Damage +10% / MaxDS +2000",
+          "Skill Damage +5% / Skill Damage +3% / Skill Damage +1%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Cape [TA]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Cape [TA]",
+          "150%",
+          "3",
+          "MaxHP +1200 / Defense +500 / Damage Reduction +1%",
+          "MaxHP +10% / MaxHP +8% / MaxHP +5%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Cape [SU]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Cape [SU]",
+          "150%",
+          "3",
+          "Skill Damage +7% / MaxHP +1000 / MaxDS +1000",
+          "MaxDS +2000 / MaxDS +1800 / MaxDS +1500"
+        ]
+      }
+    ],
+    "Top": [
+      {
+        "name": "Fanglongmon’s Shining Hooded Shirt Lv1",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Hooded Shirt Lv1",
+          "150%",
+          "3",
+          "Skill Damage +8% / Attack +150 / MaxHP +960",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Hooded Shirt Lv2",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Hooded Shirt Lv2",
+          "150%",
+          "3",
+          "Skill Damage +9% / Attack +175 / MaxHP +1120",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Hooded Shirt Lv3",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Hooded Shirt Lv3",
+          "150%",
+          "3",
+          "Skill Damage +10% / Attack +200 / MaxHP +1280",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Hooded Shirt Lv4",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Hooded Shirt Lv4",
+          "150%",
+          "3",
+          "Skill Damage +11% / Attack +225 / MaxHP +1440",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Hooded Shirt Lv5",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Hooded Shirt Lv5",
+          "150%",
+          "3",
+          "Skill Damage +12% / Attack +250 / MaxHP +1600",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Hooded Shirt [AA]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Hooded Shirt [AA]",
+          "150%",
+          "3",
+          "Attack +450 / MaxHP +2500 / MaxDS +2500",
+          "MaxHP +8% / MaxHP +5% / MaxHP +3%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Hooded Shirt [SK]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Hooded Shirt [SK]",
+          "150%",
+          "3",
+          "Skill Damage +12% / MaxHP +2000 / MaxDS +2000",
+          "MaxHP +8% / MaxHP +5% / MaxHP +3%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Hooded Shirt [TA]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Hooded Shirt [TA]",
+          "150%",
+          "3",
+          "MaxHP +1600 / Defense +600 / Damage Reduction +1%",
+          "MaxHP +10% / MaxHP +8% / MaxHP +5%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Hooded Shirt [SU]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Hooded Shirt [SU]",
+          "150%",
+          "3",
+          "Skill Damage +7% / MaxHP +2500 / MaxDS +2500",
+          "MaxHP +10% / MaxHP +8% / MaxHP +5%"
+        ]
+      }
+    ],
+    "Bottom": [
+      {
+        "name": "Fanglongmon’s Shining Pants Lv1",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Pants Lv1",
+          "150%",
+          "3",
+          "Skill Damage +4% / Attack +150 / MaxHP +960",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Pants Lv2",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Pants Lv2",
+          "150%",
+          "3",
+          "Skill Damage +5% / Attack +175 / MaxHP +1120",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Pants Lv3",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Pants Lv3",
+          "150%",
+          "3",
+          "Skill Damage +6% / Attack +200 / MaxHP +1280",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Pants Lv4",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Pants Lv4",
+          "150%",
+          "3",
+          "Skill Damage +7% / Attack +225 / MaxHP +1440",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Pants Lv5",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Pants Lv5",
+          "150%",
+          "3",
+          "Skill Damage +8% / Attack +250 / MaxHP +1600",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Pants [AA]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Pants [AA]",
+          "150%",
+          "3",
+          "Attack +450 / MaxHP +2700 / MaxDS +2700",
+          "Critical Damage +8% / Critical Damage +5% / Critical Damage +3%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Pants [SK]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Pants [SK]",
+          "150%",
+          "3",
+          "Skill Damage +8% / MaxDS +2500",
+          "Vaccine Dmg +2% / Virus Dmg +2% / Data Dmg +2%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Pants [TA]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Pants [TA]",
+          "150%",
+          "3",
+          "MaxHP +1600 / Defense +800 / Damage Reduction +1%",
+          "Defense +10% / Defense +8% / Defense +5%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Pants [SU]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Pants [SU]",
+          "150%",
+          "3",
+          "Skill Damage +6% / MaxHP +2700 / MaxDS +2700",
+          "MaxDS +2000 / MaxDS +1800 / MaxDS +1500"
+        ]
+      }
+    ],
+    "Gloves": [
+      {
+        "name": "Fanglongmon’s Shining Gloves Lv1",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Gloves Lv1",
+          "150%",
+          "3",
+          "Skill Damage +11% / Attack +360 / MaxHP +600",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Gloves Lv2",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Gloves Lv2",
+          "150%",
+          "3",
+          "Skill Damage +12% / Attack +420 / MaxHP +700",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Gloves Lv3",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Gloves Lv3",
+          "150%",
+          "3",
+          "Skill Damage +13% / Attack +480 / MaxHP +800",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Gloves Lv4",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Gloves Lv4",
+          "150%",
+          "3",
+          "Skill Damage +14% / Attack +540 / MaxHP +900",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Gloves Lv5",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Gloves Lv5",
+          "150%",
+          "3",
+          "Skill Damage +15% / Attack +600 / MaxHP +1000",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Gloves [AA]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Gloves [AA]",
+          "150%",
+          "3",
+          "Attack +800 / Hit Rate +500",
+          "Basic Attribute +2% / Basic Attribute +1% / Basic Attribute +1%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Gloves [SK]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Gloves [SK]",
+          "150%",
+          "3",
+          "Skill Damage +15% / MaxHP +2000",
+          "Basic Attribute +2% / Basic Attribute +1% / Basic Attribute +1%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Gloves [TA]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Gloves [TA]",
+          "150%",
+          "3",
+          "MaxHP +1000 / Defense +600 / Damage Reduction +1%",
+          "Defense +10% / Defense +8% / Defense +5%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Gloves [SU]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Gloves [SU]",
+          "150%",
+          "3",
+          "Skill Damage +15% / Attack +1200 / MaxDS +2000",
+          "Basic Attribute +2% / Basic Attribute +1% / Basic Attribute +1%"
+        ]
+      }
+    ],
+    "Shoes": [
+      {
+        "name": "Fanglongmon’s Shining Shoes Lv1",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Shoes Lv1",
+          "150%",
+          "3",
+          "Defense +1500 / Movement Speed +40% / Friendship +20",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Shoes Lv2",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Shoes Lv2",
+          "150%",
+          "3",
+          "Defense +1750 / Movement Speed +40% / Friendship +20",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Shoes Lv3",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Shoes Lv3",
+          "150%",
+          "3",
+          "Defense +2000 / Movement Speed +40% / Friendship +20",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Shoes Lv4",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Shoes Lv4",
+          "150%",
+          "3",
+          "Defense +2250 / Movement Speed +40% / Friendship +20",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Shoes Lv5",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Shoes Lv5",
+          "150%",
+          "3",
+          "Defense +2500 / Movement Speed +40% / Friendship +20",
+          "---"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Shoes [AA]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Shoes [AA]",
+          "150%",
+          "3",
+          "Skill Damage +5% / Movement Speed +40% / Friendship +20",
+          "Final Damage + 1% / Final Damage +0.5% / Final Damage +0.5%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Shoes [SK]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Shoes [SK]",
+          "150%",
+          "3",
+          "Skill Damage +5% / Movement Speed +40% / Friendship +20",
+          "Final Damage + 1% / Final Damage +0.5% / Final Damage +0.5%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Shoes [TA]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Shoes [TA]",
+          "150%",
+          "3",
+          "Damage Reduction +1% / Movement Speed +40% / Friendship +20",
+          "Final Damage + 1% / Final Damage +0.5% / Final Damage +0.5%"
+        ]
+      },
+      {
+        "name": "Fanglongmon’s Shining Shoes [SU]",
+        "rawCells": [
+          "",
+          "Fanglongmon’s Shining Shoes [SU]",
+          "150%",
+          "3",
+          "MaxDS +2000 / Movement Speed +40% / Friendship +20",
+          "Final Damage + 1% / Final Damage +0.5% / Final Damage +0.5%"
+        ]
+      },
+      {
+        "name": "25 - 100",
+        "rawCells": [
+          "Attack",
+          "25 - 100",
+          "101 - 125",
+          "126 - 150"
+        ]
+      },
+      {
+        "name": "50 - 200",
+        "rawCells": [
+          "Max HP",
+          "50 - 200",
+          "201 - 400",
+          "401 - 600"
+        ]
+      },
+      {
+        "name": "50 - 200",
+        "rawCells": [
+          "Max DS",
+          "50 - 200",
+          "201 - 400",
+          "401 - 600"
+        ]
+      },
+      {
+        "name": "25 - 100",
+        "rawCells": [
+          "Defense",
+          "25 - 100",
+          "101 - 150",
+          "151 - 200"
+        ]
+      },
+      {
+        "name": "0.50% - 5.00%",
+        "rawCells": [
+          "Skill (Flat)",
+          "0.50% - 5.00%",
+          "-",
+          "-"
+        ]
+      }
+    ]
+  },
+  "Avatar/Costume": {
+    "_root": [
+      {
+        "name": "D.A.T.S. Uniform",
+        "rawCells": [
+          "",
+          "D.A.T.S. Uniform",
+          "",
+          "Yokohama Village Quests"
+        ]
+      },
+      {
+        "name": "Original Active Clothes (Savers Tamers)",
+        "rawCells": [
+          "",
+          "Original Active Clothes (Savers Tamers)",
+          "",
+          "Cash Shop"
+        ]
+      },
+      {
+        "name": "Slim Fit Smart School Uniform",
+        "rawCells": [
+          "",
+          "Slim Fit Smart School Uniform",
+          "Friendliness +20 / Speed +50% / EXP + 100%",
+          "Cash Shop"
+        ]
+      },
+      {
+        "name": "School Uniform (Marcus)",
+        "rawCells": [
+          "",
+          "School Uniform (Marcus)",
+          "Friendliness +20",
+          "Cash Shop"
+        ]
+      },
+      {
+        "name": "Slim Fit Original School Uniform (Marcus)",
+        "rawCells": [
+          "",
+          "Slim Fit Original School Uniform (Marcus)",
+          "Friendliness +20 / Speed +50% / EXP + 100%",
+          "Cash Shop or Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Bellboy Costume (Thomas)",
+        "rawCells": [
+          "",
+          "Bellboy Costume (Thomas)",
+          "Friendliness +20",
+          "Cash Shop"
+        ]
+      },
+      {
+        "name": "Bellboy Costume (Thomas)",
+        "rawCells": [
+          "",
+          "Bellboy Costume (Thomas)",
+          "Friendliness +20 / Speed +50% / EXP + 100%",
+          "Cash Shop or Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Princess Dress (Mimi)",
+        "rawCells": [
+          "",
+          "Princess Dress (Mimi)",
+          "Friendliness +20 / Speed +50% / EXP + 100%",
+          "Cash Shop"
+        ]
+      },
+      {
+        "name": "Graceful Princess Dress (Mimi)",
+        "rawCells": [
+          "",
+          "Graceful Princess Dress (Mimi)",
+          "Friendliness +20 / Speed +50% / EXP + 100%",
+          "Cash Shop or Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Slim Fit Original School Uniform (Keenan)",
+        "rawCells": [
+          "",
+          "Slim Fit Original School Uniform (Keenan)",
+          "Friendliness +20 / Speed +50% / EXP + 100%",
+          "Cash Shop or Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Cute Sumo Referee Costume (T.K.)",
+        "rawCells": [
+          "",
+          "Cute Sumo Referee Costume (T.K.)",
+          "Friendliness +20 / Speed +50% / EXP + 100%",
+          "Cash Shop or Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Maid Costume (Yoshino)",
+        "rawCells": [
+          "",
+          "Maid Costume (Yoshino)",
+          "Friendliness +20 / Speed +50% / EXP + 100%",
+          "Cash Shop or Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Lunatic Lunar Bunny Costume",
+        "rawCells": [
+          "",
+          "Lunatic Lunar Bunny Costume",
+          "AT +700 / Speed +77% / EXP +500%",
+          "Event"
+        ]
+      },
+      {
+        "name": "Moon Rabbit's Clothes",
+        "rawCells": [
+          "",
+          "Moon Rabbit's Clothes",
+          "DS +700 / Speed +77% / EXP +700%",
+          "Event"
+        ]
+      },
+      {
+        "name": "Santa Costume",
+        "rawCells": [
+          "",
+          "Santa Costume",
+          "Attack +600 / Speed +77% / EXP +200%",
+          "Cash Shop or Events"
+        ]
+      },
+      {
+        "name": "Red-Winged Santa Costume",
+        "rawCells": [
+          "",
+          "Red-Winged Santa Costume",
+          "Attack +700 / Speed +77% / EXP +300%",
+          "Cash Shop or Events"
+        ]
+      },
+      {
+        "name": "Snowboard Suit",
+        "rawCells": [
+          "",
+          "Snowboard Suit",
+          "Attack +600 / Speed +77% / EXP +1000%",
+          "Cash Shop or Events"
+        ]
+      },
+      {
+        "name": "Newbie's Yellow Soccer Uniform",
+        "rawCells": [
+          "",
+          "Newbie's Yellow Soccer Uniform",
+          "DS +1000 / Speed +77% / EXP +1000%",
+          "Cash Shop or Events"
+        ]
+      },
+      {
+        "name": "Beginner's Orange Soccer Uniform",
+        "rawCells": [
+          "",
+          "Beginner's Orange Soccer Uniform",
+          "HP +1000 / Speed +70% / EXP +700%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Expert's Green Soccer Uniform",
+        "rawCells": [
+          "",
+          "Expert's Green Soccer Uniform",
+          "Attack +600 / Speed +77% / EXP +200%",
+          "Cash Shop or Events"
+        ]
+      },
+      {
+        "name": "Mature Blue Soccer Uniform",
+        "rawCells": [
+          "",
+          "Mature Blue Soccer Uniform",
+          "Attack Speed +7% / HP +1000 / Critical Hit +10%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Veteran's Red Soccer Uniform",
+        "rawCells": [
+          "",
+          "Veteran's Red Soccer Uniform",
+          "HP +1500 / Defense +700 /  Hit Rate +300",
+          "Events"
+        ]
+      },
+      {
+        "name": "Professional Black Soccer Uniform",
+        "rawCells": [
+          "",
+          "Professional Black Soccer Uniform",
+          "Attack +400 / Hit Rate +300 / Critical Hit +07%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Summer Costume (Tai)",
+        "rawCells": [
+          "",
+          "Summer Costume (Tai)",
+          "Attack +600 / Speed +77% / EXP +200%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Summer Costume (Matt)",
+        "rawCells": [
+          "",
+          "Summer Costume (Matt)",
+          "Attack +600 / Speed +77% / EXP +200%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Summer Costume (T.K)",
+        "rawCells": [
+          "",
+          "Summer Costume (T.K)",
+          "Attack +600 / Speed +77% / EXP +200%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Summer Costume (Sora)",
+        "rawCells": [
+          "",
+          "Summer Costume (Sora)",
+          "Attack +600 / Speed +77% / EXP +200%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Summer Costume (Mimi)",
+        "rawCells": [
+          "",
+          "Summer Costume (Mimi)",
+          "Attack +600 / Speed +77% / EXP +200%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Summer Costume (Hikari)",
+        "rawCells": [
+          "",
+          "Summer Costume (Hikari)",
+          "Attack +600 / Speed +77% / EXP +200%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Summer Costume (Marcus)",
+        "rawCells": [
+          "",
+          "Summer Costume (Marcus)",
+          "Attack +600 / Speed +77% / EXP +200%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Summer Costume (Yoshino)",
+        "rawCells": [
+          "",
+          "Summer Costume (Yoshino)",
+          "Attack +600 / Speed +77% / EXP +200%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Summer Costume (Thomas)",
+        "rawCells": [
+          "",
+          "Summer Costume (Thomas)",
+          "Attack +600 / Speed +77% / EXP +200%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Summer Costume (Keenan)",
+        "rawCells": [
+          "",
+          "Summer Costume (Keenan)",
+          "Attack +600 / Speed +77% / EXP +200%",
+          "Events"
+        ]
+      },
+      {
+        "name": "High Quality Swimsuit (Red)",
+        "rawCells": [
+          "",
+          "High Quality Swimsuit (Red)",
+          "Attack +1500 / Speed +77% / EXP +2000%",
+          "Cash Shop/Events"
+        ]
+      },
+      {
+        "name": "High Quality Swimsuit (Black)",
+        "rawCells": [
+          "",
+          "High Quality Swimsuit (Black)",
+          "Attack +1500 / Speed +77% / MaxHP +2000",
+          "Cash Shop/Events"
+        ]
+      },
+      {
+        "name": "High Quality Divingsuit",
+        "rawCells": [
+          "",
+          "High Quality Divingsuit",
+          "Defense +600 / Speed +88% / MaxHP +3500",
+          "Cash Shop/Events"
+        ]
+      },
+      {
+        "name": "High Quality Beachwear",
+        "rawCells": [
+          "",
+          "High Quality Beachwear",
+          "MaxDS +4500 / Speed +77% / MaxHP +2000",
+          "Cash Shop/Events"
+        ]
+      },
+      {
+        "name": "Special Winter Cape Costume",
+        "rawCells": [
+          "",
+          "Special Winter Cape Costume",
+          "Speed +77% / EXP +2000% / MaxHP +3000",
+          "Cash Shop/Events"
+        ]
+      },
+      {
+        "name": "High Quality Snowboard Suit",
+        "rawCells": [
+          "",
+          "High Quality Snowboard Suit",
+          "Attack +1500 / Speed +77% / EXP +2000%",
+          "Cash Shop/Events"
+        ]
+      },
+      {
+        "name": "DATS Expert Uniform (AA)",
+        "rawCells": [
+          "",
+          "DATS Expert Uniform (AA)",
+          "Attack +1500 / Speed +77% / MaxHP +2000",
+          "Cash Shop/Events"
+        ]
+      },
+      {
+        "name": "DATS Expert Uniform (SK)",
+        "rawCells": [
+          "",
+          "DATS Expert Uniform (SK)",
+          "Skill Damage +5% / Speed +77% / MaxHP +2000",
+          "Cash Shop/Events"
+        ]
+      },
+      {
+        "name": "DATS Expert Uniform (TA)",
+        "rawCells": [
+          "",
+          "DATS Expert Uniform (TA)",
+          "Defense +600 / Speed +88% / MaxHP +3500",
+          "Cash Shop/Events"
+        ]
+      }
+    ]
+  },
+  "Accessories": {
+    "Ring": [
+      {
+        "name": "Xuanwumon Sealed Shiny Ring",
+        "rawCells": [
+          "",
+          "Xuanwumon Sealed Shiny Ring",
+          "4",
+          "❌",
+          "From  Xuanwumon (Raid) Box"
+        ]
+      },
+      {
+        "name": "Flame Ring of Sealed Zhuqiaomon",
+        "rawCells": [
+          "",
+          "Flame Ring of Sealed Zhuqiaomon",
+          "4",
+          "❌",
+          "From  Zhuqiaomon (Raid) Box"
+        ]
+      },
+      {
+        "name": "Aural Ring of Sealed Baihumon",
+        "rawCells": [
+          "",
+          "Aural Ring of Sealed Baihumon",
+          "4",
+          "❌",
+          "From  Blossomon (Raid) Box or  Baihumon (Raid) Box"
+        ]
+      },
+      {
+        "name": "Qinglongmon's Sealed Radiant Ring",
+        "rawCells": [
+          "",
+          "Qinglongmon's Sealed Radiant Ring",
+          "4",
+          "❌",
+          "From  Qinglongmon (Raid) Box"
+        ]
+      },
+      {
+        "name": "Miracle Ring (Special)",
+        "rawCells": [
+          "",
+          "Miracle Ring (Special)",
+          "5",
+          "✅",
+          "Trading Miracle Ring [Level 10] + Shiny High-powered Quad-core Ring with Magnamon NPC"
+        ]
+      },
+      {
+        "name": "Sealed Ring of Four Holy Beasts [Lv.1-5]",
+        "rawCells": [
+          "",
+          "Sealed Ring of Four Holy Beasts [Lv.1-5]",
+          "4",
+          "✅",
+          "Digitamamon (Item Make) (materials collectible from Scar of Water Crystal (Hard Mode))"
+        ]
+      },
+      {
+        "name": "Sealed Radiant Ring of Four Holy Beasts [Lv.1-5]",
+        "rawCells": [
+          "",
+          "Sealed Radiant Ring of Four Holy Beasts [Lv.1-5]",
+          "4",
+          "✅",
+          "Digitamamon (Item Make) (materials collectible from Descending Thunder God (Hard Mode))"
+        ]
+      },
+      {
+        "name": "Fanglongmon's Ancient Ring [Lv.1-10]",
+        "rawCells": [
+          "",
+          "Fanglongmon's Ancient Ring [Lv.1-10]",
+          "4",
+          "✅",
+          "From  Fanglongmon (Raid) / Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Ring of the Marine Dragon [AA/SK/TA]",
+        "rawCells": [
+          "",
+          "Ring of the Marine Dragon [AA/SK/TA]",
+          "5",
+          "✅",
+          "Taichi (Spiral Mountain) (materials collectible from Marine Dragon Domain)"
+        ]
+      },
+      {
+        "name": "+500",
+        "rawCells": [
+          "Max HP",
+          "+500",
+          "+800",
+          "+300",
+          "+1000",
+          "+800",
+          "+800",
+          "+800",
+          "+800"
+        ]
+      },
+      {
+        "name": "+500",
+        "rawCells": [
+          "Max DS",
+          "+500",
+          "+800",
+          "+300",
+          "+800",
+          "+800",
+          "+800",
+          "+800",
+          "+800"
+        ]
+      },
+      {
+        "name": "+150",
+        "rawCells": [
+          "Attack",
+          "+150",
+          "+400",
+          "+100",
+          "+300",
+          "+300",
+          "+300",
+          "+400",
+          "+400"
+        ]
+      },
+      {
+        "name": "+15",
+        "rawCells": [
+          "Defense",
+          "+15",
+          "+25",
+          "+30",
+          "+25",
+          "+25",
+          "+50",
+          "+25",
+          "+25"
+        ]
+      },
+      {
+        "name": "+4%",
+        "rawCells": [
+          "Critical",
+          "+4%",
+          "+5%",
+          "+4%",
+          "+5%",
+          "+5%",
+          "+5%",
+          "+5%",
+          "+5%"
+        ]
+      },
+      {
+        "name": "+2%",
+        "rawCells": [
+          "Skill",
+          "+2%",
+          "+3%",
+          "+1.5%",
+          "+5%",
+          "+7%",
+          "+5%",
+          "+5%",
+          "7%"
+        ]
+      },
+      {
+        "name": "+2%",
+        "rawCells": [
+          "Attribute",
+          "+2%",
+          "+5%",
+          "+2%",
+          "+5%",
+          "+5%",
+          "+5%",
+          "+5%",
+          "+5%"
+        ]
+      },
+      {
+        "name": "+816",
+        "rawCells": [
+          "Max HP",
+          "+816",
+          "+832",
+          "+848",
+          "+864",
+          "+880"
+        ]
+      },
+      {
+        "name": "+816",
+        "rawCells": [
+          "Max DS",
+          "+816",
+          "+832",
+          "+848",
+          "+864",
+          "+880"
+        ]
+      },
+      {
+        "name": "+306",
+        "rawCells": [
+          "Attack",
+          "+306",
+          "+312",
+          "+318",
+          "+324",
+          "+330"
+        ]
+      },
+      {
+        "name": "+26",
+        "rawCells": [
+          "Defense",
+          "+26",
+          "+26",
+          "+27",
+          "+27",
+          "+28"
+        ]
+      },
+      {
+        "name": "+6%",
+        "rawCells": [
+          "Critical",
+          "+6%"
+        ]
+      },
+      {
+        "name": "+5%",
+        "rawCells": [
+          "Skill",
+          "+5%",
+          "+5%",
+          "+5%",
+          "+5%",
+          "+6%"
+        ]
+      },
+      {
+        "name": "+6%",
+        "rawCells": [
+          "Attribute",
+          "+6%"
+        ]
+      },
+      {
+        "name": "+896",
+        "rawCells": [
+          "Max HP",
+          "+896",
+          "+920",
+          "+960",
+          "+1000",
+          "+1200"
+        ]
+      },
+      {
+        "name": "+896",
+        "rawCells": [
+          "Max DS",
+          "+896",
+          "+920",
+          "+960",
+          "+1000",
+          "+1200"
+        ]
+      },
+      {
+        "name": "+336",
+        "rawCells": [
+          "Attack",
+          "+336",
+          "+345",
+          "+360",
+          "+375",
+          "+450"
+        ]
+      },
+      {
+        "name": "+28",
+        "rawCells": [
+          "Defense",
+          "+28",
+          "+29",
+          "+30",
+          "+32",
+          "+42"
+        ]
+      },
+      {
+        "name": "+7%",
+        "rawCells": [
+          "Skill",
+          "+7%",
+          "+7%",
+          "+8%",
+          "+8%",
+          "+8%"
+        ]
+      },
+      {
+        "name": "700",
+        "rawCells": [
+          "Max HP",
+          "700",
+          "750",
+          "800",
+          "850",
+          "900",
+          "1000",
+          "1100",
+          "1200",
+          "1300",
+          "1400"
+        ]
+      },
+      {
+        "name": "700",
+        "rawCells": [
+          "Max DS",
+          "700",
+          "750",
+          "800",
+          "850",
+          "900",
+          "1000",
+          "1100",
+          "1200",
+          "1300",
+          "1400"
+        ]
+      },
+      {
+        "name": "320",
+        "rawCells": [
+          "Attack",
+          "320",
+          "340",
+          "360",
+          "380",
+          "400",
+          "420",
+          "440",
+          "460",
+          "480",
+          "500"
+        ]
+      },
+      {
+        "name": "40",
+        "rawCells": [
+          "Defense",
+          "40",
+          "45",
+          "50",
+          "55",
+          "60",
+          "65",
+          "70",
+          "80",
+          "90",
+          "100"
+        ]
+      },
+      {
+        "name": "4%",
+        "rawCells": [
+          "Critical",
+          "4%"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Skill",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "+12%"
+        ]
+      },
+      {
+        "name": "5%",
+        "rawCells": [
+          "Attribute",
+          "5%"
+        ]
+      },
+      {
+        "name": "1400",
+        "rawCells": [
+          "Max HP",
+          "1400"
+        ]
+      },
+      {
+        "name": "1400",
+        "rawCells": [
+          "Max DS",
+          "1400"
+        ]
+      },
+      {
+        "name": "800",
+        "rawCells": [
+          "Attack",
+          "800"
+        ]
+      },
+      {
+        "name": "9%",
+        "rawCells": [
+          "Basic Attribute",
+          "9%"
+        ]
+      },
+      {
+        "name": "10%",
+        "rawCells": [
+          "Critical",
+          "10%"
+        ]
+      },
+      {
+        "name": "15%",
+        "rawCells": [
+          "Critical Damage",
+          "15%"
+        ]
+      },
+      {
+        "name": "1400",
+        "rawCells": [
+          "Max HP",
+          "1400"
+        ]
+      },
+      {
+        "name": "1400",
+        "rawCells": [
+          "Max DS",
+          "1400"
+        ]
+      },
+      {
+        "name": "500",
+        "rawCells": [
+          "Attack",
+          "500"
+        ]
+      },
+      {
+        "name": "10%",
+        "rawCells": [
+          "Basic Attribute",
+          "10%"
+        ]
+      },
+      {
+        "name": "5%",
+        "rawCells": [
+          "Skill",
+          "5%"
+        ]
+      },
+      {
+        "name": "20%",
+        "rawCells": [
+          "Skill Flat",
+          "20%"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max HP",
+          "1500"
+        ]
+      },
+      {
+        "name": "10%",
+        "rawCells": [
+          "Max HP",
+          "10%"
+        ]
+      },
+      {
+        "name": "500",
+        "rawCells": [
+          "Attack",
+          "500"
+        ]
+      },
+      {
+        "name": "500",
+        "rawCells": [
+          "Defense",
+          "500"
+        ]
+      },
+      {
+        "name": "10%",
+        "rawCells": [
+          "Defense",
+          "10%"
+        ]
+      },
+      {
+        "name": "2%",
+        "rawCells": [
+          "Evasion",
+          "2%"
+        ]
+      }
+    ],
+    "Necklaces": [
+      {
+        "name": "Xuanwumon Sealed Shiny Necklace",
+        "rawCells": [
+          "File:Xuanwumon Shiny Necklace.png",
+          "Xuanwumon Sealed Shiny Necklace",
+          "4",
+          "❌",
+          "From  Xuanwumon (Raid) Box"
+        ]
+      },
+      {
+        "name": "Flame Necklace of Sealed Zhuqiaomon",
+        "rawCells": [
+          "",
+          "Flame Necklace of Sealed Zhuqiaomon",
+          "4",
+          "❌",
+          "From  Zhuqiaomon (Raid) Box"
+        ]
+      },
+      {
+        "name": "Aural Necklace of Sealed Baihumon",
+        "rawCells": [
+          "",
+          "Aural Necklace of Sealed Baihumon",
+          "4",
+          "❌",
+          "From  Blossomon (Raid) Box or  Baihumon (Raid) Box"
+        ]
+      },
+      {
+        "name": "Qinglongmon's Sealed Radiant Necklace",
+        "rawCells": [
+          "",
+          "Qinglongmon's Sealed Radiant Necklace",
+          "4",
+          "❌",
+          "From  Qinglongmon (Raid) Box"
+        ]
+      },
+      {
+        "name": "Miracle Necklace (Special)",
+        "rawCells": [
+          "",
+          "Miracle Necklace (Special)",
+          "5",
+          "✅",
+          "Trading Miracle Necklace [Level 10] + Qinglongmon's Sealed Radiant Necklace with Magnamon NPC"
+        ]
+      },
+      {
+        "name": "Sealed Necklace of Four Holy Beasts [Lv.1-5]",
+        "rawCells": [
+          "",
+          "Sealed Necklace of Four Holy Beasts [Lv.1-5]",
+          "4",
+          "✅",
+          "Digitamamon (Item Make) (materials collectible from Uprising Flame (Hard Mode))"
+        ]
+      },
+      {
+        "name": "Sealed Radiant Necklace of Four Holy Beasts [Lv.1-5]",
+        "rawCells": [
+          "",
+          "Sealed Radiant Necklace of Four Holy Beasts [Lv.1-5]",
+          "4",
+          "✅",
+          "Digitamamon (Item Make) (materials collectible from Descending Thunder God (Hard Mode))"
+        ]
+      },
+      {
+        "name": "Fanglongmon's Ancient Necklace [Lv.1-10]",
+        "rawCells": [
+          "",
+          "Fanglongmon's Ancient Necklace [Lv.1-10]",
+          "4",
+          "✅",
+          "From  Fanglongmon (Raid) / Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Necklace of the Wooden Puppet [AA/SK/TA]",
+        "rawCells": [
+          "",
+          "Necklace of the Wooden Puppet [AA/SK/TA]",
+          "5",
+          "✅",
+          "Taichi (Spiral Mountain) (materials collectible from Front Yard of Marionette Mansion)"
+        ]
+      },
+      {
+        "name": "+500",
+        "rawCells": [
+          "Max HP",
+          "+500",
+          "+800",
+          "+300",
+          "+1000",
+          "+800",
+          "+800",
+          "+800",
+          "+800"
+        ]
+      },
+      {
+        "name": "+500",
+        "rawCells": [
+          "Max DS",
+          "+500",
+          "+800",
+          "+300",
+          "+800",
+          "+800",
+          "+800",
+          "+800",
+          "+800"
+        ]
+      },
+      {
+        "name": "+100",
+        "rawCells": [
+          "Attack",
+          "+100",
+          "+200",
+          "+50",
+          "+200",
+          "+200",
+          "+200",
+          "+275",
+          "+275"
+        ]
+      },
+      {
+        "name": "+25",
+        "rawCells": [
+          "Defense",
+          "+25",
+          "+50",
+          "+30",
+          "+50",
+          "+50",
+          "+100",
+          "+50",
+          "+50"
+        ]
+      },
+      {
+        "name": "+2%",
+        "rawCells": [
+          "Critical",
+          "+2%",
+          "+5%",
+          "+2%",
+          "+5%",
+          "+5%",
+          "+5%",
+          "+5%",
+          "+5%"
+        ]
+      },
+      {
+        "name": "+1.5%",
+        "rawCells": [
+          "Skill",
+          "+1.5%",
+          "+3%",
+          "+1%",
+          "+4%",
+          "+6%",
+          "+4%",
+          "+4%",
+          "+6%"
+        ]
+      },
+      {
+        "name": "+2%",
+        "rawCells": [
+          "Attribute",
+          "+2%",
+          "+5%",
+          "+2%",
+          "+5%",
+          "+5%",
+          "+5%",
+          "+5%",
+          "+5%"
+        ]
+      },
+      {
+        "name": "+5%",
+        "rawCells": [
+          "Critical Damage",
+          "+5%",
+          "+20%",
+          "+4%",
+          "+20%",
+          "+20%",
+          "+20%",
+          "+20%",
+          "+20%"
+        ]
+      },
+      {
+        "name": "+4%",
+        "rawCells": [
+          "Attack Speed",
+          "+4%",
+          "+15%",
+          "+4%",
+          "+15%",
+          "+15%",
+          "+15%",
+          "+15%",
+          "+15%"
+        ]
+      },
+      {
+        "name": "+816",
+        "rawCells": [
+          "Max HP",
+          "+816",
+          "+832",
+          "+848",
+          "+864",
+          "+880"
+        ]
+      },
+      {
+        "name": "+816",
+        "rawCells": [
+          "Max DS",
+          "+816",
+          "+832",
+          "+848",
+          "+864",
+          "+880"
+        ]
+      },
+      {
+        "name": "+204",
+        "rawCells": [
+          "Attack",
+          "+204",
+          "+208",
+          "+212",
+          "+216",
+          "+220"
+        ]
+      },
+      {
+        "name": "+51",
+        "rawCells": [
+          "Defense",
+          "+51",
+          "+52",
+          "+53",
+          "+54",
+          "+55"
+        ]
+      },
+      {
+        "name": "+6%",
+        "rawCells": [
+          "Critical",
+          "+6%"
+        ]
+      },
+      {
+        "name": "+4%",
+        "rawCells": [
+          "Skill",
+          "+4%",
+          "+4%",
+          "+4%",
+          "+4%",
+          "+5%"
+        ]
+      },
+      {
+        "name": "+6%",
+        "rawCells": [
+          "Attribute",
+          "+6%"
+        ]
+      },
+      {
+        "name": "+20.4%",
+        "rawCells": [
+          "Critical Damage",
+          "+20.4%",
+          "+20.8%",
+          "+21.2%",
+          "+21.6%",
+          "+22%"
+        ]
+      },
+      {
+        "name": "+896",
+        "rawCells": [
+          "Max HP",
+          "+896",
+          "+920",
+          "+960",
+          "+1000",
+          "+1200"
+        ]
+      },
+      {
+        "name": "+896",
+        "rawCells": [
+          "Max DS",
+          "+896",
+          "+920",
+          "+960",
+          "+1000",
+          "+1200"
+        ]
+      },
+      {
+        "name": "+224",
+        "rawCells": [
+          "Attack",
+          "+224",
+          "+230",
+          "+240",
+          "+250",
+          "+300"
+        ]
+      },
+      {
+        "name": "+56",
+        "rawCells": [
+          "Defense",
+          "+56",
+          "+58",
+          "+60",
+          "+63",
+          "+100"
+        ]
+      },
+      {
+        "name": "+6%",
+        "rawCells": [
+          "Skill",
+          "+6%",
+          "+6%",
+          "+7%",
+          "+7%",
+          "+7%"
+        ]
+      },
+      {
+        "name": "+22.4%",
+        "rawCells": [
+          "Critical Damage",
+          "+22.4%",
+          "+23%",
+          "+24%",
+          "+25%",
+          "+26%"
+        ]
+      },
+      {
+        "name": "700",
+        "rawCells": [
+          "Max HP",
+          "700",
+          "750",
+          "800",
+          "850",
+          "900",
+          "1000",
+          "1100",
+          "1200",
+          "1300",
+          "1400"
+        ]
+      },
+      {
+        "name": "700",
+        "rawCells": [
+          "Max DS",
+          "700",
+          "750",
+          "800",
+          "850",
+          "900",
+          "1000",
+          "1100",
+          "1200",
+          "1300",
+          "1400"
+        ]
+      },
+      {
+        "name": "160",
+        "rawCells": [
+          "Attack",
+          "160",
+          "180",
+          "200",
+          "220",
+          "240",
+          "260",
+          "280",
+          "300",
+          "320",
+          "340"
+        ]
+      },
+      {
+        "name": "40",
+        "rawCells": [
+          "Defense",
+          "40",
+          "50",
+          "60",
+          "80",
+          "100",
+          "120",
+          "140",
+          "160",
+          "180",
+          "200"
+        ]
+      },
+      {
+        "name": "4%",
+        "rawCells": [
+          "Critical",
+          "4%"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Skill",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "10%"
+        ]
+      },
+      {
+        "name": "4%",
+        "rawCells": [
+          "Attribute",
+          "4%",
+          "8%"
+        ]
+      },
+      {
+        "name": "16%",
+        "rawCells": [
+          "Critical Damage%",
+          "16%",
+          "17%",
+          "18%",
+          "19%",
+          "20%",
+          "21%",
+          "22%",
+          "24%",
+          "26%",
+          "28%"
+        ]
+      },
+      {
+        "name": "10%",
+        "rawCells": [
+          "Attack Speed",
+          "10%",
+          "11%",
+          "16%"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max HP",
+          "1500"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max DS",
+          "1500"
+        ]
+      },
+      {
+        "name": "2000",
+        "rawCells": [
+          "Attack",
+          "2000"
+        ]
+      },
+      {
+        "name": "16%",
+        "rawCells": [
+          "Attack Speed",
+          "16%"
+        ]
+      },
+      {
+        "name": "10%",
+        "rawCells": [
+          "Basic Attribute",
+          "10%"
+        ]
+      },
+      {
+        "name": "10%",
+        "rawCells": [
+          "Critical",
+          "10%"
+        ]
+      },
+      {
+        "name": "250",
+        "rawCells": [
+          "Defense",
+          "250"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max HP",
+          "1500"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max DS",
+          "1500"
+        ]
+      },
+      {
+        "name": "500",
+        "rawCells": [
+          "Attack",
+          "500"
+        ]
+      },
+      {
+        "name": "16%",
+        "rawCells": [
+          "Attack Speed",
+          "16%"
+        ]
+      },
+      {
+        "name": "10%",
+        "rawCells": [
+          "Basic Attribute",
+          "10%"
+        ]
+      },
+      {
+        "name": "5%",
+        "rawCells": [
+          "Skill",
+          "5%"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max HP",
+          "1500"
+        ]
+      },
+      {
+        "name": "15%",
+        "rawCells": [
+          "Max HP",
+          "15%"
+        ]
+      },
+      {
+        "name": "500",
+        "rawCells": [
+          "Attack",
+          "500"
+        ]
+      },
+      {
+        "name": "500",
+        "rawCells": [
+          "Defense",
+          "500"
+        ]
+      },
+      {
+        "name": "15%",
+        "rawCells": [
+          "Defense",
+          "15%"
+        ]
+      },
+      {
+        "name": "5%",
+        "rawCells": [
+          "Block",
+          "5%"
+        ]
+      },
+      {
+        "name": "2%",
+        "rawCells": [
+          "Evasion",
+          "2%"
+        ]
+      }
+    ],
+    "Earrings": [
+      {
+        "name": "Flame Earring of Sealed Zhuqiaomon",
+        "rawCells": [
+          "",
+          "Flame Earring of Sealed Zhuqiaomon",
+          "3",
+          "❌",
+          "From  Zhuqiaomon (Raid) Box"
+        ]
+      },
+      {
+        "name": "Aural Earring of Sealed Baihumon",
+        "rawCells": [
+          "",
+          "Aural Earring of Sealed Baihumon",
+          "3",
+          "❌",
+          "From  Baihumon (Raid) Box"
+        ]
+      },
+      {
+        "name": "Qinglongmon's Sealed Radiant Earring",
+        "rawCells": [
+          "",
+          "Qinglongmon's Sealed Radiant Earring",
+          "4",
+          "❌",
+          "From  Qinglongmon (Raid) Box"
+        ]
+      },
+      {
+        "name": "Miracle Earrings [Level 10]",
+        "rawCells": [
+          "",
+          "Miracle Earrings [Level 10]",
+          "4",
+          "✅",
+          "Trading Miracle Accessory [Level 10] Ticket with Magnamon NPC"
+        ]
+      },
+      {
+        "name": "Miracle Earring [Special]",
+        "rawCells": [
+          "",
+          "Miracle Earring [Special]",
+          "5",
+          "✅",
+          "Trading Miracle Earrings [Level 10] + Qinglongmon's Sealed Radiant Earring with Magnamon NPC"
+        ]
+      },
+      {
+        "name": "Sealed Earrings of Four Holy Beasts [Lv.1-5]",
+        "rawCells": [
+          "",
+          "Sealed Earrings of Four Holy Beasts [Lv.1-5]",
+          "4",
+          "✅",
+          "Digitamamon (Item Make) (materials collectible from Trace of Black Steel (Hard Mode))"
+        ]
+      },
+      {
+        "name": "Sealed Radiant Earrings of Four Holy Beasts [Lv.1-5]",
+        "rawCells": [
+          "",
+          "Sealed Radiant Earrings of Four Holy Beasts [Lv.1-5]",
+          "4",
+          "✅",
+          "Digitamamon (Item Make) (materials collectible from Descending Thunder God (Hard Mode))"
+        ]
+      },
+      {
+        "name": "Fanglongmon's Ancient Earring [Lv.1-10]",
+        "rawCells": [
+          "",
+          "Fanglongmon's Ancient Earring [Lv.1-10]",
+          "4",
+          "✅",
+          "From  Fanglongmon (Raid) / Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Earring of the Metalic Beast [AA/SK/TA]",
+        "rawCells": [
+          "",
+          "Earring of the Metalic Beast [AA/SK/TA]",
+          "5",
+          "✅",
+          "Taichi (Spiral Mountain) (materials collectible from Back of the Empire)"
+        ]
+      },
+      {
+        "name": "+800",
+        "rawCells": [
+          "Max HP",
+          "+800",
+          "+300",
+          "+800",
+          "+800",
+          "+800",
+          "+800"
+        ]
+      },
+      {
+        "name": "+800",
+        "rawCells": [
+          "Max DS",
+          "+800",
+          "+300",
+          "+800",
+          "+800",
+          "+800",
+          "+800"
+        ]
+      },
+      {
+        "name": "+100",
+        "rawCells": [
+          "Defense",
+          "+100",
+          "+50",
+          "+100",
+          "+150",
+          "+100",
+          "+100"
+        ]
+      },
+      {
+        "name": "+7%",
+        "rawCells": [
+          "Critical",
+          "+7%",
+          "+3%",
+          "+7%",
+          "+7%",
+          "+7%",
+          "+7%"
+        ]
+      },
+      {
+        "name": "+5%",
+        "rawCells": [
+          "Skill",
+          "+5%",
+          "+2%",
+          "+8%",
+          "+6%",
+          "+6%",
+          "+8%"
+        ]
+      },
+      {
+        "name": "+3%",
+        "rawCells": [
+          "Attribute",
+          "+3%",
+          "+7%",
+          "+7%",
+          "+7%",
+          "+7%",
+          "+7%"
+        ]
+      },
+      {
+        "name": "+20%",
+        "rawCells": [
+          "Critical Damage",
+          "+20%",
+          "+4%",
+          "+20%",
+          "+20%",
+          "+25%",
+          "+25%"
+        ]
+      },
+      {
+        "name": "+500",
+        "rawCells": [
+          "Hit Rate",
+          "+500",
+          "+100",
+          "+500",
+          "+500",
+          "+500",
+          "+500"
+        ]
+      },
+      {
+        "name": "+1%",
+        "rawCells": [
+          "Evasion",
+          "+1%",
+          "+1%",
+          "+1%",
+          "+1%",
+          "+1%",
+          "+1%"
+        ]
+      },
+      {
+        "name": "+6%",
+        "rawCells": [
+          "Block",
+          "+6%",
+          "+3%",
+          "+6%",
+          "+6%",
+          "+6%",
+          "+6%"
+        ]
+      },
+      {
+        "name": "+816",
+        "rawCells": [
+          "Max HP",
+          "+816",
+          "+832",
+          "+848",
+          "+864",
+          "+880"
+        ]
+      },
+      {
+        "name": "+816",
+        "rawCells": [
+          "Max DS",
+          "+816",
+          "+832",
+          "+848",
+          "+864",
+          "+880"
+        ]
+      },
+      {
+        "name": "+102",
+        "rawCells": [
+          "Defense",
+          "+102",
+          "+104",
+          "+106",
+          "+108",
+          "+110"
+        ]
+      },
+      {
+        "name": "+8%",
+        "rawCells": [
+          "Critical",
+          "+8%"
+        ]
+      },
+      {
+        "name": "+8%",
+        "rawCells": [
+          "Skill",
+          "+8%",
+          "+8%",
+          "+8%",
+          "+8%",
+          "+10%"
+        ]
+      },
+      {
+        "name": "+8%",
+        "rawCells": [
+          "Attribute",
+          "+8%"
+        ]
+      },
+      {
+        "name": "+20.4%",
+        "rawCells": [
+          "Critical Damage",
+          "+20.4%",
+          "+20.8%",
+          "+21.2%",
+          "+21.6%",
+          "+22%"
+        ]
+      },
+      {
+        "name": "+510",
+        "rawCells": [
+          "Hit Rate",
+          "+510",
+          "+520",
+          "+530",
+          "+540",
+          "+550"
+        ]
+      },
+      {
+        "name": "+1%",
+        "rawCells": [
+          "Evasion",
+          "+1%"
+        ]
+      },
+      {
+        "name": "+7%",
+        "rawCells": [
+          "Block",
+          "+7%"
+        ]
+      },
+      {
+        "name": "+896",
+        "rawCells": [
+          "Max HP",
+          "+896",
+          "+920",
+          "+960",
+          "+1000",
+          "+1200"
+        ]
+      },
+      {
+        "name": "+896",
+        "rawCells": [
+          "Max DS",
+          "+896",
+          "+920",
+          "+960",
+          "+1000",
+          "+1200"
+        ]
+      },
+      {
+        "name": "+112",
+        "rawCells": [
+          "Defense",
+          "+112",
+          "+115",
+          "+120",
+          "+125",
+          "+130"
+        ]
+      },
+      {
+        "name": "+8%",
+        "rawCells": [
+          "Critical",
+          "+8%",
+          "+10%"
+        ]
+      },
+      {
+        "name": "+7%",
+        "rawCells": [
+          "Skill",
+          "+7%",
+          "+7%",
+          "+8%",
+          "+10%",
+          "+12%"
+        ]
+      },
+      {
+        "name": "+8%",
+        "rawCells": [
+          "Attribute",
+          "+8%",
+          "+10%"
+        ]
+      },
+      {
+        "name": "+22.4%",
+        "rawCells": [
+          "Critical Damage",
+          "+22.4%",
+          "+23%",
+          "+24%",
+          "+25%",
+          "+26%"
+        ]
+      },
+      {
+        "name": "+560",
+        "rawCells": [
+          "Hit Rate",
+          "+560",
+          "+575",
+          "+600",
+          "+625",
+          "+650"
+        ]
+      },
+      {
+        "name": "+2%",
+        "rawCells": [
+          "Evasion",
+          "+2%",
+          "+2%"
+        ]
+      },
+      {
+        "name": "700",
+        "rawCells": [
+          "Max HP",
+          "700",
+          "750",
+          "800",
+          "850",
+          "900",
+          "1000",
+          "1100",
+          "1200",
+          "1300",
+          "1400"
+        ]
+      },
+      {
+        "name": "700",
+        "rawCells": [
+          "Max DS",
+          "700",
+          "750",
+          "800",
+          "850",
+          "900",
+          "1000",
+          "1100",
+          "1200",
+          "1300",
+          "1400"
+        ]
+      },
+      {
+        "name": "60",
+        "rawCells": [
+          "Defense",
+          "60",
+          "80",
+          "100",
+          "120",
+          "140",
+          "160",
+          "180",
+          "200",
+          "220",
+          "240"
+        ]
+      },
+      {
+        "name": "8%",
+        "rawCells": [
+          "Critical",
+          "8%",
+          "9%",
+          "10%"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Skill",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "15%"
+        ]
+      },
+      {
+        "name": "8%",
+        "rawCells": [
+          "Attribute",
+          "8%",
+          "12%"
+        ]
+      },
+      {
+        "name": "16%",
+        "rawCells": [
+          "Critical Damage",
+          "16%",
+          "17%",
+          "18%",
+          "19%",
+          "21%",
+          "22%",
+          "23%",
+          "24%",
+          "26%",
+          "28%"
+        ]
+      },
+      {
+        "name": "500",
+        "rawCells": [
+          "Hit Rate",
+          "500",
+          "520",
+          "540",
+          "560",
+          "580",
+          "600",
+          "620",
+          "640",
+          "660",
+          "700"
+        ]
+      },
+      {
+        "name": "2%",
+        "rawCells": [
+          "Evasion",
+          "2%"
+        ]
+      },
+      {
+        "name": "10%",
+        "rawCells": [
+          "Block",
+          "10%"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max HP",
+          "1500"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max DS",
+          "1500"
+        ]
+      },
+      {
+        "name": "1000",
+        "rawCells": [
+          "Attack",
+          "1000"
+        ]
+      },
+      {
+        "name": "1000",
+        "rawCells": [
+          "Hit Rate",
+          "1000"
+        ]
+      },
+      {
+        "name": "15%",
+        "rawCells": [
+          "Basic Attribute",
+          "15%"
+        ]
+      },
+      {
+        "name": "70%",
+        "rawCells": [
+          "Critical Damage",
+          "70%"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max HP",
+          "1500"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max DS",
+          "1500"
+        ]
+      },
+      {
+        "name": "1000",
+        "rawCells": [
+          "Hit Rate",
+          "1000"
+        ]
+      },
+      {
+        "name": "15%",
+        "rawCells": [
+          "Basic Attribute",
+          "15%"
+        ]
+      },
+      {
+        "name": "7%",
+        "rawCells": [
+          "Skill",
+          "7%"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max HP",
+          "1500"
+        ]
+      },
+      {
+        "name": "20%",
+        "rawCells": [
+          "Max HP",
+          "20%"
+        ]
+      },
+      {
+        "name": "500",
+        "rawCells": [
+          "Defense",
+          "500"
+        ]
+      },
+      {
+        "name": "20%",
+        "rawCells": [
+          "Defense",
+          "20%"
+        ]
+      },
+      {
+        "name": "15%",
+        "rawCells": [
+          "Block",
+          "15%"
+        ]
+      },
+      {
+        "name": "3%",
+        "rawCells": [
+          "Evasion",
+          "3%"
+        ]
+      }
+    ],
+    "Bracelets": [
+      {
+        "name": "Crude Rusty Bracelet",
+        "rawCells": [
+          "",
+          "Crude Rusty Bracelet",
+          "1",
+          "✅",
+          "Quest from Gallantmon NPC (Versandi Terminal)"
+        ]
+      },
+      {
+        "name": "Rusty Bracelet",
+        "rawCells": [
+          "",
+          "Rusty Bracelet",
+          "1",
+          "✅",
+          "Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Knight's Bracelet",
+        "rawCells": [
+          "",
+          "Knight's Bracelet",
+          "1",
+          "✅",
+          "Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Radiant Knight's Bracelet",
+        "rawCells": [
+          "",
+          "Radiant Knight's Bracelet",
+          "2",
+          "✅",
+          "Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Royal : Knight's Bracelet",
+        "rawCells": [
+          "",
+          "Royal&#160;: Knight's Bracelet",
+          "3",
+          "✅",
+          "Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Royal : Radiant Knight's Bracelet",
+        "rawCells": [
+          "",
+          "Royal&#160;: Radiant Knight's Bracelet",
+          "4",
+          "✅",
+          "Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Royal : X-Knight's Bracelet",
+        "rawCells": [
+          "",
+          "Royal&#160;: X-Knight's Bracelet",
+          "5",
+          "✅",
+          "Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Miracle Bracelet [Special]",
+        "rawCells": [
+          "",
+          "Miracle Bracelet [Special]",
+          "5",
+          "✅",
+          "Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Royal : Yggdrasil Bracelet",
+        "rawCells": [
+          "",
+          "Royal&#160;: Yggdrasil Bracelet",
+          "5",
+          "✅",
+          "Digitamamon (Item Make)"
+        ]
+      },
+      {
+        "name": "Bracelet of the Cruel Clown [AA/SK/TA]",
+        "rawCells": [
+          "",
+          "Bracelet of the Cruel Clown [AA/SK/TA]",
+          "5",
+          "✅",
+          "Taichi (Spiral Mountain) (materials collectible from Stage Of Clown)"
+        ]
+      },
+      {
+        "name": "+960",
+        "rawCells": [
+          "Max HP",
+          "+960",
+          "+1200"
+        ]
+      },
+      {
+        "name": "+960",
+        "rawCells": [
+          "Max DS",
+          "+960",
+          "+1200"
+        ]
+      },
+      {
+        "name": "+480",
+        "rawCells": [
+          "Attack",
+          "+480",
+          "+580"
+        ]
+      },
+      {
+        "name": "+120",
+        "rawCells": [
+          "Defense",
+          "+120",
+          "+250"
+        ]
+      },
+      {
+        "name": "+8%",
+        "rawCells": [
+          "Critical",
+          "+8%",
+          "+10"
+        ]
+      },
+      {
+        "name": "+12%",
+        "rawCells": [
+          "Skill",
+          "+12%",
+          "+20%"
+        ]
+      },
+      {
+        "name": "+24%",
+        "rawCells": [
+          "Critical Damage",
+          "+24%",
+          "+30%"
+        ]
+      },
+      {
+        "name": "+600",
+        "rawCells": [
+          "Hit Rate",
+          "+600",
+          "+750"
+        ]
+      },
+      {
+        "name": "+1%",
+        "rawCells": [
+          "Evasion",
+          "+1%",
+          "+2%"
+        ]
+      },
+      {
+        "name": "+10%",
+        "rawCells": [
+          "Block",
+          "+10%"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max HP",
+          "1500"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max DS",
+          "1500"
+        ]
+      },
+      {
+        "name": "750",
+        "rawCells": [
+          "Attack",
+          "750"
+        ]
+      },
+      {
+        "name": "20%",
+        "rawCells": [
+          "Critical Hit",
+          "20%"
+        ]
+      },
+      {
+        "name": "1750",
+        "rawCells": [
+          "Hit Rate",
+          "1750"
+        ]
+      },
+      {
+        "name": "10%",
+        "rawCells": [
+          "Skill",
+          "10%"
+        ]
+      },
+      {
+        "name": "85%",
+        "rawCells": [
+          "Critical Damage",
+          "85%"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max HP",
+          "1500"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max DS",
+          "1500"
+        ]
+      },
+      {
+        "name": "600",
+        "rawCells": [
+          "Attack",
+          "600"
+        ]
+      },
+      {
+        "name": "10%",
+        "rawCells": [
+          "Critical Hit",
+          "10%"
+        ]
+      },
+      {
+        "name": "9%",
+        "rawCells": [
+          "Skill",
+          "9%"
+        ]
+      },
+      {
+        "name": "15%",
+        "rawCells": [
+          "Skill Flat",
+          "15%"
+        ]
+      },
+      {
+        "name": "1500",
+        "rawCells": [
+          "Max HP",
+          "1500"
+        ]
+      },
+      {
+        "name": "20%",
+        "rawCells": [
+          "Max HP",
+          "20%"
+        ]
+      },
+      {
+        "name": "600",
+        "rawCells": [
+          "Defense",
+          "600"
+        ]
+      },
+      {
+        "name": "20%",
+        "rawCells": [
+          "Defense",
+          "20%"
+        ]
+      },
+      {
+        "name": "15%",
+        "rawCells": [
+          "Block",
+          "15%"
+        ]
+      },
+      {
+        "name": "3%",
+        "rawCells": [
+          "Evasion",
+          "3%"
+        ]
+      }
+    ]
+  },
+  "Corrupted Accessories": {
+    "_root": [
+      {
+        "name": "Corrupted Ring of the Marine Dragon [AA/SK/TA]",
+        "rawCells": [
+          "",
+          "Corrupted Ring of the Marine Dragon [AA/SK/TA]",
+          "5",
+          "❌",
+          "Crafted from Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Corrupted Necklace of the Wooden Puppet [AA/SK/TA]",
+        "rawCells": [
+          "",
+          "Corrupted Necklace of the Wooden Puppet [AA/SK/TA]",
+          "5",
+          "❌",
+          "Crafted from Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Corrupted Earring of the Metallic Beast [AA/SK/TA]",
+        "rawCells": [
+          "",
+          "Corrupted Earring of the Metallic Beast [AA/SK/TA]",
+          "5",
+          "❌",
+          "Crafted from Taichi (Spiral Mountain)"
+        ]
+      },
+      {
+        "name": "Corrupted Bracelet of the Cruel Clown [AA/SK/TA]",
+        "rawCells": [
+          "",
+          "Corrupted Bracelet of the Cruel Clown [AA/SK/TA]",
+          "5",
+          "❌",
+          "Crafted from Taichi (Spiral Mountain)"
+        ]
+      }
+    ],
+    "Ring": [
+      {
+        "name": "+3640",
+        "rawCells": [
+          "Max HP",
+          "+3640",
+          "+3640",
+          "+3900"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Max HP (%)",
+          "-",
+          "-",
+          "+26.00%"
+        ]
+      },
+      {
+        "name": "+3640",
+        "rawCells": [
+          "Max DS",
+          "+3640",
+          "+3640",
+          "-"
+        ]
+      },
+      {
+        "name": "+2080",
+        "rawCells": [
+          "Attack",
+          "+2080",
+          "+1300",
+          "+1300"
+        ]
+      },
+      {
+        "name": "+26.00%",
+        "rawCells": [
+          "Critical Hit",
+          "+26.00%",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "name": "+39.00%",
+        "rawCells": [
+          "Critical Damage",
+          "+39.00%",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Skill Damage",
+          "-",
+          "+52.00%",
+          "-"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Skill Damage (%)",
+          "-",
+          "+13.00%",
+          "-"
+        ]
+      },
+      {
+        "name": "23.40%",
+        "rawCells": [
+          "Attribute",
+          "23.40%",
+          "+26.00%",
+          "-"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Defense",
+          "-",
+          "-",
+          "+1300"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Defense (%)",
+          "-",
+          "-",
+          "+26.00%"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Evasion",
+          "-",
+          "-",
+          "+5.20%"
+        ]
+      }
+    ],
+    "Necklace": [
+      {
+        "name": "+3900",
+        "rawCells": [
+          "Max HP",
+          "+3900",
+          "+3900",
+          "+3900"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Max HP (%)",
+          "-",
+          "-",
+          "+26.00%"
+        ]
+      },
+      {
+        "name": "+5200",
+        "rawCells": [
+          "Max DS",
+          "+5200",
+          "+5200",
+          "-"
+        ]
+      },
+      {
+        "name": "+5200",
+        "rawCells": [
+          "Attack",
+          "+5200",
+          "+1300",
+          "+1300"
+        ]
+      },
+      {
+        "name": "+32.00%",
+        "rawCells": [
+          "Attack Speed",
+          "+32.00%",
+          "32.00%",
+          "-"
+        ]
+      },
+      {
+        "name": "+26.00%",
+        "rawCells": [
+          "Critical Hit",
+          "+26.00%",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Skill Damage (%)",
+          "-",
+          "+13.00%",
+          "-"
+        ]
+      },
+      {
+        "name": "26.00%",
+        "rawCells": [
+          "Attribute",
+          "26.00%",
+          "+26.00%",
+          "-"
+        ]
+      },
+      {
+        "name": "+650",
+        "rawCells": [
+          "Defense",
+          "+650",
+          "+650",
+          "+1300"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Defense (%)",
+          "-",
+          "-",
+          "+39.00%"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Evasion",
+          "-",
+          "-",
+          "+5.20%"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Block",
+          "-",
+          "-",
+          "+13.00%"
+        ]
+      }
+    ],
+    "Earring": [
+      {
+        "name": "+3900",
+        "rawCells": [
+          "Max HP",
+          "+3900",
+          "+3900",
+          "+3900"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Max HP (%)",
+          "-",
+          "-",
+          "+39.00%"
+        ]
+      },
+      {
+        "name": "+3900",
+        "rawCells": [
+          "Max DS",
+          "+3900",
+          "+3900",
+          "-"
+        ]
+      },
+      {
+        "name": "+2600",
+        "rawCells": [
+          "Attack",
+          "+2600",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "name": "+2600",
+        "rawCells": [
+          "Hit Rate",
+          "+2600",
+          "+2600",
+          "-"
+        ]
+      },
+      {
+        "name": "+182.00%",
+        "rawCells": [
+          "Critical Damage",
+          "+182.00%",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Skill Damage (%)",
+          "-",
+          "+26.00%",
+          "-"
+        ]
+      },
+      {
+        "name": "39.00%",
+        "rawCells": [
+          "Attribute",
+          "39.00%",
+          "+39.00%",
+          "-"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Defense",
+          "-",
+          "-",
+          "+1300"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Defense (%)",
+          "-",
+          "-",
+          "+52.00%"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Evasion",
+          "-",
+          "-",
+          "+7.80%"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Block",
+          "-",
+          "-",
+          "+39.00%"
+        ]
+      }
+    ],
+    "Bracelet": [
+      {
+        "name": "+3900",
+        "rawCells": [
+          "Max HP",
+          "+3900",
+          "+3900",
+          "+3900"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Max HP (%)",
+          "-",
+          "-",
+          "+52.00%"
+        ]
+      },
+      {
+        "name": "+3900",
+        "rawCells": [
+          "Max DS",
+          "+3900",
+          "+3900",
+          "-"
+        ]
+      },
+      {
+        "name": "+1950",
+        "rawCells": [
+          "Attack",
+          "+1950",
+          "+1950",
+          "-"
+        ]
+      },
+      {
+        "name": "+26.00%",
+        "rawCells": [
+          "Critical Hit",
+          "+26.00%",
+          "+52.00%",
+          "-"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Hit Rate",
+          "-",
+          "+4550",
+          "-"
+        ]
+      },
+      {
+        "name": "+221.00%",
+        "rawCells": [
+          "Critical Damage",
+          "+221.00%",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "name": "+26.00%",
+        "rawCells": [
+          "Skill Damage (%)",
+          "+26.00%",
+          "+24.00%",
+          "-"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Attribute",
+          "-",
+          "+39.00%",
+          "-"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Defense",
+          "-",
+          "-",
+          "+1560"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Defense (%)",
+          "-",
+          "-",
+          "+52.00%"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Evasion",
+          "-",
+          "-",
+          "+7.80%"
+        ]
+      },
+      {
+        "name": "-",
+        "rawCells": [
+          "Block",
+          "-",
+          "-",
+          "+39.00%"
+        ]
+      }
+    ]
+  },
+  "DigiAura": {
+    "_root": [
+      {
+        "name": "DigiAura",
+        "rawCells": [
+          "",
+          "DigiAura",
+          "Halt the Tamer DS consumption to maintain evolution",
+          "-",
+          "Cash shop or event"
+        ]
+      },
+      {
+        "name": "Reinforced DigiAura Ver. X",
+        "rawCells": [
+          "",
+          "Reinforced DigiAura Ver. X",
+          "Halt the Tamer DS consumption to maintain evolution",
+          "Attack +400, Tamer HP +1300, EXP +200%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Reinforced DigiAura Ver. Y",
+        "rawCells": [
+          "",
+          "Reinforced DigiAura Ver. Y",
+          "Halt the Tamer DS consumption to maintain evolution",
+          "Defense +300, Tamer HP +1300, EXP +200%",
+          "Events"
+        ]
+      },
+      {
+        "name": "Halloween DigiAura",
+        "rawCells": [
+          "",
+          "Halloween DigiAura",
+          "Halt the Tamer DS consumption to maintain evolution",
+          "Attack +200, Tamer HP +1000, Exp +100%",
+          "Cash shop or event"
+        ]
+      },
+      {
+        "name": "Winter DigiAura",
+        "rawCells": [
+          "",
+          "Winter DigiAura",
+          "Halt the Tamer DS consumption to maintain evolution",
+          "Attack +200, Tamer HP +1000, Exp +100%",
+          "Cash shop or event"
+        ]
+      },
+      {
+        "name": "SuperMoon DigiAura",
+        "rawCells": [
+          "",
+          "SuperMoon DigiAura",
+          "Halt the Tamer DS consumption to maintain evolution",
+          "Attack +300, Tamer HP +1300",
+          "Cash shop or event"
+        ]
+      },
+      {
+        "name": "DigiAura of Feathers",
+        "rawCells": [
+          "",
+          "DigiAura of Feathers",
+          "Halt the Tamer DS consumption to maintain evolution",
+          "Attack +300, Tamer HP +1300",
+          "Cash shop or event"
+        ]
+      },
+      {
+        "name": "Satanic Digiaura",
+        "rawCells": [
+          "",
+          "Satanic Digiaura",
+          "Halt the Tamer DS consumption to maintain evolution",
+          "Attack +400, Tamer HP +1500, DE +300",
+          "Infinite Mountain Dungeon 2.0"
+        ]
+      },
+      {
+        "name": "Golden Digiaura",
+        "rawCells": [
+          "",
+          "Golden Digiaura",
+          "Halt the Tamer DS consumption to maintain evolution",
+          "Attack +200, Tamer HP +1000, EXP +100%",
+          "Cash shop or event"
+        ]
+      },
+      {
+        "name": "Energy Aura",
+        "rawCells": [
+          "",
+          "Energy Aura",
+          "Combined effect of DigiAura and Energy Patch",
+          "---",
+          "Dukemon (Shinjuku Protector), MegaGalgomon (Shinjuku Protector), Sakuyamon (Shinjuku Protector)"
+        ]
+      },
+      {
+        "name": "Zhuqiaomon Aura",
+        "rawCells": [
+          "",
+          "Zhuqiaomon Aura",
+          "Combined effect of DigiAura and Energy Patch",
+          "Max HP + 1000, HT +300, AT +300",
+          "Final Battle"
+        ]
+      },
+      {
+        "name": "Angel Aura",
+        "rawCells": [
+          "",
+          "Angel Aura",
+          "Combined effect of DigiAura and Energy Patch",
+          "Max HP + 1500, Max DS +500, AT +300",
+          "Odaiba Park"
+        ]
+      }
+    ]
+  },
+  "XAI Device": {
+    "_root": [
+      {
+        "name": "XAI Ver. I",
+        "rawCells": [
+          "",
+          "XAI Ver. I",
+          "500 + 1 X-Crystal",
+          "",
+          "Event (Permanent)",
+          "Quest Reward (Verdandi)"
+        ]
+      },
+      {
+        "name": "XAI Ver. II",
+        "rawCells": [
+          "",
+          "XAI Ver. II",
+          "1000 + 2 X-Crystal",
+          "",
+          "1 day, 7 days, 15 days, 30 days",
+          "Digitamamon (Item Make), Event reward"
+        ]
+      },
+      {
+        "name": "XAI Ver. III",
+        "rawCells": [
+          "",
+          "XAI Ver. III",
+          "2000 + 3 X-Crystal",
+          "",
+          "1 day, 7 days, 15 days,30 days",
+          "Digitamamon (Item Make), Event reward"
+        ]
+      },
+      {
+        "name": "XAI Ver. Storm II",
+        "rawCells": [
+          "",
+          "XAI Ver. Storm II",
+          "6000 + 7 X-Crystal",
+          "Attack +200, HP +1000",
+          "30 days",
+          "Event cash shop item"
+        ]
+      },
+      {
+        "name": "XAI Ver. Spooky",
+        "rawCells": [
+          "",
+          "XAI Ver. Spooky",
+          "7000 + 8 X-Crystal",
+          "Attack +300, HP +1500",
+          "30 days",
+          "Event cash shop item"
+        ]
+      },
+      {
+        "name": "XAI Ver. X-Mas",
+        "rawCells": [
+          "",
+          "XAI Ver. X-Mas",
+          "5000 + 6 X-Crystal",
+          "Attack +200, HP +1000",
+          "30 days",
+          "Event cash shop item"
+        ]
+      },
+      {
+        "name": "Sakura XAI Ver. VI",
+        "rawCells": [
+          "",
+          "Sakura XAI Ver. VI",
+          "5000 + 6 X-Crystal",
+          "Friendship +20, EXP +200%",
+          "30 days",
+          "Event cash shop item"
+        ]
+      },
+      {
+        "name": "XAI Ver. Summer",
+        "rawCells": [
+          "",
+          "XAI Ver. Summer",
+          "7000 + 8 X-Crystal",
+          "Attack +300, DS +300, HP +1500",
+          "30 days",
+          "Event cash shop item"
+        ]
+      }
+    ]
+  },
+  "Stat Combos on Accessory": {
+    "Perfect Stats": [
+      {
+        "name": "Basic Attribute",
+        "rawCells": [
+          "Basic Attribute",
+          "Basic Attribute",
+          "Critical Damage",
+          "Critical Damage"
+        ]
+      },
+      {
+        "name": "Critical Damage",
+        "rawCells": [
+          "Basic Attribute",
+          "Critical Damage",
+          "Critical Damage",
+          "Hit Rate"
+        ]
+      },
+      {
+        "name": "Basic Attribute",
+        "rawCells": [
+          "Basic Attribute",
+          "Basic Attribute",
+          "Critical Damage",
+          "Hit Rate",
+          "Attack"
+        ]
+      },
+      {
+        "name": "Skill",
+        "rawCells": [
+          "Skill",
+          "Skill",
+          "Basic Attribute",
+          "Basic Attribute"
+        ]
+      },
+      {
+        "name": "Skill%",
+        "rawCells": [
+          "Skill%",
+          "Skill%",
+          "Basic Attribute",
+          "Basic Attribute",
+          "MaxDS"
+        ]
+      },
+      {
+        "name": "Block",
+        "rawCells": [
+          "MaxHP",
+          "Block",
+          "MaxHP",
+          "Defense"
+        ]
+      },
+      {
+        "name": "MaxHP%",
+        "rawCells": [
+          "MaxHP%",
+          "MaxHP%",
+          "Defense%",
+          "Block",
+          "Evasion"
+        ]
+      },
+      {
+        "name": "MaxHP%",
+        "rawCells": [
+          "MaxHP%",
+          "MaxHP%",
+          "Defense%",
+          "Defense%",
+          "Block"
+        ]
+      },
+      {
+        "name": "Critical Damage",
+        "rawCells": [
+          "Attack Speed",
+          "Critical Damage",
+          "Basic Attribute",
+          "Basic Attribute"
+        ]
+      },
+      {
+        "name": "Critical Damage",
+        "rawCells": [
+          "Attack Speed",
+          "Critical Damage",
+          "Attack",
+          "Basic Attribute"
+        ]
+      },
+      {
+        "name": "Attack",
+        "rawCells": [
+          "Attack Speed",
+          "Attack",
+          "Basic Attribute",
+          "Basic Attribute",
+          "MaxHP"
+        ]
+      },
+      {
+        "name": "Skill",
+        "rawCells": [
+          "Critical Damage",
+          "Skill",
+          "Basic Attribute",
+          "Basic Attribute"
+        ]
+      },
+      {
+        "name": "Skill",
+        "rawCells": [
+          "MaxHP",
+          "Skill",
+          "Basic Attribute",
+          "Basic Attribute"
+        ]
+      },
+      {
+        "name": "Skill%",
+        "rawCells": [
+          "MaxHP",
+          "Skill%",
+          "Skill%",
+          "Basic Attribute",
+          "Basic Attribute"
+        ]
+      },
+      {
+        "name": "MaxHP",
+        "rawCells": [
+          "MaxHP",
+          "MaxHP",
+          "MaxHP",
+          "Attack Speed"
+        ]
+      },
+      {
+        "name": "MaxHP",
+        "rawCells": [
+          "MaxHP",
+          "MaxHP",
+          "Attack Speed",
+          "Critical Damage"
+        ]
+      },
+      {
+        "name": "MaxHP%",
+        "rawCells": [
+          "MaxHP%",
+          "MaxHP%",
+          "Defense%",
+          "Block",
+          "Evasion"
+        ]
+      },
+      {
+        "name": "MaxHP%",
+        "rawCells": [
+          "MaxHP%",
+          "MaxHP%",
+          "Defense%",
+          "Defense%",
+          "Block"
+        ]
+      },
+      {
+        "name": "Attack",
+        "rawCells": [
+          "Attack",
+          "Attack",
+          "Basic Attribute",
+          "Basic Attribute"
+        ]
+      },
+      {
+        "name": "Attack",
+        "rawCells": [
+          "Attack",
+          "Attack",
+          "Basic Attribute",
+          "Basic Attribute",
+          "Critical Damage"
+        ]
+      },
+      {
+        "name": "Skill",
+        "rawCells": [
+          "Skill",
+          "Skill",
+          "Basic Attribute",
+          "Basic Attribute"
+        ]
+      },
+      {
+        "name": "Skill%",
+        "rawCells": [
+          "Skill%",
+          "Skill%",
+          "Basic Attribute",
+          "Basic Attribute",
+          "MaxHP"
+        ]
+      },
+      {
+        "name": "MaxHP",
+        "rawCells": [
+          "MaxHP",
+          "MaxHP",
+          "Defense",
+          "Defense"
+        ]
+      },
+      {
+        "name": "MaxHP",
+        "rawCells": [
+          "MaxHP",
+          "MaxHP",
+          "MaxHP",
+          "Defense"
+        ]
+      },
+      {
+        "name": "MaxHP%",
+        "rawCells": [
+          "MaxHP%",
+          "MaxHP%",
+          "Defense%",
+          "Defense%",
+          "Evasion"
+        ]
+      },
+      {
+        "name": "MaxHP%",
+        "rawCells": [
+          "MaxHP%",
+          "MaxHP%",
+          "Defense%",
+          "Evasion",
+          "Evasion"
+        ]
+      },
+      {
+        "name": "Critical Damage",
+        "rawCells": [
+          "Critical Damage",
+          "Critical Damage",
+          "Hit Rate",
+          "Hit Rate",
+          "Attack"
+        ]
+      },
+      {
+        "name": "Skill",
+        "rawCells": [
+          "Skill",
+          "Skill",
+          "Hit Rate",
+          "Hit Rate",
+          "Critical Damage"
+        ]
+      },
+      {
+        "name": "Skill",
+        "rawCells": [
+          "Skill",
+          "Skill",
+          "MaxHP",
+          "MaxHP",
+          "Hit Rate"
+        ]
+      },
+      {
+        "name": "MaxHP",
+        "rawCells": [
+          "MaxHP",
+          "MaxHP",
+          "Defense",
+          "Defense",
+          "Hit Rate"
+        ]
+      }
+    ],
+    "Semi-Perfect Stats": [
+      {
+        "name": "Critical Damage",
+        "rawCells": [
+          "Critical Damage",
+          "Critical Damage",
+          "Basic Attribute",
+          "X"
+        ]
+      },
+      {
+        "name": "Critical Damage",
+        "rawCells": [
+          "Critical Damage",
+          "Critical Damage",
+          "Hit Rate",
+          "X"
+        ]
+      },
+      {
+        "name": "Basic Attribute",
+        "rawCells": [
+          "Skill",
+          "Basic Attribute",
+          "Basic Attribute",
+          "X"
+        ]
+      },
+      {
+        "name": "Critical Damage",
+        "rawCells": [
+          "Attack Speed",
+          "Critical Damage",
+          "Basic Attribute",
+          "X"
+        ]
+      },
+      {
+        "name": "Critical Damage",
+        "rawCells": [
+          "Attack Speed",
+          "Critical Damage",
+          "Attack",
+          "X"
+        ]
+      },
+      {
+        "name": "Basic Attribute",
+        "rawCells": [
+          "Skill",
+          "Basic Attribute",
+          "Basic Attribute",
+          "X"
+        ]
+      },
+      {
+        "name": "Attack",
+        "rawCells": [
+          "Attack",
+          "Attack",
+          "Basic Attribute",
+          "X"
+        ]
+      },
+      {
+        "name": "Basic Attribute",
+        "rawCells": [
+          "Attack",
+          "Basic Attribute",
+          "Basic Attribute",
+          "X"
+        ]
+      },
+      {
+        "name": "Basic Attribute",
+        "rawCells": [
+          "Skill",
+          "Basic Attribute",
+          "Basic Attribute",
+          "X"
+        ]
+      },
+      {
+        "name": "Critical Damage",
+        "rawCells": [
+          "Critical Damage",
+          "Critical Damage",
+          "Hit Rate",
+          "Hit Rate",
+          "X"
+        ]
+      },
+      {
+        "name": "Skill",
+        "rawCells": [
+          "Skill",
+          "Skill",
+          "Critical Damage",
+          "Critical Damage",
+          "X"
+        ]
+      },
+      {
+        "name": "Skill",
+        "rawCells": [
+          "Skill",
+          "Skill",
+          "MaxHP",
+          "MaxHP",
+          "X"
+        ]
+      }
+    ]
+  }
+}

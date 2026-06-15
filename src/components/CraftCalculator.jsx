@@ -219,6 +219,7 @@ export default function CraftCalculator({ tamer, updateTamer, allItems }) {
               }}
             >
               <option value="All">Todos</option>
+              <option value="Digivice">Digivice</option>
               <option value="Ring">Ring (Anel)</option>
               <option value="Necklace">Necklace (Colar)</option>
               <option value="Earring">Earring (Brinco)</option>
@@ -243,12 +244,13 @@ export default function CraftCalculator({ tamer, updateTamer, allItems }) {
                   .filter(r => {
                     if (selectedType === 'All') return true;
                     const n = r.name.toLowerCase();
+                    if (selectedType === 'Digivice') return n.includes('digivice') || n.includes('d-ark');
                     if (selectedType === 'Earring') return n.includes('earring');
                     if (selectedType === 'KeyRing') return n.includes('keyring');
                     if (selectedType === 'Ring') return n.includes('ring') && !n.includes('earring') && !n.includes('keyring');
                     if (selectedType === 'Necklace') return n.includes('neck');
                     if (selectedType === 'Bracelet') return n.includes('brace');
-                    return true;
+                    return false;
                   })
                   .map(r => <option key={r.id} value={r.id}>{r.name}</option>)
               ) : (
@@ -258,12 +260,13 @@ export default function CraftCalculator({ tamer, updateTamer, allItems }) {
                     if (!catMatch) return false;
                     if (selectedType === 'All') return true;
                     const n = pr.name.toLowerCase();
+                    if (selectedType === 'Digivice') return n.includes('digivice') || n.includes('d-ark');
                     if (selectedType === 'Earring') return n.includes('earring');
                     if (selectedType === 'KeyRing') return n.includes('keyring');
                     if (selectedType === 'Ring') return n.includes('ring') && !n.includes('earring') && !n.includes('keyring');
                     if (selectedType === 'Necklace') return n.includes('neck');
                     if (selectedType === 'Bracelet') return n.includes('brace');
-                    return true;
+                    return false;
                   })
                   .map((pr, i) => (
                     <option key={`prebuilt-${pr.name}`} value={`PREBUILT_${pr.name}`}>{pr.name} (Taxa: {pr.feeTeras}T)</option>

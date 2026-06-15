@@ -1,0 +1,94 @@
+<USER_REQUEST>
+tra como sei que voce é mentiroso eu fiz o 1 a 1 quando voce trabalhava veja pra mim se bate tudo entao 
+
+Digitamamon (Item Make)
+Digitamamon (Item Make)
+Digitamamon (Item Make).png
+Type:	The Crafter - Digitamamon
+Item Make System consists in to bring specific materials to Digitamamon on the eastern side of DATS Center, who will immediately exchange them for certain items.
+
+Making List
+
+
+Contents
+1	Miscellaneous
+1.1	Digimon Reinforcement
+1.2	Digimon Evolution
+1.3	Skill Memory
+2	Make Bracelet
+2.1	Make Bracelet
+2.2	Make Bracelet (HACK)
+2.3	Make Bracelet
+2.4	Material Convert
+2.5	Make XAI
+Miscellaneous
+Digimon Reinforcement
+Icon	Production Item	Material Items	Cost of Making
+DigiClon Box.png	DigiClone Cube	DigiClone (S).png DigiClone [S] x1
+DigiClone (A).png DigiClone [A] x1
+DigiClone (B).png DigiClone [B] x1
+DigiClone (C).png DigiClone [C] x1
+DigiClone (D).png DigiClone [D] x1
+Currency Digicore.png Digicore x20	10 Currency Mega.png
+DigiClone (S).png	DigiClone [S]	DigiClone (A).png DigiClone [A] x10	10 Currency Mega.png
+DigiClone (A).png	DigiClone [A]	DigiClone (B).png DigiClone [B] x10	10 Currency Mega.png
+DigiClone (B).png	DigiClone [B]	DigiClone (C).png DigiClone [C] x10	10 Currency Mega.png
+DigiClone (C).png	DigiClone [C]	DigiClone (D).png DigiClone [D] x10	10 Currency Mega.png
+Digimon Evolution
+Icon	Production Item	Material Items	Cost of Making
+Cube of Overload.png	Cube of Overload	Data of Overload.png Data of Overload x3
+Currency Digicore.png Digicore x20	50 Currency Mega.png
+Skill Memory
+Icon	Production Item	Material Items	Cost of Making
+Memory Capsule Attack.png	Skill Memory Capsule [Attack]	Memory Skill DATA.png Memory Skill [DATA] x2
+Memory Chip.png Memory Chip x50
+Currency Digicore.png Digicore x10	500 Currency Mega.png
+Memory Capsule Support.png	Skill Memory Capsule [Support]	Memory Skill DATA.png Memory Skill [DATA] x2
+Memory Chip.png Memory Chip x50
+Currency Digicore.png Digicore x10	500 Currency Mega.png
+Memory Capsule Defense.png	Skill Memory Capsule [Defense]	Memory Skill DATA.png Memo
+<truncated 45215 bytes>
+5
+Flawless Crystal of Trace.png Flawless Crystal of Trace x50	25Currency Tera.png	100%
+Fanglongmon's Shining Shoes SK.png	Fanglongmon's Shining Shoes [SK]	Fanglongmon's Shining Shoes.png Fanglongmon's Shining Shoes Lv5
+Shining Fanronkou.png Shining Fanronkou [CB] x32
+Fanronkou .png Fanronkou x25
+Uprising Infernal Flame Crystal.png Uprising Infernal Flame Crystal x50	25Currency Tera.png	100%
+Fanglongmon's Shining Shoes Tank.png	Fanglongmon's Shining Shoes [TA]	Fanglongmon's Shining Shoes.png Fanglongmon's Shining Shoes Lv5
+Shining Fanronkou.png Shining Fanronkou [CB] x32
+Fanronkou .png Fanronkou x25
+Jack Frost of Water Crystal.png Jack Frost of Water Crystal x50	25Currency Tera.png	100%
+Fanglongmon's Shining Shoes Support.png	Fanglongmon's Shining Shoes [SU]	Fanglongmon's Shining Shoes.png Fanglongmon's Shining Shoes Lv5
+Shining Fanronkou.png Shining Fanronkou [CB] x32
+Fanronkou .png Fanronkou x25
+Thunder Gods Lightning Crystal.png Thunder Gods Lightning Crystal x100	25Currency Tera.png	100%
+Shining Fanronkou
+Icon	Production Item	Material Items	Cost of Making	Success Rate
+Shining Fanronkou.png	Shining Fanronkou [CB]	Shining Fanronkou.png Shining Fanronkou Shining Fanronkou	Free	100%
+Weekly Exchange
+Icon	Production Item	Material Items	Craft Limit
+Golden Option Change Stone CB.png	Golden Option Change Stone [Event]	Option Change Stone.png Option Change Stone x200	20
+Golden Number Change Stone CB.png	Golden Number Change Stone [Event]	Number Change Stone.png Number Change Stone x200	20
+
+
+
+Nanomon (Item Craft)
+Nanomon (Item Crafter)
+Nanomon (Item Crafter).png
+Kind	Crafter
+Location:	DATS Center
+
+Item Make System consists in to bring specific materials to Nanomon on the western side of DATS Center, who will immediately exchange them for certain items.
+
+Making List
+
+
+Contents
+1	Make Digivice
+1.1	Digivice Material
+1.2	True Digivice
+2	True Digivice Advanced
+3	Skill D
+<truncated 89327 bytes>
+
+NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.

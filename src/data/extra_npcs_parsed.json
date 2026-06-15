@@ -1,0 +1,3459 @@
+[
+  {
+    "name": "DigiClone Cube",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "DigiClone [S]",
+        "qty": 1
+      },
+      {
+        "name": "DigiClone [A]",
+        "qty": 1
+      },
+      {
+        "name": "DigiClone [B]",
+        "qty": 1
+      },
+      {
+        "name": "DigiClone [C]",
+        "qty": 1
+      },
+      {
+        "name": "DigiClone [D]",
+        "qty": 1
+      },
+      {
+        "name": "Digicore",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "DigiClone [S]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "DigiClone [A]",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "DigiClone [A]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "DigiClone [B]",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "DigiClone [B]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "DigiClone [C]",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "DigiClone [C]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "DigiClone [D]",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Cube of Overload",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Data of Overload",
+        "qty": 3
+      },
+      {
+        "name": "Digicore",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Capsule [Attack]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Memory Skill [DATA]",
+        "qty": 2
+      },
+      {
+        "name": "Memory Chip",
+        "qty": 50
+      },
+      {
+        "name": "Digicore",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Capsule [Support]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Memory Skill [DATA]",
+        "qty": 2
+      },
+      {
+        "name": "Memory Chip",
+        "qty": 50
+      },
+      {
+        "name": "Digicore",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Capsule [Defense]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Memory Skill [DATA]",
+        "qty": 2
+      },
+      {
+        "name": "Memory Chip",
+        "qty": 50
+      },
+      {
+        "name": "Digicore",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Cube [Attack]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Memory Card [DATA]",
+        "qty": 2
+      },
+      {
+        "name": "Memory Chip",
+        "qty": 50
+      },
+      {
+        "name": "Digicore",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Cube [Support]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Memory Card [DATA]",
+        "qty": 2
+      },
+      {
+        "name": "Memory Chip",
+        "qty": 50
+      },
+      {
+        "name": "Digicore",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Cube [Defense]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Memory Card [DATA]",
+        "qty": 2
+      },
+      {
+        "name": "Memory Chip",
+        "qty": 50
+      },
+      {
+        "name": "Digicore",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Capsule [Critical]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Memory Crit [DATA]",
+        "qty": 2
+      },
+      {
+        "name": "Memory Chip",
+        "qty": 50
+      },
+      {
+        "name": "Digicore",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Cube [Critical]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Memory Crit [DATA]",
+        "qty": 2
+      },
+      {
+        "name": "Memory Chip",
+        "qty": 50
+      },
+      {
+        "name": "Digicore",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody - CORE",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody - DATA",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody - CORE",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody - DATA",
+        "qty": 10
+      },
+      {
+        "name": "X-Antibody - HACK",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Sealed [Rusty Bracelet]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Crude Rusty Bracelet",
+        "qty": 1
+      },
+      {
+        "name": "X-Antibody - CORE",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Sealed [Knight's Bracelet]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Rusty Bracelet",
+        "qty": 1
+      },
+      {
+        "name": "X-Antibody - CORE",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Sealed [Radiant Knight's Bracelet]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Knight's Bracelet",
+        "qty": 1
+      },
+      {
+        "name": "X-Antibody - CORE",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "Sealed [Royal: Knight's Bracelet]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Knight's Bracelet",
+        "qty": 1
+      },
+      {
+        "name": "X-Antibody - CORE",
+        "qty": 11
+      },
+      {
+        "name": "Dexmon's Memory",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Sealed [Royal&#160;: Radiant Knight's Bracelet]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Royal&#160;: Knight's Bracelet",
+        "qty": 1
+      },
+      {
+        "name": "X-Antibody - CORE",
+        "qty": 15
+      },
+      {
+        "name": "Dexmon's Memory",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Sealed [Royal&#160;: X-Knight's Bracelet]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Royal&#160;: Radiant Knight's Bracelet",
+        "qty": 1
+      },
+      {
+        "name": "X-Antibody - CORE",
+        "qty": 21
+      },
+      {
+        "name": "Dexmon's Memory",
+        "qty": 20
+      },
+      {
+        "name": "Yggdrasil's Records",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Sealed [Royal&#160;: Yggdrasil Bracelet]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Royal&#160;: X-Knight's Bracelet",
+        "qty": 1
+      },
+      {
+        "name": "Yggdrasil's Records",
+        "qty": 20
+      },
+      {
+        "name": "Yggdrasil Core",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Sealed [Royal&#160;: Yggdrasil Bracelet]",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Royal&#160;: Yggdrasil Bracelet",
+        "qty": 1
+      },
+      {
+        "name": "Divine Crystal",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 50
+      },
+      {
+        "name": "Yggdrasil Core",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody - DATA x5",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody - CORE",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody - CORE x2",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Dexmon's Memory",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Dexmon's Memory x2",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Yggdrasil's Records",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "XAI Ver II (7 Days)",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody - DATA",
+        "qty": 200
+      }
+    ]
+  },
+  {
+    "name": "XAI Ver II (15 Days)",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody - DATA",
+        "qty": 350
+      }
+    ]
+  },
+  {
+    "name": "XAI Ver II (30 Days)",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody - DATA",
+        "qty": 500
+      }
+    ]
+  },
+  {
+    "name": "XAI Ver III (7 Days)",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody - CORE",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "XAI Ver III (15 Days)",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody - CORE",
+        "qty": 18
+      }
+    ]
+  },
+  {
+    "name": "XAI Ver III (30 Days)",
+    "category": "Digitamamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody - CORE",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Mysterious Goggles",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Broken Goggles",
+        "qty": 100
+      },
+      {
+        "name": "Wasteland Essence",
+        "qty": 1000
+      },
+      {
+        "name": "Bancho Data",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Shining Goggles",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Goggles",
+        "qty": 1
+      },
+      {
+        "name": "Cloud Essence",
+        "qty": 1000
+      },
+      {
+        "name": "Mugen Data",
+        "qty": 40
+      },
+      {
+        "name": "Chaos Data",
+        "qty": 40
+      }
+    ]
+  },
+  {
+    "name": "Digital Goggles",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Shining Goggles",
+        "qty": 1
+      },
+      {
+        "name": "Forest Essence",
+        "qty": 1000
+      },
+      {
+        "name": "Orochimon Data",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Digital Hazard Goggles",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digital Goggles",
+        "qty": 1
+      },
+      {
+        "name": "Ocean Essence",
+        "qty": 1000
+      },
+      {
+        "name": "Megidramon Data",
+        "qty": 50
+      },
+      {
+        "name": "Beelzemon Data",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Tamer's Goggles",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digital Hazard Goggles",
+        "qty": 1
+      },
+      {
+        "name": "Beast Essence",
+        "qty": 1000
+      },
+      {
+        "name": "Zhuqiaomon Data",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Complete Tamer's Goggles",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Tamer's Goggles",
+        "qty": 1
+      },
+      {
+        "name": "Mark of Digital Hazard",
+        "qty": 20
+      },
+      {
+        "name": "Crown of Greed",
+        "qty": 20
+      },
+      {
+        "name": "Incandescent Flame",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Digizoid D-Ark",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "D-Ark [Version 5]",
+        "qty": 1
+      },
+      {
+        "name": "Mark of Digital Hazard",
+        "qty": 100
+      },
+      {
+        "name": "Crown of Greed",
+        "qty": 200
+      }
+    ]
+  },
+  {
+    "name": "Rage D-Ark",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "D-Ark [Version 5]",
+        "qty": 1
+      },
+      {
+        "name": "Mark of Digital Hazard",
+        "qty": 200
+      },
+      {
+        "name": "Crown of Greed",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "ChromeDigizoid D-Ark",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digizoid D-Ark",
+        "qty": 1
+      },
+      {
+        "name": "Mark of Digital Hazard",
+        "qty": 50
+      },
+      {
+        "name": "Crown of Greed",
+        "qty": 100
+      },
+      {
+        "name": "Incandescent Flame",
+        "qty": 200
+      }
+    ]
+  },
+  {
+    "name": "Uncontrollable Rage D-Ark",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Rage D-Ark",
+        "qty": 1
+      },
+      {
+        "name": "Mark of Digital Hazard",
+        "qty": 100
+      },
+      {
+        "name": "Crown of Greed",
+        "qty": 50
+      },
+      {
+        "name": "Incandescent Flame",
+        "qty": 200
+      }
+    ]
+  },
+  {
+    "name": "ChromeDigizoid D-Ark",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "ChromeDigizoid D-Ark",
+        "qty": 1
+      },
+      {
+        "name": "Mark of Digital Hazard",
+        "qty": 10
+      },
+      {
+        "name": "Crown of Greed",
+        "qty": 20
+      },
+      {
+        "name": "Incandescent Flame",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Uncontrollable Rage D-Ark",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Uncontrollable Rage D-Ark",
+        "qty": 1
+      },
+      {
+        "name": "Mark of Digital Hazard",
+        "qty": 20
+      },
+      {
+        "name": "Crown of Greed",
+        "qty": 10
+      },
+      {
+        "name": "Incandescent Flame",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Reborn Capsule [Level 1]",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Reborn Capsule Material A",
+        "qty": 1
+      },
+      {
+        "name": "Reborn Capsule Material B",
+        "qty": 1
+      },
+      {
+        "name": "Mark of Digital Hazard",
+        "qty": 30
+      },
+      {
+        "name": "Crown of Greed",
+        "qty": 30
+      },
+      {
+        "name": "Incandescent Flame",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "Reborn Capsule [Level 1]",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Reborn Capsule Material A",
+        "qty": 1
+      },
+      {
+        "name": "Reborn Capsule Material B",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 30
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 30
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "Reborn Capsule [Level 1]",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Reborn Capsule Material A",
+        "qty": 1
+      },
+      {
+        "name": "Reborn Capsule Material B",
+        "qty": 1
+      },
+      {
+        "name": "Marine Dragon Core",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Reborn Capsule [Level 1]",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Reborn Capsule Material A",
+        "qty": 1
+      },
+      {
+        "name": "Reborn Capsule Material B",
+        "qty": 1
+      },
+      {
+        "name": "Wooden Puppet Core",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Reborn Capsule [Level 1]",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Reborn Capsule Material A",
+        "qty": 1
+      },
+      {
+        "name": "Reborn Capsule Material B",
+        "qty": 1
+      },
+      {
+        "name": "Metalic Beast Core",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Reborn Capsule [Level 1]",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Reborn Capsule Material A",
+        "qty": 1
+      },
+      {
+        "name": "Reborn Capsule Material B",
+        "qty": 1
+      },
+      {
+        "name": "Cruelty Clown Core",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Reborn Capsule Material A",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Wasteland Essence",
+        "qty": 1000
+      },
+      {
+        "name": "Cloud Essence",
+        "qty": 1000
+      },
+      {
+        "name": "Forest Essence",
+        "qty": 1000
+      },
+      {
+        "name": "Ocean Essence",
+        "qty": 1000
+      },
+      {
+        "name": "Beast Essence",
+        "qty": 1000
+      }
+    ]
+  },
+  {
+    "name": "Reborn Capsule Material A",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Wasteland Essence",
+        "qty": 5000
+      }
+    ]
+  },
+  {
+    "name": "Reborn Capsule Material B",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Bancho Data",
+        "qty": 30
+      },
+      {
+        "name": "Mugen Data",
+        "qty": 30
+      },
+      {
+        "name": "Chaos Data",
+        "qty": 30
+      },
+      {
+        "name": "Orochimon Data",
+        "qty": 30
+      },
+      {
+        "name": "Megidramon Data",
+        "qty": 30
+      },
+      {
+        "name": "Beelzemon Data",
+        "qty": 30
+      },
+      {
+        "name": "Zhuqiaomon Data",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "Reborn Capsule Material B",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Aura of Domination [MetalSeadramon]",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "Reborn Capsule Material B",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Aura of Domination [Puppetmon]",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "Reborn Capsule Material B",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Aura of Domination [MugenDramon]",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "Reborn Capsule Material B",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Aura of Domination [Piedmon]",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "Essence Voucher",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Mark of Digital Hazard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Essence Voucher",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Crown of Greed",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Essence Voucher",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Incandescent Flame",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Wasteland Essence x2",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Essence Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Cloud Essence x2",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Essence Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Forest Essence x2",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Essence Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Ocean Essence x2",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Essence Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Beast Essence x2",
+    "category": "Takato (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Essence Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Sealed Ring of Four Holy Beasts [Lv.1]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Xuanwumon Shiny Ring",
+        "qty": 1
+      },
+      {
+        "name": "Jack Frost of Water Crystal",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Sealed Ring of Four Holy Beasts [Lv.2]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Ring of Four Holy Beasts [Lv.1]",
+        "qty": 1
+      },
+      {
+        "name": "Xuanwumon Shiny Ring",
+        "qty": 1
+      },
+      {
+        "name": "Jack Frost of Water Crystal",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Sealed Ring of Four Holy Beasts [Lv.3]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Ring of Four Holy Beasts [Lv.2]",
+        "qty": 1
+      },
+      {
+        "name": "Xuanwumon Shiny Ring",
+        "qty": 1
+      },
+      {
+        "name": "Jack Frost of Water Crystal",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Sealed Ring of Four Holy Beasts [Lv.4]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Ring of Four Holy Beasts [Lv.3]",
+        "qty": 1
+      },
+      {
+        "name": "Xuanwumon Shiny Ring",
+        "qty": 2
+      },
+      {
+        "name": "Jack Frost of Water Crystal",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Sealed Ring of Four Holy Beasts [Lv.5]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Ring of Four Holy Beasts [Lv.4]",
+        "qty": 1
+      },
+      {
+        "name": "Xuanwumon Shiny Ring",
+        "qty": 2
+      },
+      {
+        "name": "Jack Frost of Water Crystal",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Sealed Necklace of Four Holy Beasts [Lv.1]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Flame Necklace of Zhuqiaomon",
+        "qty": 1
+      },
+      {
+        "name": "Uprising Infernal Flame Crystal",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Sealed Necklace of Four Holy Beasts [Lv.2]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Necklace of Four Holy Beasts [Lv.1]",
+        "qty": 1
+      },
+      {
+        "name": "Flame Necklace of Zhuqiaomon",
+        "qty": 1
+      },
+      {
+        "name": "Uprising Infernal Flame Crystal",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Sealed Necklace of Four Holy Beasts [Lv.3]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Necklace of Four Holy Beasts [Lv.2]",
+        "qty": 1
+      },
+      {
+        "name": "Flame Necklace of Zhuqiaomon",
+        "qty": 1
+      },
+      {
+        "name": "Uprising Infernal Flame Crystal",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Sealed Necklace of Four Holy Beasts [Lv.4]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Necklace of Four Holy Beasts [Lv.3]",
+        "qty": 1
+      },
+      {
+        "name": "Flame Necklace of Zhuqiaomon",
+        "qty": 2
+      },
+      {
+        "name": "Uprising Infernal Flame Crystal",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Sealed Necklace of Four Holy Beasts [Lv.5]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Necklace of Four Holy Beasts [Lv.4]",
+        "qty": 1
+      },
+      {
+        "name": "Flame Necklace of Zhuqiaomon",
+        "qty": 2
+      },
+      {
+        "name": "Uprising Infernal Flame Crystal",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Sealed Earrings of Four Holy Beasts [Lv.1]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Aural Earring of Baihumon",
+        "qty": 1
+      },
+      {
+        "name": "Flawless Crystal of Trace",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Sealed Earrings of Four Holy Beasts [Lv.2]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Earrings of Four Holy Beasts [Lv.1]",
+        "qty": 1
+      },
+      {
+        "name": "Aural Earring of Baihumon",
+        "qty": 1
+      },
+      {
+        "name": "Flawless Crystal of Trace",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Sealed Earrings of Four Holy Beasts [Lv.3]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Earrings of Four Holy Beasts [Lv.2]",
+        "qty": 1
+      },
+      {
+        "name": "Aural Earring of Baihumon",
+        "qty": 1
+      },
+      {
+        "name": "Flawless Crystal of Trace",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Sealed Earrings of Four Holy Beasts [Lv.4]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Earrings of Four Holy Beasts [Lv.3]",
+        "qty": 1
+      },
+      {
+        "name": "Aural Earring of Baihumon",
+        "qty": 2
+      },
+      {
+        "name": "Flawless Crystal of Trace",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Sealed Earrings of Four Holy Beasts [Lv.5]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Earrings of Four Holy Beasts [Lv.4]",
+        "qty": 1
+      },
+      {
+        "name": "Aural Earring of Baihumon",
+        "qty": 2
+      },
+      {
+        "name": "Flawless Crystal of Trace",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Ring of Four Holy Beasts [Lv.1]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Ring of Four Holy Beasts [Lv.5]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Ring",
+        "qty": 1
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Ring of Four Holy Beasts [Lv.2]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Ring of Four Holy Beasts [Lv.1]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Ring",
+        "qty": 1
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Ring of Four Holy Beasts [Lv.3]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Ring of Four Holy Beasts [Lv.2]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Ring",
+        "qty": 1
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Ring of Four Holy Beasts [Lv.4]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Ring of Four Holy Beasts [Lv.3]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Ring",
+        "qty": 2
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Ring of Four Holy Beasts [Lv.5]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Ring of Four Holy Beasts [Lv.4]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Ring",
+        "qty": 2
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Necklace of Four Holy Beasts [Lv.1]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Necklace of Four Holy Beasts [Lv.5]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Necklace",
+        "qty": 1
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Necklace of Four Holy Beasts [Lv.2]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Necklace of Four Holy Beasts [Lv.1]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Necklace",
+        "qty": 1
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Necklace of Four Holy Beasts [Lv.3]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Necklace of Four Holy Beasts [Lv.2]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Necklace",
+        "qty": 1
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Necklace of Four Holy Beasts [Lv.4]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Necklace of Four Holy Beasts [Lv.3]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Necklace",
+        "qty": 2
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Necklace of Four Holy Beasts [Lv.5]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Necklace of Four Holy Beasts [Lv.4]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Necklace",
+        "qty": 2
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Earrings of Four Holy Beasts [Lv.1]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Earrings of Four Holy Beasts [Lv.5]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Earring",
+        "qty": 1
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Earrings of Four Holy Beasts [Lv.2]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Earrings of Four Holy Beasts [Lv.1]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Earring",
+        "qty": 1
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Earrings of Four Holy Beasts [Lv.3]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Earrings of Four Holy Beasts [Lv.2]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Earring",
+        "qty": 1
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Earrings of Four Holy Beasts [Lv.4]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Earrings of Four Holy Beasts [Lv.3]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Earring",
+        "qty": 2
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Sealed Radiant Earrings of Four Holy Beasts [Lv.5]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Earrings of Four Holy Beasts [Lv.4]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Radiant Earring",
+        "qty": 2
+      },
+      {
+        "name": "Thunder God's Lightning Crystal",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Sealed Divine Ring of Four Holy Beasts [Lv.5]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Ring of Four Holy Beasts [Lv.5]",
+        "qty": 1
+      },
+      {
+        "name": "Divine Crystal",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Sealed Divine Necklace of Four Holy Beasts [Lv.5]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Ring of Four Holy Beasts [Lv.5]",
+        "qty": 1
+      },
+      {
+        "name": "Divine Crystal",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Sealed Divine Earrings of Four Holy Beasts [Lv.5]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Radiant Ring of Four Holy Beasts [Lv.5]",
+        "qty": 1
+      },
+      {
+        "name": "Divine Crystal",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Ring [Lv.2]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Ring [Lv.1]",
+        "qty": 1
+      },
+      {
+        "name": "Sealed Xuanwumon Ring",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Ring [Lv.3]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Ring [Lv.2]",
+        "qty": 1
+      },
+      {
+        "name": "Sealed Xuanwumon Ring",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Ring [Lv.4]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Ring [Lv.3]",
+        "qty": 1
+      },
+      {
+        "name": "Ring of Sealed Zhuqiaomon",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Ring [Lv.5]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Ring [Lv.4]",
+        "qty": 1
+      },
+      {
+        "name": "Ring of Sealed Zhuqiaomon",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Ring [Lv.6]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Ring [Lv.5]",
+        "qty": 1
+      },
+      {
+        "name": "Ring of Sealed Zhuqiaomon",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Ring [Lv.7]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Ring [Lv.6]",
+        "qty": 1
+      },
+      {
+        "name": "Ring of Sealed Baihumon",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Ring [Lv.8]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Ring [Lv.7]",
+        "qty": 1
+      },
+      {
+        "name": "Ring of Sealed Baihumon",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Ring [Lv.9]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Ring [Lv.8]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Sealed Ring",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Ring [Lv.10]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Ring [Lv.9]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Sealed Ring",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Necklace [Lv.2]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Necklace [Lv.1]",
+        "qty": 1
+      },
+      {
+        "name": "Sealed Xuanwumon Necklace",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Necklace [Lv.3]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Necklace [Lv.2]",
+        "qty": 1
+      },
+      {
+        "name": "Sealed Xuanwumon Necklace",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Necklace [Lv.4]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Necklace [Lv.3]",
+        "qty": 1
+      },
+      {
+        "name": "Necklace of Sealed Zhuqiaomon",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Necklace [Lv.5]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Necklace [Lv.4]",
+        "qty": 1
+      },
+      {
+        "name": "Necklace of Sealed Zhuqiaomon",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Necklace [Lv.6]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Necklace [Lv.5]",
+        "qty": 1
+      },
+      {
+        "name": "Necklace of Sealed Zhuqiaomon",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Necklace [Lv.7]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Necklace [Lv.6]",
+        "qty": 1
+      },
+      {
+        "name": "Necklace of Sealed Baihumon",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Necklace [Lv.8]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Necklace [Lv.7]",
+        "qty": 1
+      },
+      {
+        "name": "Necklace of Sealed Baihumon",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Necklace [Lv.9]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Necklace [Lv.8]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Sealed Necklace",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Necklace [Lv.10]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Necklace [Lv.9]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Sealed Necklace",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Earring [Lv.2]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Earring [Lv.1]",
+        "qty": 1
+      },
+      {
+        "name": "Earring of Sealed Zhuqiaomon",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Earring [Lv.3]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Earring [Lv.2]",
+        "qty": 1
+      },
+      {
+        "name": "Earring of Sealed Zhuqiaomon",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Earring [Lv.4]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Earring [Lv.3]",
+        "qty": 1
+      },
+      {
+        "name": "Earring of Sealed Zhuqiaomon",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Earring [Lv.5]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Earring [Lv.4]",
+        "qty": 1
+      },
+      {
+        "name": "Earring of Sealed Baihumon",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Earring [Lv.6]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Earring [Lv.5]",
+        "qty": 1
+      },
+      {
+        "name": "Earring of Sealed Baihumon",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Earring [Lv.7]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Earring [Lv.6]",
+        "qty": 1
+      },
+      {
+        "name": "Earring of Sealed Baihumon",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Earring [Lv.8]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Earring [Lv.7]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Sealed Earring",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Earring [Lv.9]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Earring [Lv.8]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Sealed Earring",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Earring [Lv.10]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Earring [Lv.9]",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Sealed Earring",
+        "qty": 2
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Sealed Fanglongmon's Ultimate Ancient Ring [Lv.10]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Ring [Lv.10]",
+        "qty": 1
+      },
+      {
+        "name": "Divine Ring of Four Holy Beasts [Lv.5]",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Sealed Fanglongmon's Ultimate Ancient Necklace [Lv.10]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Necklace [Lv.10]",
+        "qty": 1
+      },
+      {
+        "name": "Divine Necklace of Four Holy Beasts [Lv.5]",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Sealed Fanglongmon's Ultimate Ancient Earring [Lv.10]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Earring [Lv.10]",
+        "qty": 1
+      },
+      {
+        "name": "Divine Earrings of Four Holy Beasts [Lv.5]",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Earring [Lv.10]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Earring [Lv.1]",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 100
+      },
+      {
+        "name": "Fanglongmon Earring Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Ancient Necklace [Lv.10]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ancient Necklace [Lv.1]",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 100
+      },
+      {
+        "name": "Fanglongmon Necklace Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Sealed Fanglongmon's Ancient Ring [Lv.10]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Ring Necklace [Lv.1]",
+        "qty": 1
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 100
+      },
+      {
+        "name": "Fanglongmon Ring Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Ornament Lv2",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Ornament Lv1",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 10
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Ornament Lv3",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Ornament Lv2",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 15
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Ornament Lv4",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Ornament Lv3",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 18
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Ornament Lv5",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Ornament Lv4",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 25
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 17
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Ornament [AA]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Ornament Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Baihumon's Flawless Ornament",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Flawless Crystal of Trace",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Ornament [SK]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Ornament Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Zhuqiaomon's Infernal Ornament",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Uprising Infernal Flame Crystal",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Ornament [TA]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Ornament Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Xuanwumon's Aquatic Ornament",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Jack Frost of Water Crystal",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Ornament [SU]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Ornament Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Lightning Ornament",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Thunder Gods Lightning Crystal",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Cape Lv2",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Cape Lv1",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 10
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Cape Lv3",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Cape Lv2",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 15
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Cape Lv4",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Cape Lv3",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 18
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Cape Lv5",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Cape Lv4",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 25
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 17
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Cape [AA]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Cape Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Baihumon's Flawless Cape",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Flawless Crystal of Trace",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Cape [SK]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Cape Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Zhuqiaomon's Infernal Cape",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Uprising Infernal Flame Crystal",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Cape [TA]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Cape Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Xuanwumon's Aquatic Cape",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Jack Frost of Water Crystal",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Cape [SU]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Cape Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Lightning Cape",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Thunder Gods Lightning Crystal",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Hooded Shirt Lv2",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Hooded Shirt Lv1",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 10
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Hooded Shirt Lv3",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Hooded Shirt Lv2",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 15
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Hooded Shirt Lv4",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Hooded Shirt Lv3",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 18
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Hooded Shirt Lv5",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Hooded Shirt Lv4",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 25
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 17
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Hooded Shirt [AA]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Hooded Shirt Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Baihumon's Flawless Hooded Shirt",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Flawless Crystal of Trace",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Hooded Shirt [SK]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Hooded Shirt Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Zhuqiaomon's Infernal Hooded Shirt",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Uprising Infernal Flame Crystal",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Hooded Shirt [TA]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Hooded Shirt Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Xuanwumon's Aquatic Hooded Shirt",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Jack Frost of Water Crystal",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Hooded Shirt [SU]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Hooded Shirt Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Lightning Hooded Shirt",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Thunder Gods Lightning Crystal",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Pants Lv2",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Pants Lv1",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 10
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Pants Lv3",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Pants Lv2",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 15
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Pants Lv4",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Pants Lv3",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 18
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Pants Lv5",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Pants Lv4",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 25
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 17
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Pants [AA]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Pants Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Baihumon's Flawless Short Pants",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Flawless Crystal of Trace",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Pants [SK]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Pants Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Zhuqiaomon's Infernal Short Pants",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Uprising Infernal Flame Crystal",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Pants [TA]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Pants Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Xuanwumon's Aquatic Short Pants",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Jack Frost of Water Crystal",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Pants [SU]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Pants Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Lightning Short Pants",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Thunder Gods Lightning Crystal",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Gloves Lv2",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Gloves Lv1",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 10
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Gloves Lv3",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Gloves Lv2",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 15
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Gloves Lv4",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Gloves Lv3",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 18
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Gloves Lv5",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Gloves Lv4",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 25
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 17
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Gloves [AA]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Gloves Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Baihumon's Flawless Gloves",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Flawless Crystal of Trace",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Gloves [SK]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Gloves Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Zhuqiaomon's Infernal Gloves",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Uprising Infernal Flame Crystal",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Gloves [TA]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Gloves Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Xuanwumon's Aquatic Gloves",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Jack Frost of Water Crystal",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Gloves [SU]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Gloves Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Qinglongmon's Lightning Gloves",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Thunder Gods Lightning Crystal",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Shoes Lv2",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Shoes Lv1",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 10
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Gloves Lv3",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Shoes Lv2",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 15
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Shoes Lv4",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Shoes Lv3",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 18
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Shoes Lv5",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Shoes Lv4",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 25
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 17
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Shoes [AA]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Shoes Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Flawless Crystal of Trace",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Shoes [SK]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Shoes Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Uprising Infernal Flame Crystal",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Shoes [TA]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Shoes Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Jack Frost of Water Crystal",
+        "qty": 50
+      }
+    ]
+  },
+  {
+    "name": "Fanglongmon's Shining Shoes [SU]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fanglongmon's Shining Shoes Lv5",
+        "qty": 1
+      },
+      {
+        "name": "Shining Fanronkou [CB]",
+        "qty": 32
+      },
+      {
+        "name": "Fanronkou",
+        "qty": 25
+      },
+      {
+        "name": "Thunder Gods Lightning Crystal",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Shining Fanronkou [CB]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Shining Fanronkou Shining Fanronkou",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Golden Option Change Stone [Event]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Option Change Stone",
+        "qty": 200
+      }
+    ]
+  },
+  {
+    "name": "Golden Number Change Stone [Event]",
+    "category": "Gotsumon (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Number Change Stone",
+        "qty": 200
+      }
+    ]
+  }
+]

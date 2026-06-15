@@ -1,0 +1,3698 @@
+[
+  {
+    "name": "Essential Vitamins (x20)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Rare Coin (Event) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Fruit of the Goddess (x5)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Fruit of Overload (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Fruit of Genesis (x2)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Fruit of Darkness (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody (x25)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Fruit of Chaos",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Fruit of Yggdrasil",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Adventure Tamer Box",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Tamer Exchange Item",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Digimon Enhancement Buff Pack",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Boundless Chivalry",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "Special Chicken Combo (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Enhanced Brezerker(7D)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Enhanced Cheer(7D)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Enhanced Impregnableness(7D)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Enhanced Pray(7D)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Enhanced Protection(7D)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Enhanced Encouragement(7D)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Enhanced Analysis(7D)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Enhanced Evade(7D)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Enhanced Vigor(7D)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Amplification Booster +500% (x2)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Memory Skill Capsule (Attack)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Memory Skill Capsule (Defense)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Memory Skill Capsule (Support)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Amplification Booster +1000%",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Cube (Vaccine)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Cube (Virus)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Cube (Data)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Memory Skill Cube (Attack)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Memory Skill Cube (Defense)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Memory Skill Cube (Support)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Mystery Mercenary DigiEgg - Alpha",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Mystery Mercenary DigiEgg - Beta",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Jogress Reinforced DigiEgg",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Transcendance Material - Raremon Reinforced DigiEgg",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Mysterious Mercenary DigiEgg (4~5)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 35
+      }
+    ]
+  },
+  {
+    "name": "Reset Capsule",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "DigiClone (D) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "DigiClone (C) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "DigiClone (B) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "DigiClone (A) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "DigiClone (S) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Backup Disk (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Reinforced Digiclone Cube",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Reset Capsule A",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Diversion Chipset Kit(Bronze)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Chipset Conversion Kit R1",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Hatch Backup Lv.4",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "ModeSelector",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Grani",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Behemoth",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Chaotic Seat",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "White Blade",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Death-X Seat",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Sodom",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Cyclone",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Lampranthus",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Tree of Antiquity",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Tyrant King",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Black Data Wing",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Wings of the Seabird",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Proof of Dragon Emperor",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Will of Light",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Code in Alpha",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Will of Darkness",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Footstep of Gold Dragon",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Digital Hazard",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Toy Gun",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Holy Spear",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Dramon Breaker",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Z'dHou",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Great King Suit",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Gungnir",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Gakuran",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Angel Ring",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Monks Staff",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Duo Solar Spear",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Critical Arms",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Tyrant Crow",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Trojan Horse",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Holy Wing",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Giga Scale",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Ornis Wing",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Shadow Wing",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Black Saint Wing",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Hyper Cannon",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Trump Sword",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Black Tentacle",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Furious Claw",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Sodom and Gomorrah",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Death-X Antibody",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Alarm Clock",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Source of the Darkness",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Tria Knuckle",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Royal Ornament",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Avatar Box - (15 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "name": "Slim Fit Original School Uniform (Marcus) (15 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "Slim Fit Original School Uniform (Keenan) (15 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "Maid Costume (Yoshino) (15 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "Bellboy Costume (Thomas) (15 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "Graceful Princess Dress (Mimi) (15 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "Cute Sumo Referee Costume (T.K.) (15 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "Slim Fit Smart School Uniform (15 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "XAI Ver II (15 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "Jogress Chip (15 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "DigiAura (15 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "Energy Patch (15 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "Avatar Box - (30 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Option Change Stone",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Number Change Stone",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Amazing Renewal Increase Stone",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Amazing Digitary Power Stone",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Weekly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Red Light of Life (x50)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Blue Light of Life (x50)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Special Chicken Combo (x5)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody (x50)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Digimon Enhancement Buff Pack",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Rare Coin (Event) (x4)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Fruit of the Goddess (x7)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Fruit of Genesis (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Fruit of Chaos (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Fruit of Yggdrasil (x2)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Fruit of Homeostasis",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "Tamer Exchange (Tai)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Tamer Exchange (Mimi)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Tamer Exchange (Matt)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Tamer Exchange (TK)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Tamer Exchange (Hikari)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Tamer Exchange (Sora)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Tamer Exchange (Izzy)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Tamer Exchange (Joe)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Tamer Exchange Savers",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Boundless Chivalry",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Amplification Booster +1000% (x2)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "High Skill Memory Capsule (Attack)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "High Skill Memory Capsule (Defense)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "High Skill Memory Capsule (Support)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Cube (Vaccine)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Cube (Virus)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill Memory Cube (Data)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Memory Skill Capsule (Attack)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Memory Skill Capsule (Defense)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Memory Skill Capsule (Support)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Jogress Reinforced DigiEgg",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Random Reinforced DigiEgg Lv. 4-5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Mysterious Mercenary DigiEgg (4~5)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "Extra Mercenary DigiEgg",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 35
+      }
+    ]
+  },
+  {
+    "name": "Random Reinforced DigiEgg Lv.5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 40
+      }
+    ]
+  },
+  {
+    "name": "DigiClone (A) (x6)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "DigiClone (S) (x6)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Backup Disk (x6)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Reset Capsule (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Reset Capsule A",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Hatch Backup Lv.4",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Reinforced DigiClone (D) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Reinforced DigiClone (C) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Reinforced DigiClone (B) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Reinforced DigiClone (A) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "Reinforced DigiClone (S) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Mega Reinforced Digiclone Cube",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Digital Hazard",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Toy Gun",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Holy Spear",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Dramon Breaker",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Z'dHou",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Great King Suit",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Gungnir",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Gakuran",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Angel Ring",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Monks Staff",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Duo Solar Spear",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Critical Arms",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Tyrant Crow",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Trojan Horse",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Holy Wing",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Giga Scale",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Ornis Wing",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Shadow Wing",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Black Saint Wing",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Hyper Cannon",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Trump Sword",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Black Tentacle",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Furious Claw",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Sodom and Gomorrah",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Death-X Antibody",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Alarm Clock",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Source of the Darkness",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Tria Knuckle",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Royal Ornament",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Black Gear Evolution Program",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Newbie's Yellow Soccer Uniform - 30 Days",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Beginner's Orange Soccer Uniform - 30 Days",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Expert's Green Soccer Uniform - 30 Days",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Veteran's Red Soccer Uniform - 30 Days",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Professional's Black Soccer Uniform - 30 Days",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Jogress Chip (30 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "DigiAura (30 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "XAI Ver III (15 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 9
+      }
+    ]
+  },
+  {
+    "name": "XAI Ver III (30 Days)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Boundless Inferior Shirt Box",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "name": "Boundless Inferior Pants Box",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "name": "Boundless Inferior Gloves Box",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "name": "Option Change Stone (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Number Change Stone (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Amazing Renewal Increase Stone (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Amazing Digitary Power Stone (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "High-Powered Quad-core Ring",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Boundless Inferior Ring",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "Boundless Inferior Necklace",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "Boundless Inferior Earring",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Monthly] Arena Voucher",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "Red Light of Life (x150)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Blue Light of Life (x150)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Boundless Chivalry",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Rare Coin (Event) (x7)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Digimon Enhancement Buff Pack (x10)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Special Chicken Combo (x20)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Fruit of Chaos (x15)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Fruit of Genesis (x25)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Fruit of Yggdrasil (x25)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Fruit of Homeostasis (x15)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Yardie's Fried Chicken (x15)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Seal Opener (x25)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Seal Closer (x25)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Change Digimon Name",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Change Tamer Name",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Growth Fruit",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Mercenary Slot Expansion",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Amplification Booster +1000% (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Attribute EXP Booster 30 Day",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Raremon DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Random Reinforced DigiEgg Lv.5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Kamemon DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Tanemon DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Kudamon DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "PawnChessmonW DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "PawnChessmonB DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Gizumon DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Agumon(Black)(BlitzGreymon) DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Gabumon(CresGarurumon) DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Veemon(Imperialdramon) DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Wormmon(Imperialdramon) DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Hawkmon(Silphymon) DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Salamon(Silphymon) DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Guilmon(ChaosGallantmon) DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Elecmon(Duftmon) DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Kokuwamon DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Burst Mode Random Reinforced DigiEgg Lv.5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "Lucemon DigiEgg Lv. 5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Jogress Random Reinforced DigiEgg Lv.5",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Reset Capsule (x20)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Backup Disk (x30)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Hatch Backup Lv.4 (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "Hatch Backup Lv.5 (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Mega Reinforced DigiClone (D) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Mega Reinforced DigiClone (C) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Mega Reinforced DigiClone (B) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Mega Reinforced DigiClone (A) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "Mega Reinforced DigiClone (S) (x3)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Gehenna",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 40
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor-UlforceVeedramon",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 60
+      }
+    ]
+  },
+  {
+    "name": "Colosseum Armor (DS)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "name": "Colosseum Armor (HP)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "name": "Colosseum Armor (AT)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "name": "103-Purple-BT",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Boundless Inferior Shirt Box",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Boundless Inferior Pants Box",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Boundless Inferior Gloves Box",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "Option Change Stone (x30)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Number Change Stone (x30)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Amazing Renewal Increase Stone (x20)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Amazing Digitary Power Stone (x20)",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Boundless Inferior Ring",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Boundless Inferior Necklace",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Boundless Inferior Earring",
+    "category": "Mary (Arena)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[Seasonal] Arena Voucher",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Agumon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 200
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Greymon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: MetalGreymon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 2000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: WarGreymon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 4000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Gabumon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 200
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Garurumon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: WereGarurumon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 2000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: MetalGarurumon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 4000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Ryuudamon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: GinRyuumon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: HisyaRyuumon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: OuRyuumon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Dorumon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: RaptorDramon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Grademon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Alphamon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Dorumon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: DexDorugamon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: DexDoruGreymon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: DexDorugoramon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Dorumon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Dorugamon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: DoruGreymon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Dorugoramon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Dracmon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Sangloupmon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Matadormon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: GranDracmon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: FanBeemon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Waspmon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: CannonBeemon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: TigerVespamon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: DinoTigermon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Guilmon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 300
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Growlmon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: WarGrowlmon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 3000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Palmon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Togemon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Lillymon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1000
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Rosemon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1500
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor Omegamon - Alpha",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Kokuwamon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Gallantmon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Dexmon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Duftmon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Dynasmon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: ChaosDukemon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: Magnamon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody Factor: GrandisKuwagamon",
+    "category": "PawnChessmon W (D-Terminal)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody Factor Exchange Ticket",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Dark Chocolate",
+    "category": "Alphamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Raid Token",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Seal Exchange Ticket",
+    "category": "Alphamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Raid Token",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Backup Disk",
+    "category": "Alphamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Raid Token",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "name": "Seal Opener",
+    "category": "Alphamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Raid Token",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Seal Closer",
+    "category": "Alphamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Raid Token",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Digimon Enhancement Buff Package [NEW]",
+    "category": "Alphamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Raid Token",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "Option Change Stone",
+    "category": "Alphamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Raid Token",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "Number Change Stone",
+    "category": "Alphamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Raid Token",
+        "qty": 30
+      }
+    ]
+  },
+  {
+    "name": "Random Reinforced Digiclone[B~S] Box",
+    "category": "Alphamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Raid Token",
+        "qty": 40
+      }
+    ]
+  },
+  {
+    "name": "Random Mid Class T. ConvertChip Box",
+    "category": "Alphamon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Raid Token",
+        "qty": 60
+      }
+    ]
+  }
+]

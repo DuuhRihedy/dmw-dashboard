@@ -1,0 +1,1599 @@
+[
+  {
+    "name": "Four Holy Beasts",
+    "description": "The Four Beasts are four ultimate Digimon that reign over the north, south, east and west of the Digital World. Qinglongmon (Lightning), Xuanwumon (Water), Zhuqiaomon (Fire) and Baihumon (Steel), the Four Holy Beasts have unlike other normal Digimon, twelve cores and four eyes respectively.",
+    "digimon": [
+      "Qinglongmon",
+      "Xuanwumon",
+      "Zhuqiaomon",
+      "Baihumon"
+    ],
+    "effects": [
+      "Activation Effect:: Critical Damage Buffed by 30%",
+      "Lasting time: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Fusion to evolve into the higher",
+    "description": "Two or more Jogress Digimon can be combined to evolve into an entirely different digimon. A digimon successfully jogressed has great power and an essential role in the Digital World.",
+    "digimon": [
+      "Omnimon",
+      "Alphamon Ouryuken",
+      "Shakkoumon (Jogress)"
+    ],
+    "effects": [
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 7% chance per Normal Hit"
+    ]
+  },
+  {
+    "name": "Three Archangels",
+    "description": "They are the Three Great Archangels who are the leaders of all the angelic Digimon in the Digital World. They are Seraphimon who executes god's law, Cherubimon who protects wisdom and god's area, Ophanimon who delivers god's love. Also, they lead angelic army consists of man-type, animal-type, and woman-type angelic Digimon. Seraphimon is the highest of the three, and thus of all angelic Digimon.",
+    "digimon": [
+      "Seraphimon",
+      "Pegasusmon",
+      "Cherubimon (White)",
+      "Ophanimon",
+      "Mastemon"
+    ],
+    "effects": [
+      "Activation Effect:: 15% Additional Normal Damage",
+      "Activation Condition:: 3% chance per Normal Hit",
+      "Lasting time:: Lasts for 5 seconds after activation"
+    ]
+  },
+  {
+    "name": "Seafood Stew",
+    "description": "The digimon looks like the food one can easily see in daily life.Mushroom, calm, fish, squid and pumpkin can make really great seafood stew if mixed harmoniously.Jogress FoodEvolve into the best seafood stew!",
+    "digimon": [
+      "Mushroomon",
+      "Syakomon",
+      "Gesomon",
+      "Pumpkinmon"
+    ],
+    "effects": [
+      "Activation Effect:: HP Buffed by 10%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Sharp Blue Sword Wave",
+    "description": "This in the group of the Digimon using big and nice blades to lead the battle.They are usually masters of swords so that it's very beautiful to watch they play with their swords.As the Digimon walk only on the sword's way, they commonly hold fast to their justice just like sharp blades.",
+    "digimon": [
+      "Minervamon",
+      "Zanbamon",
+      "OuRyumon",
+      "Grademon",
+      "Knightmon"
+    ],
+    "effects": [
+      "Activation Effect:: 10% Additional Normal Damage",
+      "Activation Condition:: 6% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Instant Red Gun Fire",
+    "description": "This is the group of the Digimon using firearms like guns and cannons to win battles.Some of them unleash stylish attacks with pistols, the others deal heavy damage with cannon installed on their body. Gun using Digimon are usually cheerful, whereasCannon using Digimon are taciturn.",
+    "digimon": [
+      "Chaosdramon",
+      "Z'dGarurumon",
+      "Astamon",
+      "Deputymon",
+      "Gargomon"
+    ],
+    "effects": [
+      "Activation Effect:: Skill Damage is buffed by 8%",
+      "Activation Condition:: 7% chance per Normal Hit",
+      "Lasting time:: Lasts for 12 seconds after activation"
+    ]
+  },
+  {
+    "name": "So cute",
+    "description": "This is the group of the Digimon that you want to be with. When you come back home, if one of the Digimon from the deck welcomes you, it will be your happy day.When you are uncomfortable, you can be calmed if you touch their shaggy hair.",
+    "digimon": [
+      "Kudamon",
+      "Salamon",
+      "Nefertimon",
+      "Terriermon",
+      "Doggymon"
+    ],
+    "effects": [
+      "Activation Effect:: Critical Damage is Buffed by 15%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Four Dark Masters",
+    "description": "Appearing at the latter part of the digimon adventure, they are powerful dark forces who can compress all the areas into one place. Four Dark Masters have Ultimate Digimon as servants.",
+    "digimon": [
+      "Piedmon",
+      "Machinedramon",
+      "MetalSeadramon",
+      "Puppetmon"
+    ],
+    "effects": [
+      "Activation Effect:: Skill Damage is buffed by 12%",
+      "Activation Condition:: 5% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Ego of the Darkness",
+    "description": "It is the final boss of Digimon Adventure and came from beyond the Wall of Fire to have the final fight with the Digidestined. It wanted to help the world but it is a collective agent of resentment of the Digimons that died out and are left behind by evolution. The egos of resentment disappeared in the darkness and decided to attack the Digital World to give the Digidestined and the other Digimons in the world of light \"the same pain it suffered.\"",
+    "digimon": [
+      "Apocalymon",
+      "MechaNorimon",
+      "Betamon",
+      "Soulmon",
+      "Woodmon"
+    ],
+    "effects": [
+      "Activation Effect:: HP is Buffed by 15%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 12% Additional Normal Damage",
+      "Activation Condition:: 70% chance per Normal Hit",
+      "Lasting time:: Lasts for 5 seconds after activation"
+    ]
+  },
+  {
+    "name": "Royal Knights",
+    "description": "13 Holy Knight Digimon were gathered by Yggdrasil in order to manage the world, and boast absolute power within the Digital World.",
+    "digimon": [
+      "Omegamon",
+      "Alphamon Ouryuken",
+      "Examon",
+      "Gallantmon",
+      "UlforceVeedramon",
+      "Magnamon",
+      "Dynasmon",
+      "LordKnightmon",
+      "Sleipmon",
+      "Craniamon",
+      "Guardromon",
+      "Duftmon",
+      "Gankoomon",
+      "Jesmon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 5% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 10% Increase",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Main characters of the adventure",
+    "description": "Digimon Adventure's 8 main characters' partner Digimon. Tai's  partner Agumon, Matt's partner Gabumon, Izzy's partner Tentomon, Joe's partner Gomamon, T.K.'s partner Patamon, Mimi's partner Palmon, Sora's partner Biyomon and Kari's partner Gatomon are the members.",
+    "digimon": [
+      "Agumon (Classic)",
+      "Gabumon",
+      "MetalGarurumon",
+      "Tentomon",
+      "Gomamon",
+      "Ikkakumon",
+      "Patamon",
+      "Pegasusmon",
+      "Palmon",
+      "Togemon",
+      "Biyomon",
+      "Gatomon",
+      "Nefertimon"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 8% Increase",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Burst Ultimate Wings",
+    "description": "This is the group of the Digimon with wings who have become Burst Mode Digimon overcoming the power of Mega Digimon.Their wings influence all their actions from battle to moving.The wings can be the shield of the Digital World full of good will, but sometimes they can be the blade raising the wind of darkness.",
+    "digimon": [
+      "MaloMyotismon",
+      "Imperialdramon (Paladin Mode)",
+      "Lucemon Satan Mode",
+      "Gallantmon (Crimson Mode)",
+      "Valdurmon",
+      "Ornismon",
+      "TyrantKabuterimon",
+      "VictoryGreymon"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 25%",
+      "Activation Condition:: 30% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Burst Ultimate Wings II",
+    "description": "This is the group of the Digimon with wings who have become Burst Mode Digimon overcoming the power of Mega Digimon.Their wings influence all their actions from battle to moving.The wings can be the shield of the Digital World full of good will, but sometimes they can be the blade raising the wind of darkness.",
+    "digimon": [
+      "Boltboutamon",
+      "Mastemon",
+      "Lucemon Satan Mode",
+      "Megidramon",
+      "Dynasmon X",
+      "Duftmon X",
+      "UlforceVeedramon X",
+      "Dexmon (X-Antibody System)",
+      "GrandisKuwagamonX",
+      "Valkyrimon"
+    ],
+    "effects": [
+      "Activation Effect:: HP Buffed by 10%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 50%",
+      "Activation Condition:: 30% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Hyper Spirit Evolution",
+    "description": "The Final Spirit Evolusion  Hyper Spirit Evolusion Digimon",
+    "digimon": [
+      "KaiserGreymon",
+      "MagnaGarurumon"
+    ],
+    "effects": [
+      "Activation Effect:: HP is buffed by 10%",
+      "Lasting time:: Permanent effect enabled",
+      "Activation Effect:: Critical Damage is increased by 2%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 15% Additional Normal Damage",
+      "Activation Condition:: 50% chance per Normal Hit",
+      "Lasting time:: Lasts for 5 seconds after activation"
+    ]
+  },
+  {
+    "name": "Ancient Spirit Evolution",
+    "description": "Digimon Group that told of Oriental legends, strongest destructive god and the god which governs over regeneration, Susanoomon and Hyper Spirit Evolution Digimons.",
+    "digimon": [
+      "KaiserGreymon",
+      "MagnaGarurumon",
+      "Susanoomon"
+    ],
+    "effects": [
+      "Activation Effect:: HP is buffed by 15%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Condition:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 5%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 25% Additional Normal Damage",
+      "Activation Condition:: 40% chance per Normal Hit",
+      "Lasting time:: Lasts for 5 seconds after activation"
+    ]
+  },
+  {
+    "name": "Fallen and Chosen Megas",
+    "description": "Bound by fate, divided by destiny, forged from the shattered dreams of the fallen and the unyielding will of the chosen.",
+    "digimon": [
+      "VictoryGreymon",
+      "Z'dGarurumon",
+      "TyrantKabuterimon",
+      "Plesiomon",
+      "ShadowSeraphimon",
+      "MarineAngemon",
+      "Ornismon",
+      "MagnaDramon"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Activation Condition:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 10%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Our Final Evolution",
+    "description": "Whether chosen by light or forged in collapse, they have each stepped beyond conventional limits to face the end of all things.",
+    "digimon": [
+      "VictoryGreymon",
+      "Z'dGarurumon",
+      "TyrantKabuterimon",
+      "Plesiomon",
+      "ShadowSeraphimon",
+      "MarineAngemon",
+      "Ornismon",
+      "MagnaDramon",
+      "Piedmon",
+      "Soulmon",
+      "MugenDramon",
+      "MechaNorimon",
+      "MetalSeadramon",
+      "Betamon",
+      "Puppetmon",
+      "Woodmon"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Activation Condition:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 25%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "The Forgotten Crown",
+    "description": "Forgotten by history, exiled from legend, these Digimon were not erased by weakness, but by fear.",
+    "digimon": [
+      "VictoryGreymon",
+      "Z'dGarurumon",
+      "TyrantKabuterimon",
+      "Plesiomon",
+      "ShadowSeraphimon",
+      "MarineAngemon",
+      "Ornismon",
+      "MagnaDramon",
+      "Piedmon",
+      "Soulmon",
+      "MugenDramon",
+      "MechaNorimon",
+      "MetalSeadramon",
+      "Betamon",
+      "Puppetmon",
+      "Woodmon",
+      "Lucemon Satan Mode"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Activation Condition:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 40%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Dimensional Pantheon",
+    "description": "Across time, space and morality, gods have fallen, merged and ascended again.",
+    "digimon": [
+      "Susanoomon",
+      "Rosemon (Black Mutant)",
+      "ShineGreymon (Golden)",
+      "Lucemon Satan Mode",
+      "Mastemon",
+      "Boltboutamon",
+      "Ophanimon Falldown Mode"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Activation Condition:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 5%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 60%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Vaccine Fighters",
+    "description": "Elite Vaccine Digimon united to purge corruption and restore order.",
+    "digimon": [
+      "BloomLordmon",
+      "Susanoomon",
+      "Alphamon Ouryuken",
+      "Imperialdramon (Paladin Mode)(Jogress)"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Activation Condition:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 7%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 80%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Judicium Noctis",
+    "description": "Together, they balance offense and defense to bring order through controlled power and precise strikes.",
+    "digimon": [
+      "BloomLordmon",
+      "DarknessBagramon",
+      "Alphamon Ouryuken"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Activation Condition:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 10%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 100%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 10% Additional Auto Hit Damage",
+      "Activation Condition:: 70% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "MEGA-OMEGA",
+    "description": "Community of 3 different Holy Knights that are alike and digimon after transcedence.",
+    "digimon": [
+      "Omegamon Zwart",
+      "Omegamon Alter-S",
+      "Omegamon",
+      "Omegamon Zwart D",
+      "Omegamon Alter-B"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 15%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 100%",
+      "Activation Condition:: 40% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Praelium Divinus",
+    "description": "A divine force uniting nature's strength, shadow's power, justice's might, fiery spirit and swift agility.",
+    "digimon": [
+      "BloomLordmon",
+      "DarknessBagramon",
+      "Shoutmon X7",
+      "Alphamon Ouryuken",
+      "Diarbbitmon"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 12%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 110%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 15% Additional Damage",
+      "Activation Condition:: ??% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Corrupted Power",
+    "description": "Corrupted Power",
+    "digimon": [
+      "Omegamon Zwart",
+      "Omegamon Alter-S",
+      "Omegamon",
+      "Omegamon Zwart D",
+      "Omegamon Alter-B",
+      "Fanglongmon Shin"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 15%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 125%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 25% Additional Damage",
+      "Activation Condition:: 70% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Knights of the Crimson Path",
+    "description": "A pact forged in blood and resolve, uniting warriors of strength, shadow, justice and fiery spirit.",
+    "digimon": [
+      "BloomLordmon",
+      "DarknessBagramon",
+      "Gaioumon Itto Mode",
+      "Shoutmon X7",
+      "Alphamon Ouryuken",
+      "Diarbbitmon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 2% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 15%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 125%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 25% Additional Damage",
+      "Activation Condition:: ??% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Benevolent Blade",
+    "description": "An Omegamon which has an appearance of an angel, with white wings that flutter like a scarf.",
+    "digimon": [
+      "Omegamon Merciful Mode"
+    ],
+    "effects": [
+      "Activation Effect:: HP 3% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 17%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 137%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 38% Additional Damage",
+      "Activation Condition:: 60% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Juggernaut Drive – Slash",
+    "description": "A group of the original Tamers Team.",
+    "digimon": [
+      "Dukemon Crimson Mode (Shin)",
+      "Dukemon (Shin)",
+      "Sakuyamon Shin",
+      "SaintGargomon Shin",
+      "Gallantmon X"
+    ],
+    "effects": [
+      "Activation Effect:: HP 3% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 17%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 137%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 38% Additional Damage",
+      "Activation Condition:: 60% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Juggernaut Drive – Chaotic Slash",
+    "description": "A group of the original Tamers Team.",
+    "digimon": [
+      "ChaosDukemon Crimson Mode (Shin)",
+      "Megidramon X",
+      "Sakuyamon Shin",
+      "SaintGargomon Shin",
+      "ChaosDukemon X"
+    ],
+    "effects": [
+      "Activation Effect:: HP 3% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 17%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 137%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 38% Additional Damage",
+      "Activation Condition:: 60% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Order of the Crimson Nexus",
+    "description": "A legendary alliance forged by blood and will, uniting warriors of nature, shadow, justice and fiery spirit, ancient bonds and relentless fury.",
+    "digimon": [
+      "BloomLordmon",
+      "Agumon - Bond of Bravery",
+      "Gabumon - Bond of Friendship",
+      "DarknessBagramon",
+      "Gaioumon Itto Mode",
+      "Shoutmon X7",
+      "Alphamon Ouryuken",
+      "Diarbbitmon",
+      "Jet Mervamon",
+      "Mamemon X",
+      "Imperialdramon Paladin Mode (Vengeful)",
+      "Orochimon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 5% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 20%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 150%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 50% Additional Damage",
+      "Activation Condition:: 70% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Power of Darkness",
+    "description": "Digimon consumed by Darkness",
+    "digimon": [
+      "Omegamon Zwart D",
+      "Omegamon Alter-B",
+      "Death-X-mon_Awaken",
+      "Lilithmon X",
+      "Imperialdramon Paladin Mode (Vengeful)",
+      "Apocalymon (Shin)",
+      "Ordinemon",
+      "Barbamon X",
+      "Ogudomon",
+      "Sakuyamon Shin",
+      "Beelzemon X",
+      "Boltboutamon",
+      "Lucemon Satan Mode"
+    ],
+    "effects": [
+      "Activation Effect:: HP 5% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 20%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 150%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 50% Additional Damage",
+      "Activation Condition:: 70% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Strong Bonds",
+    "description": "Digimon which are connected by strong bonds",
+    "digimon": [
+      "Agumon - Bond of Bravery",
+      "Gabumon - Bond of Friendship",
+      "BloomLordmon",
+      "Dukemon (Shin)",
+      "Sakuyamon Shin",
+      "SaintGargomon Shin",
+      "Siriusmon",
+      "Amphimon",
+      "Diarbbitmon",
+      "Gaioumon",
+      "Mastemon",
+      "Valkyrimon",
+      "Omegamon Alter-S"
+    ],
+    "effects": [
+      "Activation Effect:: HP 5% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 20%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 150%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 50% Additional Damage",
+      "Activation Condition:: 70% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Order of the Eclipsed Genesis",
+    "description": "A group of Digimon some good and others with a evil thought.",
+    "digimon": [
+      "Agumon - Bond of Bravery",
+      "Gabumon - Bond of Friendship",
+      "Death-X-mon Awaken",
+      "Gaioumon Itto Mode",
+      "Jet Mervamon",
+      "Duftmon X Fallen",
+      "Mamemon X",
+      "SlashAngemon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 8% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 25%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Critical Damage is buffed by 170%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: 75% Additional Damage",
+      "Activation Condition:: 70% chance per Normal Hit",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "OMEGA",
+    "description": "Community of 3 different Holy Knights that are alike.",
+    "digimon": [
+      "Omegamon Zwart",
+      "Omegamon Alter-S",
+      "Omegamon"
+    ],
+    "effects": [
+      "Activation Effect:: Skill Damage is buffed by 12%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "The Chosen Kin",
+    "description": "A team forged by destiny and unbreakable bonds",
+    "digimon": [
+      "Guilmon",
+      "Renamon",
+      "Terriermon",
+      "Veemon",
+      "Wormmon",
+      "Armadillomon",
+      "Hawkmon",
+      "Patamon",
+      "Salamon"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 5% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 5%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Catalyst Kin",
+    "description": "A team that combines fury, precision and divine judgement",
+    "digimon": [
+      "Gallantmon (Crimson Mode)",
+      "Kuzuhamon",
+      "BlackMegaGargomon",
+      "Imperialdramon (Paladin Mode)(Jogress)",
+      "Vikemon",
+      "Valdurmon",
+      "ShadowSeraphimon",
+      "Ophanimon"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 10% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 8%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Ancient Connections",
+    "description": "Digimon's which remembers on ancient times",
+    "digimon": [
+      "Alphamon",
+      "Betamon",
+      "Omegamon",
+      "Deltamon",
+      "Gammamon"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 10% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 8%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Knights of Vaccine",
+    "description": "A group of vaccine knights that declared to be natural enemy of evil virus Digimon.",
+    "digimon": [
+      "Omegamon Zwart",
+      "Omegamon",
+      "Imperialdramon (Paladin Mode)(Jogress)",
+      "Magnamon",
+      "Alphamon Ouryuken",
+      "Susanoomon"
+    ],
+    "effects": [
+      "Activation Effect:: HP is buffed by 12%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 12%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Throne of Ruin",
+    "description": "A fierce clash between light and darkness, where noble guardiant face corrupted forces for the throne.",
+    "digimon": [
+      "Gallantmon (Crimson Mode)",
+      "Kuzuhamon",
+      "BlackMegaGargomon",
+      "Imperialdramon (Paladin Mode)(Jogress)",
+      "Vikemon",
+      "Valdurmon",
+      "ShadowSeraphimon",
+      "Ophanimon",
+      "Beelzemon (Blast Mode)",
+      "MaloMyotismon",
+      "Demon (Beast Mode)"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 13% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 10%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "The Ashen Throne",
+    "description": "The Throne stands where light and shadow wage war, noble guardians and corrupted rulers clash endlessly.",
+    "digimon": [
+      "Gallantmon (Crimson Mode)",
+      "Kuzuhamon",
+      "BlackMegaGargomon",
+      "Imperialdramon (Paladin Mode)(Jogress)",
+      "Vikemon",
+      "Valdurmon",
+      "ShadowSeraphimon",
+      "Ophanimon",
+      "Beelzemon (Blast Mode)",
+      "MaloMyotismon",
+      "Demon (Beast Mode)",
+      "Lucemon Satan Mode"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 15%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "The Forsaken Strain",
+    "description": "A group of outcasts and corrupted warriors, harnessing dark power and forbidden evolution to dominate they foes.",
+    "digimon": [
+      "Ogudomon",
+      "Ravemon (Mutant)",
+      "MirageGaogamon (Beast Mutant)",
+      "Lucemon Satan Mode",
+      "Examon",
+      "Silphymon",
+      "Megidramon"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 20%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Axiom Trinity",
+    "description": "This trio stands as a perfect balance of offense and defense, enforcing order through overwhelming strength.",
+    "digimon": [
+      "Susanoomon (Shin)",
+      "Ogudomon",
+      "Alphamon Ouryuken"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 30%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Power of Hatred",
+    "description": "Group of Digimon that unleashed its power through hatred.",
+    "digimon": [
+      "ShineGreymon (Ruin Mode)",
+      "Rosemon (Ruin Mode)",
+      "MirageGaogamon (Ruin Mode)",
+      "Ravemon (Ruin Mode)"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 10% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: HP 5% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 5%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Unleashed Digi-Soul",
+    "description": "Group of Digimon that broke their limit in battle multiple times thanks to the power of Digi Soul",
+    "digimon": [
+      "ShineGreymon (Ruin Mode)",
+      "ShineGreymon (Golden)",
+      "Rosemon (Ruin Mode)",
+      "Rosemon (Black Mutant)",
+      "MirageGaogamon (Ruin Mode)",
+      "MirageGaogamon (Beast Mutant)",
+      "Ravemon (Ruin Mode)",
+      "Ravemon (Mutant)"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 13% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: HP 10% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 10%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Power of the Fallen Modes",
+    "description": "A group of all current Fallen Modes who combine their power.",
+    "digimon": [
+      "Beelzemon X Fallen",
+      "Boltboutamon Fallen",
+      "Duftmon X Fallen",
+      "Dynasmon X Fallen"
+    ],
+    "effects": [
+      "Activation Effect:: HP 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 12% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 15%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Cosmic Spirit Evolution",
+    "description": "Digimon Group that told of Oriental legends, strongest destructive god and the god which governs over regeneration, Susanoomon, Susanoomon (Shin) and Hyper Spirit Evolution Digimons.",
+    "digimon": [
+      "KaiserGreymon",
+      "MagnaGarurumon",
+      "Susanoomon",
+      "Susanoomon (Shin)"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: HP is buffed by 15%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack 20% Additional Skill Damage",
+      "Activation Condition:: 50% chance per Skill Attack",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Legendary Knights of Vaccine",
+    "description": "A group of legendary vaccine knights that declared to be natural enemy of evil virus Digimon.",
+    "digimon": [
+      "Omegamon X",
+      "Alphamon Ouryuken",
+      "Susanoomon",
+      "Omegamon Zwart",
+      "Magnamon",
+      "Imperialdramon (Paladin Mode)(Jogress)"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: HP is buffed by 15%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage 20% Additional Damage",
+      "Activation Condition:: 70% chance per Skill Attack",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Ultimate Knights of Vaccine",
+    "description": "A group of Knights that declared to be natural enemy of evil virus Digimon.",
+    "digimon": [
+      "Omegamon X",
+      "Alphamon Ouryuken (X-Antibody System)",
+      "Susanoomon (Shin)",
+      "Omegamon Zwart",
+      "Magnamon",
+      "Imperialdramon (Paladin Mode)(Jogress)"
+    ],
+    "effects": [
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage 20% Additional Damage",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage 25% Additional Damage",
+      "Activation Condition:: 70% chance per Skill Attack",
+      "Lasting time:: Lasts for 10 seconds after activation"
+    ]
+  },
+  {
+    "name": "Ouroboros",
+    "description": "The team symbolizes the eternal cycle of destruction and rebirth combining divine wrath, ancient power, unyielding justice and relentless adaptation.",
+    "digimon": [
+      "Susanoomon (Shin)",
+      "Omegamon Alter-B",
+      "Alphamon Ouryuken (X-Antibody System)",
+      "Ogudomon"
+    ],
+    "effects": [
+      "Activation Effect:: DS 1% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 40%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 30% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "Celestfracture",
+    "description": "Harnesses celestial power and unyielding strength.United by purpose, these warriors shatter enemy defense and illuminate the path to victory.",
+    "digimon": [
+      "Susanoomon (Shin)",
+      "Ogudomon",
+      "Alphamon Ouryuken (X-Antibody System)",
+      "Omegamon Alter-B",
+      "Fanglongmon Shin",
+      "Imperialdramon (Paladin Mode)(Jogress)",
+      "Omegamon Zwart"
+    ],
+    "effects": [
+      "Activation Effect:: DS 3% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 50%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 5% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "Latent Power",
+    "description": "Latent Power",
+    "digimon": [
+      "Omegamon X",
+      "Alphamon Ouryuken (X-Antibody System)",
+      "Susanoomon (Shin)",
+      "Magnamon",
+      "Imperialdramon (Paladin Mode)(Jogress)",
+      "Omegamon Zwart",
+      "Omegamon Alter-B",
+      "Fanglongmon Shin"
+    ],
+    "effects": [
+      "Activation Effect:: DS 7% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 60%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 10% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "Graceful Cannon",
+    "description": "An Omegamon which has an appearance of an angel, with white wings that flutter like a scarf.",
+    "digimon": [
+      "Omegamon Merciful Mode"
+    ],
+    "effects": [
+      "Activation Effect:: HP 3% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: DS 12% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 70%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 18% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "Juggernaut Drive – Power",
+    "description": "A group of the original Tamers Team.",
+    "digimon": [
+      "Dukemon Crimson Mode (Shin)",
+      "Dukemon (Shin)",
+      "Sakuyamon Shin",
+      "SaintGargomon Shin",
+      "Gallantmon X"
+    ],
+    "effects": [
+      "Activation Effect:: HP 3% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: DS 12% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 70%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 18% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "Juggernaut Drive – Chaotic Power",
+    "description": "A group of the original Tamers Team.",
+    "digimon": [
+      "ChaosDukemon Crimson Mode (Shin)",
+      "Megidramon X",
+      "Sakuyamon Shin",
+      "SaintGargomon Shin",
+      "ChaosDukemon X"
+    ],
+    "effects": [
+      "Activation Effect:: HP 3% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: DS 12% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 70%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 18% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "Royal Knights X",
+    "description": "13 Holy Knight Digimon were gathered by Yggdrasil in order to manage the world, and boast absolute power within the Digital World.",
+    "digimon": [
+      "Omegamon X",
+      "Alphamon Ouryuken Awaken",
+      "Examon X",
+      "Gallantmon X",
+      "UlforceVeedramon X",
+      "Magnamon X",
+      "Dynasmon X",
+      "LordKnightmon X",
+      "Sleipmon X",
+      "Craniamon X",
+      "Duftmon X",
+      "Gankoomon X",
+      "Jesmon X"
+    ],
+    "effects": [
+      "Activation Effect:: HP 5% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: DS 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 80%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 25% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "Demon Lords X",
+    "description": "13 Holy Knight Digimon were gathered by Yggdrasil in order to manage the world, and boast absolute power within the Digital World.",
+    "digimon": [
+      "Lucemon X",
+      "Leviamon X",
+      "Demon X",
+      "Belphemon (Rage Mode) (Shin)",
+      "Barbamon X",
+      "Beelzemon X",
+      "Lilithmon X"
+    ],
+    "effects": [
+      "Activation Effect:: HP 5% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: DS 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 80%",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 25% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "Legendary Core",
+    "description": "Some Legendary Digimon, each of them is on their own way legendary.",
+    "digimon": [
+      "Examon X",
+      "Omegamon Zwart D",
+      "Alphamon Ouryuken Awaken",
+      "Lucemon X",
+      "Chaosdramon X",
+      "Megidramon X",
+      "Minervamon X",
+      "MetalMamemon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 8% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: DS 20% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Skill Damage is buffed by 95%",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Rookie Ramparts",
+    "description": "They stand as the first line of defense, relying on raw determination and teamwork to hold the line against any threat.",
+    "digimon": [
+      "Terriermon",
+      "Gotsumon",
+      "Betamon",
+      "Gomamon",
+      "Hagurumon",
+      "Jellymon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 3% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 3% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 8% Increase",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Abyssal Aegis",
+    "description": "They command the depths, combining crushing power and unyielding defense.",
+    "digimon": [
+      "BlackMegaGargomon",
+      "KingEtemon",
+      "GigaSeadramon",
+      "Plesiomon",
+      "Craniamon",
+      "Thetismon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 5% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 5% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 8% Increase",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "The Iron Pact",
+    "description": "An unbreakable alliance of strength and resilience.Powered by iron will and relentless defense.",
+    "digimon": [
+      "BlackMegaGargomon",
+      "KingEtemon",
+      "GigaSeadramon",
+      "Plesiomon",
+      "Craniamon",
+      "Thetismon",
+      "BanchouLeomon",
+      "Marsmon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 8% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 5% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 10% Increase",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Iron Thronefall",
+    "description": "A group of ruthless power and ironclad defense, dominating through fear and unyielding strength.",
+    "digimon": [
+      "BlackMegaGargomon",
+      "KingEtemon",
+      "GigaSeadramon",
+      "Plesiomon",
+      "Craniamon",
+      "Thetismon",
+      "BanchouLeomon",
+      "Marsmon",
+      "Lucemon Satan Mode"
+    ],
+    "effects": [
+      "Activation Effect:: HP 10% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 5% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 10% Increase",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Aegis Nova",
+    "description": "This team combines fiery offense with impenetrable defense to shine brightest in the fiercest battles.",
+    "digimon": [
+      "Shoutmon DX",
+      "Cosmic Susanoomon",
+      "Lucemon Satan Mode",
+      "Shakkoumon (Jogress)",
+      "Examon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 12% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 8% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 13% Increase",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Brick Wall",
+    "description": "Just SS+ Tanks, what did you expect?",
+    "digimon": [
+      "Fanglongmon",
+      "Shakkoumon (Jogress)",
+      "Black-Gear KingEtemon",
+      "Moon Millenniumon",
+      "GigaSeadramon X",
+      "Magnamon X (Vengeful)"
+    ],
+    "effects": [
+      "Activation Effect:: HP 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 10% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 10% Increase",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Aegis of the Divide",
+    "description": "This team balances overwhelming power and steadfast defense.",
+    "digimon": [
+      "Susanoomon (Shin)",
+      "Omegamon Alter-B",
+      "Fanglongmon Shin",
+      "Shoutmon DX",
+      "Cosmic Susanoomon",
+      "Shakkoumon (Jogress)",
+      "Black-Gear KingEtemon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 10% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Defensive Order",
+    "description": "Order Created by the Tankiest Digimons",
+    "digimon": [
+      "Cosmic Susanoomon",
+      "Shoutmon DX",
+      "Barbamon X",
+      "RustTyrannomon",
+      "IcyMagnamon X"
+    ],
+    "effects": [
+      "Activation Effect:: HP 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated"
+    ]
+  },
+  {
+    "name": "Aegis Vortex",
+    "description": "This team channels unstoppable power and impenetrable defense.",
+    "digimon": [
+      "Susanoomon (Shin)",
+      "Omegamon Alter-B",
+      "Fanglongmon Shin",
+      "Shoutmon DX",
+      "Cosmic Susanoomon",
+      "Shakkoumon (Jogress)",
+      "Black-Gear KingEtemon",
+      "Magnamon X"
+    ],
+    "effects": [
+      "Activation Effect:: HP 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 5% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "The Sovereign Bulwark",
+    "description": "The Souvereign Bulwark stands unyielding, combining divine power, ancient strength and fierce loyalty to protect the digital world.",
+    "digimon": [
+      "Susanoomon (Shin)",
+      "Omegamon Alter-B",
+      "Fanglongmon Shin",
+      "BloomLordmon",
+      "Barbamon X",
+      "Amphimon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 18% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 18% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 10% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "Dragon Scale",
+    "description": "Group of Dragons with scales even harder than steel",
+    "digimon": [
+      "Fanglongmon Shin",
+      "Examon X",
+      "Megidramon X",
+      "Imperialdramon (Dragon Mode)(Jogress)"
+    ],
+    "effects": [
+      "Activation Effect:: HP 20% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 20% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 20% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "The Sovereign Bulwark: Abyss",
+    "description": "Legends united, combining divine strength, resolve and dark power.",
+    "digimon": [
+      "Susanoomon (Shin)",
+      "Omegamon Alter-B",
+      "Fanglongmon Shin",
+      "BloomLordmon",
+      "Barbamon X",
+      "Amphimon",
+      "DarknessBagramon",
+      "IcyMagnamon X"
+    ],
+    "effects": [
+      "Activation Effect:: HP 20% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 20% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 15% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "The Sovereign Bulwark: Iron Requiem",
+    "description": "A fortress of divine power and primal fury. Guardians and beasts unite to defend the Digital World",
+    "digimon": [
+      "Susanoomon (Shin)",
+      "Omegamon Alter-B",
+      "Fanglongmon Shin",
+      "BloomLordmon",
+      "Barbamon X",
+      "Amphimon",
+      "DarknessBagramon",
+      "IcyMagnamon X",
+      "SaintGargomon Shin",
+      "RustTyrannomon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 22% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 25% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 20% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "The Sovereign Bulwark: Fortis Magna",
+    "description": "An unyielding fortress forged by legendary guardians and primal forces. United in purpose, they stand as the Digital World's last and greatest defense against darkness.",
+    "digimon": [
+      "Susanoomon (Shin)",
+      "Omegamon Alter-B",
+      "Fanglongmon Shin",
+      "BloomLordmon",
+      "Barbamon X",
+      "Amphimon",
+      "DarknessBagramon",
+      "IcyMagnamon X",
+      "SaintGargomon Shin",
+      "RustTyrannomon",
+      "Housemon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 25% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 30% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 20% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "The Sovereign Bulwark: Crown",
+    "description": "The ultimate alliance of power and resilence.Legendary guardians and champions unite, forming an unbreakable crown that defends teh World.",
+    "digimon": [
+      "Susanoomon (Shin)",
+      "Omegamon Alter-B",
+      "Fanglongmon Shin",
+      "BloomLordmon",
+      "DarknessBagramon",
+      "Shoutmon X7",
+      "Barbamon X",
+      "Amphimon",
+      "IcyMagnamon X",
+      "SaintGargomon Shin",
+      "RustTyrannomon",
+      "Housemon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 30% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 30% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 20% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "The Sovereign Bulwark: Royal Crown",
+    "description": "An elite alliance of legendary champions, fortified by unmatches power and unbreakable resolve. Together, they wear the Rotal Crown, the Digital World's final bastion against darkness.",
+    "digimon": [
+      "Susanoomon (Shin)",
+      "Omegamon Alter-B",
+      "Examon X",
+      "Fanglongmon Shin",
+      "BloomLordmon",
+      "DarknessBagramon",
+      "Shoutmon X7",
+      "Barbamon X",
+      "Amphimon",
+      "IcyMagnamon X",
+      "SaintGargomon Shin",
+      "RustTyrannomon",
+      "Housemon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 35% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 35% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 25% chance per Skill Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  },
+  {
+    "name": "Sovereign Bulwark: Eternal Dominion",
+    "description": "An elite alliance of legendary champions, fortified by unmatches power and unbreakable resolve. Together, they wear the Rotal Crown, the Digital World's final bastion against darkness.",
+    "digimon": [
+      "Susanoomon (Shin)",
+      "Omegamon Alter-B",
+      "Examon X",
+      "Fanglongmon Shin",
+      "BloomLordmon",
+      "DarknessBagramon",
+      "Shoutmon X7",
+      "BlackShoutmon X7",
+      "Barbamon X",
+      "Amphimon",
+      "IcyMagnamon X",
+      "SaintGargomon Shin",
+      "RustTyrannomon",
+      "Housemon"
+    ],
+    "effects": [
+      "Activation Effect:: HP 37% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Defense 37% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Attack Speed 15% Increase",
+      "Lasting time:: Permanent t'ill Deactivated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 25% chance per Skill Attack",
+      "Lasting time:: Instantely Activated",
+      "Activation Effect:: Reset skills's cooldown time",
+      "Activation Condition:: 5% chance per Auto Attack",
+      "Lasting time:: Instantely Activated"
+    ]
+  }
+]

@@ -1,0 +1,3564 @@
+[
+  {
+    "name": "Digivice of Beginning Lv. 1",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Beginning Lv. 0",
+        "qty": 1
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 149
+      },
+      {
+        "name": "Fragment of Evolution",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "name": "Digivice of Beginning Lv. 2",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Beginning Lv. 1",
+        "qty": 1
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 211
+      },
+      {
+        "name": "Piece of Evolution x11\n Myotismon's Digicore",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "name": "Digivice of Adventure Lv. 0",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Beginning Lv. 2",
+        "qty": 1
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 287
+      },
+      {
+        "name": "Infective Virus",
+        "qty": 8
+      },
+      {
+        "name": "Digimon's Bionic Energy",
+        "qty": 7
+      },
+      {
+        "name": "Digital Energy",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "name": "Digivice of Adventure Lv. 1",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Adventure Lv. 0",
+        "qty": 1
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 301
+      },
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 7
+      },
+      {
+        "name": "Absolute Essence of Evolution",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Digivice of Adventure Lv. 2",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Adventure Lv. 1",
+        "qty": 1
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 307
+      },
+      {
+        "name": "Soul of Myotismon",
+        "qty": 6
+      },
+      {
+        "name": "Heinous Digicore",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Adventure Lv. 2",
+        "qty": 1
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 318
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 7
+      },
+      {
+        "name": "Condensed Dark Energy",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "103-OT-Blue Digivice",
+        "qty": 1
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 318
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 7
+      },
+      {
+        "name": "Condensed Dark Energy",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "103-OT-Orange Digivice",
+        "qty": 1
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 318
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 7
+      },
+      {
+        "name": "Condensed Dark Energy",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "103-OT-Purple Digivice",
+        "qty": 1
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 318
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 7
+      },
+      {
+        "name": "Condensed Dark Energy",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "Absolute Essence of Evolution",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fragment of Evolution",
+        "qty": 3
+      },
+      {
+        "name": "Piece of Evolution",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Heinous Digicore",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 1
+      },
+      {
+        "name": "Myotismon's Digicore",
+        "qty": 3
+      },
+      {
+        "name": "Infective Virus",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Condensed Dark Energy",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Myotismon's Digicore",
+        "qty": 1
+      },
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 2
+      },
+      {
+        "name": "Soul of Myotismon",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Fragment of Evolution",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Powder of Evolution",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Piece of Evolution",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Powder of Evolution",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Myotismons Digicore",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Powder of Evolution",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Infective Virus",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Powder of Evolution",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Digimon's Bionic Energy",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Powder of Evolution",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Digital Energy",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Powder of Evolution",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Fragment of Evolution",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fragment of Evolution",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Piece of Evolution",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Piece of Evolution",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Myotismons Digicore",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Myotismons Digicore",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Infective Virus",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Infective Virus",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Digimon's Bionic Energy",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digimon's Bionic Energy",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Digital Energy",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digital Energy",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Courage",
+        "qty": 1
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 1
+      },
+      {
+        "name": "Soul of Myotismon",
+        "qty": 2
+      },
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 4
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 710
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Friendship",
+        "qty": 1
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 1
+      },
+      {
+        "name": "Soul of Myotismon",
+        "qty": 2
+      },
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 4
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 710
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Love",
+        "qty": 1
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 1
+      },
+      {
+        "name": "Soul of Myotismon",
+        "qty": 2
+      },
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 4
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 710
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Purity",
+        "qty": 1
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 1
+      },
+      {
+        "name": "Soul of Myotismon",
+        "qty": 2
+      },
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 4
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 710
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Knowledge",
+        "qty": 1
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 1
+      },
+      {
+        "name": "Soul of Myotismon",
+        "qty": 2
+      },
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 4
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 710
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Sincerity",
+        "qty": 1
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 1
+      },
+      {
+        "name": "Soul of Myotismon",
+        "qty": 2
+      },
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 4
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 710
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Hope",
+        "qty": 1
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 1
+      },
+      {
+        "name": "Soul of Myotismon",
+        "qty": 2
+      },
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 4
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 710
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Light",
+        "qty": 1
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 1
+      },
+      {
+        "name": "Soul of Myotismon",
+        "qty": 2
+      },
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 4
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 710
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Kindness",
+        "qty": 1
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 1
+      },
+      {
+        "name": "Soul of Myotismon",
+        "qty": 2
+      },
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 4
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 710
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Fate",
+        "qty": 1
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 1
+      },
+      {
+        "name": "Soul of Myotismon",
+        "qty": 2
+      },
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 4
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 710
+      }
+    ]
+  },
+  {
+    "name": "True Digivice",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Miracle",
+        "qty": 1
+      },
+      {
+        "name": "VenomMyotismon's Venom",
+        "qty": 1
+      },
+      {
+        "name": "Soul of Myotismon",
+        "qty": 2
+      },
+      {
+        "name": "SkullMeramon's Digicore",
+        "qty": 4
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 710
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Courage",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Friendship",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Love",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Purity",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Knowledge",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Sincerity",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Hope",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Light",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Kindness",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Fate",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Miracle",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "103-OT-Blue Digivice",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "103-OT-Orange Digivice",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "103-OT-Purple Digivice",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 100
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 100
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 100
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 250
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Courage (Advanced)",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 20
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 20
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 20
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Friendship (Advanced)",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 20
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 20
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 20
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Love (Advanced)",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 20
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 20
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 20
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Purity (Advanced)",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 20
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 20
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 20
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Knowledge (Advanced)",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 20
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 20
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 20
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Sincerity (Advanced)",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 20
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 20
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 20
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Hope (Advanced)",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 20
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 20
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 20
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Light (Advanced)",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 20
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 20
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 20
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Kindness (Advanced)",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 20
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 20
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 20
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Fate (Advanced)",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 20
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 20
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 20
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digivice of Miracle (Advanced)",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 20
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 20
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 20
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "103 OT Digivice Orange (Advanced)",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 20
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 20
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 20
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "True Digivice (Advanced)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "103 OT Digivice Purple (Advanced)",
+        "qty": 1
+      },
+      {
+        "name": "Crest of Bravery",
+        "qty": 20
+      },
+      {
+        "name": "Crest of Friendship",
+        "qty": 20
+      },
+      {
+        "name": "Complete Virus",
+        "qty": 20
+      },
+      {
+        "name": "Essence of Evolution",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Rookie-Mega) Lv15",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Simple Data String \n Low Quality Data Chip x100",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Rookie X-Mega X) Lv15",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Simple Data String \n Low Quality Data Chip x100",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Burst Mode) Lv15",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Refined Data String \n Mid Quality Data Chip x100",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Burst Mode X) Lv15",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Refined Data String \n Mid Quality Data Chip x100",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Jogress) Lv15",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Complex Data String \n High Quality Data Chip x100",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Jogress X) Lv15",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Complex Data String \n High Quality Data Chip x100",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Armor) Lv15",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Simple Data String \n Low Quality Data Chip x100",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Hybrid) Lv15",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Refined Data String \n Mid Quality Data Chip x100",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Extra) Lv15",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Complex Data String \n High Quality Data Chip x100",
+        "qty": 100
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Rookie-Mega) Lv20",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Rookie-Mega) Lv15",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Rookie X-Mega X) Lv20",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Rookie X-Mega X) Lv15",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Burst Mode) Lv20",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Burst Mode) Lv15",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Burst Mode X) Lv20",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Burst Mode X) Lv15",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Jogress) Lv20",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Jogress) Lv15",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Jogress X) Lv20",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Jogress X) Lv15",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Armor) Lv20",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Armor) Lv15",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Hybrid) Lv20",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Hybrid) Lv15",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Extra) Lv20",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Extra) Lv15",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Rookie-Mega) Lv25",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Rookie-Mega) Lv20",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Rookie X-Mega X) Lv25",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Rookie X-Mega X) Lv20",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Burst Mode) Lv25",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Burst Mode) Lv20",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Burst Mode X) Lv25",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Burst Mode X) Lv20",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Jogress) Lv25",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Jogress) Lv20",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Jogress X) Lv25",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Jogress X) Lv20",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Armor) Lv25",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Armor) Lv20",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Hybrid) Lv25",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Hybrid) Lv20",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Skill DigiCode (Extra) Lv25",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Skill DigiCode (Extra) Lv20",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HP) R4",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HP) R3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (AT) R4",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (AT) R3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DS) R4",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DS) R3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DE) R4",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DE) R3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HT) R4",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HT) R3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HP) R5",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HP) R4",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (AT) R5",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (AT) R4",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DS) R5",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DS) R4",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DE) R5",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DE) R4",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HT) R5",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HT) R4",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HP) R6",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HP) R5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (AT) R6",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (AT) R5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DS) R6",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DS) R5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DE) R6",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DE) R5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HT) R6",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HT) R5",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HP) R7",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HP) R6",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (AT) R7",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (AT) R6",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DS) R7",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DS) R6",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DE) R7",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DE) R6",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HT) R7",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HT) R6",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HP) R8",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HP) R7",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (AT) R8",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (AT) R7",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DS) R8",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DS) R7",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DE) R8",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DE) R7",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HT) R8",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HT) R7",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HP) R9",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HP) R8",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (AT) R9",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (AT) R8",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DS) R9",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DS) R8",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DE) R9",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DE) R8",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HT) R9",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HT) R8",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R1",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HP) R10",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HP) R9",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (AT) R10",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (AT) R9",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DS) R10",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DS) R9",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DE) R10",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DE) R9",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HT) R10",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HT) R9",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HP) R11",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HP) R10",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (AT) R11",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (AT) R10",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DS) R11",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DS) R10",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DE) R11",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DE) R10",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HT) R11",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HT) R10",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HP) R12",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HP) R11",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (AT) R12",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (AT) R11",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DS) R12",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DS) R11",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DE) R12",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DE) R11",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HT) R12",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HT) R11",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HP) R13",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HP) R12",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (AT) R13",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (AT) R12",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DS) R13",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DS) R12",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DE) R13",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DE) R12",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HT) R13",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HT) R12",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R3",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HP) R14",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HP) R13",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R3",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (AT) R14",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (AT) R13",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R3",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DS) R14",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DS) R13",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R3",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (DE) R14",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (DE) R13",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R2",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Chipset Box (HT) R14",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Chipset Box (HT) R13",
+        "qty": 2
+      },
+      {
+        "name": "Chipset Conversion Kit R3",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Beast Mid Class Data",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Beast Low Class Data",
+        "qty": 100
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Rock Mid Class Data",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Rock Low Class Data",
+        "qty": 100
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Devil Mid Class Data",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Devil Low Class Data",
+        "qty": 100
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Bird Mid Class Data",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Bird Low Class Data",
+        "qty": 100
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Dragon Mid Class Data",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Dragon Low Class Data",
+        "qty": 100
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Plant Mid Class Data",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Plant Low Class Data",
+        "qty": 100
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Fire Mid Class Data",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fire Low Class Data",
+        "qty": 100
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Insectoid Mid Class Data",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Insectoid Low Class Data",
+        "qty": 100
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Aquatic Mid Class Data",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Aquatic Low Class Data",
+        "qty": 100
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Low Class Beast Transcendence ConvertChip",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Beast Mid Class Data",
+        "qty": 3
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Low Class Rock Transcendence ConvertChip",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Rock Mid Class Data",
+        "qty": 3
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Low Class Devil Transcendence ConvertChip",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Devil Mid Class Data",
+        "qty": 3
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Low Class Bird Transcendence ConvertChip",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Bird Mid Class Data",
+        "qty": 3
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Low Class Dragon Transcendence ConvertChip",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Dragon Mid Class Data",
+        "qty": 3
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Low Class Plant Transcendence ConvertChip",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Plant Mid Class Data",
+        "qty": 3
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Low Class Fire Transcendence ConvertChip",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Fire Mid Class Data",
+        "qty": 3
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Low Class Insectoid Transcendence ConvertChip",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Insectoid Mid Class Data",
+        "qty": 3
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Low Class Aquatic Transcendence ConvertChip",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Aquatic Mid Class Data",
+        "qty": 3
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Low Class Hybrid Transcendence ConvertChip x3",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Bokomon's Book of Knowledge",
+        "qty": 1
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "Low Class ExtraOrdinary Transcendence ConvertChip",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Devil Mid Class Data",
+        "qty": 3
+      },
+      {
+        "name": "Digicore",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "name": "[HP] Attribute Rank A Lv1 (Max HP 25~30)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digicore",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "[HP] Attribute Rank A Lv2 (Max HP 50~100)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[HP] Attribute Rank A Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 13
+      }
+    ]
+  },
+  {
+    "name": "[HP] Attribute Rank A Lv3 (Max HP 100~150)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[HP] Attribute Rank A Lv2",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 16
+      }
+    ]
+  },
+  {
+    "name": "[HP] Attribute Rank A Lv4 (Max HP 150~200)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[HP] Attribute Rank A Lv3",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "[HP] Attribute Rank A LvMax (Max HP 200~250)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[HP] Attribute Rank A Lv4",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "[HP] Attribute Rank B Lv1 (Max HP 252~300)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[HP] Attribute Rank A Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 31
+      }
+    ]
+  },
+  {
+    "name": "[HP] Attribute Rank B Lv2 (Max HP 301~350)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[HP] Attribute Rank B Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 38
+      }
+    ]
+  },
+  {
+    "name": "[HP] Attribute Rank B Lv3 (Max HP 352~400)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[HP] Attribute Rank B Lv2",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 46
+      }
+    ]
+  },
+  {
+    "name": "[HP] Attribute Rank B Lv4 (Max HP 400~450)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[HP] Attribute Rank B Lv3",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 56
+      }
+    ]
+  },
+  {
+    "name": "[HP] Attribute Rank B LvMax (Max HP 450~500)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[HP] Attribute Rank B Lv4",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 68
+      }
+    ]
+  },
+  {
+    "name": "[HP] Attribute Rank C Lv1 (Max HP 495~550)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[HP] Attribute Rank B Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 82
+      }
+    ]
+  },
+  {
+    "name": "[HP] Attribute Rank C Lv2 (Max HP 540~600)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[HP] Attribute Rank C Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 99
+      }
+    ]
+  },
+  {
+    "name": "[HP] Attribute Rank C Lv3 (Max HP 585~650)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[HP] Attribute Rank C Lv2",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 144
+      }
+    ]
+  },
+  {
+    "name": "[DS] Attribute Rank A Lv1 (Max DS 25~30)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digicore",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "[DS] Attribute Rank A Lv2 (Max DS 50~100)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DS] Attribute Rank A Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 13
+      }
+    ]
+  },
+  {
+    "name": "[DS] Attribute Rank A Lv3 (Max DS 100~150)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DS] Attribute Rank A Lv2",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 16
+      }
+    ]
+  },
+  {
+    "name": "[DS] Attribute Rank A Lv4 (Max DS 150~200)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DS] Attribute Rank A Lv3",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "[DS] Attribute Rank A LvMax (Max DS 200~250)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DS] Attribute Rank A Lv4",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "[DS] Attribute Rank B Lv1 (Max DS 252~300)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DS] Attribute Rank A Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 31
+      }
+    ]
+  },
+  {
+    "name": "[DS] Attribute Rank B Lv2 (Max DS 301~350)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DS] Attribute Rank B Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 38
+      }
+    ]
+  },
+  {
+    "name": "[DS] Attribute Rank B Lv3 (Max DS 352~400)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DS] Attribute Rank B Lv2",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 46
+      }
+    ]
+  },
+  {
+    "name": "[DS] Attribute Rank B Lv4 (Max DS 400~450)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DS] Attribute Rank B Lv3",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 56
+      }
+    ]
+  },
+  {
+    "name": "[DS] Attribute Rank B LvMax (Max DS 450~500)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DS] Attribute Rank B Lv4",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 68
+      }
+    ]
+  },
+  {
+    "name": "[DS] Attribute Rank C Lv1 (Max DS 495~550)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DS] Attribute Rank B Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 82
+      }
+    ]
+  },
+  {
+    "name": "[DS] Attribute Rank C Lv2 (Max DS 540~600)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DS] Attribute Rank C Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 99
+      }
+    ]
+  },
+  {
+    "name": "[DS] Attribute Rank C Lv3 (Max DS 585~650)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DS] Attribute Rank C Lv2",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 144
+      }
+    ]
+  },
+  {
+    "name": "[AT] Attribute Rank A Lv1 (Max AT 14~28)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digicore",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "[AT] Attribute Rank A Lv2 (Max AT 28~56)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[AT] Attribute Rank A Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 13
+      }
+    ]
+  },
+  {
+    "name": "[AT] Attribute Rank A Lv3 (Max AT 56~84)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[AT] Attribute Rank A Lv2",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 16
+      }
+    ]
+  },
+  {
+    "name": "[AT] Attribute Rank A Lv4 (Max AT 84~112)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[AT] Attribute Rank A Lv3",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "[AT] Attribute Rank A LvMax (Max AT 112~140)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[AT] Attribute Rank A Lv4",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "[AT] Attribute Rank B Lv1 (Max AT 141~168)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[AT] Attribute Rank A Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 31
+      }
+    ]
+  },
+  {
+    "name": "[AT] Attribute Rank B Lv2 (Max AT 168~196)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[AT] Attribute Rank B Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 38
+      }
+    ]
+  },
+  {
+    "name": "[AT] Attribute Rank B Lv3 (Max AT 197~224)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[AT] Attribute Rank B Lv2",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 46
+      }
+    ]
+  },
+  {
+    "name": "[AT] Attribute Rank B Lv4 (Max AT 224~252)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[AT] Attribute Rank B Lv3",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 56
+      }
+    ]
+  },
+  {
+    "name": "[AT] Attribute Rank B LvMax (Max AT 252~280)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[AT] Attribute Rank B Lv4",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 68
+      }
+    ]
+  },
+  {
+    "name": "[AT] Attribute Rank C Lv1 (Max AT 277~308)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[AT] Attribute Rank B Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 82
+      }
+    ]
+  },
+  {
+    "name": "[AT] Attribute Rank C Lv2 (Max AT 302~336)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[AT] Attribute Rank C Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 99
+      }
+    ]
+  },
+  {
+    "name": "[AT] Attribute Rank C Lv3 (Max AT 327~364)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[AT] Attribute Rank C Lv2",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 144
+      }
+    ]
+  },
+  {
+    "name": "[DE] Attribute Rank A Lv1 (Max DE 7~14)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "Digicore",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "name": "[DE] Attribute Rank A Lv2 (Max DE 14~29)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DE] Attribute Rank A Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 13
+      }
+    ]
+  },
+  {
+    "name": "[DE] Attribute Rank A Lv3 (Max DE 29~44)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DE] Attribute Rank A Lv2",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 16
+      }
+    ]
+  },
+  {
+    "name": "[DE] Attribute Rank A Lv4 (Max DE 44~60)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DE] Attribute Rank A Lv3",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "name": "[DE] Attribute Rank A LvMax (Max DE 60~74)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DE] Attribute Rank A Lv4",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 25
+      }
+    ]
+  },
+  {
+    "name": "[DE] Attribute Rank B Lv1 (Max DE 74~89)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DE] Attribute Rank A Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 31
+      }
+    ]
+  },
+  {
+    "name": "[DE] Attribute Rank B Lv2 (Max DE 89~105)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DE] Attribute Rank B Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 38
+      }
+    ]
+  },
+  {
+    "name": "[DE] Attribute Rank B Lv3 (Max DE 105~120)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DE] Attribute Rank B Lv2",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 46
+      }
+    ]
+  },
+  {
+    "name": "[DE] Attribute Rank B Lv4 (Max DE 120~135)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DE] Attribute Rank B Lv3",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 56
+      }
+    ]
+  },
+  {
+    "name": "[DE] Attribute Rank B LvMax (Max DE 135~150)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DE] Attribute Rank B Lv4",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 68
+      }
+    ]
+  },
+  {
+    "name": "[DE] Attribute Rank C Lv1 (Max DE 148~165)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DE] Attribute Rank B Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 82
+      }
+    ]
+  },
+  {
+    "name": "[DE] Attribute Rank C Lv2 (Max DE 162~180)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DE] Attribute Rank C Lv1",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 99
+      }
+    ]
+  },
+  {
+    "name": "[DE] Attribute Rank C Lv3 (Max DE 175~195)",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "[DE] Attribute Rank C Lv2",
+        "qty": 2
+      },
+      {
+        "name": "Digicore",
+        "qty": 144
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody: Dual",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "name": "X-Antibody: Triple",
+    "category": "Nanomon (Dats)",
+    "feeTeras": 0,
+    "components": [
+      {
+        "name": "X-Antibody",
+        "qty": 6
+      }
+    ]
+  }
+]

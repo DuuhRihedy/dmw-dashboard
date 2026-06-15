@@ -8,6 +8,7 @@ function parseShopData(raw) {
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i].trim();
+    if (!line) continue;
 
     const shopMatch = line.match(/^Shop\s*Name:\s*(.+)/i);
     if (shopMatch) {
@@ -22,26 +23,61 @@ function parseShopData(raw) {
 
       const mapMatch = line.match(/^Map:\s*(.+)/i);
       if (mapMatch) { current.map = mapMatch[1].trim(); continue; }
+    }
 
-      // Parse table rows: | Item | Cost | Quantity |
-      if (line.startsWith('|') && !line.match(/^[\|\s\-]+$/) && !line.match(/Item\s*\|/i)) {
-        const cells = line.split('|').map(c => c.trim()).filter(Boolean);
-        if (cells.length >= 2) {
-          const itemName = cells[0];
-          const costRaw = cells[1] || '0';
-          const qty = cells[2] || '?';
-          const cost = parseInt(costRaw.replace(/[,.\s]/g, ''), 10) || 0;
-          if (itemName && itemName.length > 1 && !itemName.match(/^-+$/)) {
-            current.items.push({
-              name: itemName,
-              cost,
-              costDisplay: costRaw,
-              quantity: qty,
-              shop: current.name,
-              owner: current.owner,
-              map: current.map,
-            });
+    if (line.match(/^[\|\s\-]+$/) || line.match(/Item\s*\|/i)) continue;
+
+    if (line.startsWith('|')) {
+      let row = line;
+      if (row.startsWith('|')) row = row.substring(1);
+      if (row.endsWith('|')) row = row.substring(0, row.length - 1);
+      
+      const cells = row.split('|').map(c => c.trim());
+      
+      // Flat table format (Donny): Item | Cost | Quantity | Shop Name | Owner | Map
+      if (cells.length >= 6) {
+        const itemName = cells[0];
+        const costRaw = cells[1] || '0';
+        const qty = cells[2] || '?';
+        const shopName = cells[3] || 'Unknown Shop';
+        const owner = cells[4] || 'Unknown Owner';
+        const map = cells[5] || '';
+
+        const cost = parseInt(costRaw.replace(/[,.\s]/g, ''), 10) || 0;
+        
+        if (itemName && itemName.length > 1 && !itemName.match(/^-+$/)) {
+          let shopObj = shops.find(s => s.name === shopName && s.owner === owner);
+          if (!shopObj) {
+            shopObj = { name: shopName, owner, map, items: [] };
+            shops.push(shopObj);
           }
+          shopObj.items.push({
+            name: itemName,
+            cost,
+            costDisplay: costRaw,
+            quantity: qty,
+            shop: shopName,
+            owner,
+            map
+          });
+        }
+      } 
+      // Old format rows: Item | Cost | Quantity
+      else if (current && cells.length >= 2) {
+        const itemName = cells[0];
+        const costRaw = cells[1] || '0';
+        const qty = cells[2] || '?';
+        const cost = parseInt(costRaw.replace(/[,.\s]/g, ''), 10) || 0;
+        if (itemName && itemName.length > 1 && !itemName.match(/^-+$/)) {
+          current.items.push({
+            name: itemName,
+            cost,
+            costDisplay: costRaw,
+            quantity: qty,
+            shop: current.name,
+            owner: current.owner,
+            map: current.map,
+          });
         }
       }
     }
@@ -50,10 +86,9 @@ function parseShopData(raw) {
 }
 
 function formatCost(n) {
-  if (n >= 1_000_000_000) return (n / 1_000_000_000).toFixed(1).replace('.0', '') + 'B';
-  if (n >= 1_000_000) return (n / 1_000_000).toFixed(1).replace('.0', '') + 'M';
-  if (n >= 1_000) return (n / 1_000).toFixed(1).replace('.0', '') + 'K';
-  return String(n);
+  if (n >= 1_000_000) return (n / 1_000_000).toFixed(1).replace('.0', '') + 'T';
+  if (n >= 1_000) return (n / 1_000).toFixed(1).replace('.0', '') + 'M';
+  return n + 'B';
 }
 
 const SORT_OPTIONS = [

@@ -2,10 +2,9 @@ import { useState, useMemo } from 'react';
 import { PREBUILT_RECIPES } from '../data/recipesData';
 
 function formatCost(n) {
-  if (n >= 1_000_000_000) return (n / 1_000_000_000).toFixed(1).replace('.0', '') + 'B';
-  if (n >= 1_000_000) return (n / 1_000_000).toFixed(1).replace('.0', '') + 'M';
-  if (n >= 1_000) return (n / 1_000).toFixed(1).replace('.0', '') + 'K';
-  return String(n);
+  if (n >= 1_000_000) return (n / 1_000_000).toFixed(1).replace('.0', '') + 'T'; // Tera
+  if (n >= 1_000) return (n / 1_000).toFixed(1).replace('.0', '') + 'M'; // Mega
+  return n + 'B'; // Bits
 }
 
 function getRouteMaterials(targetRecipe, baseItemName, allRecipes) {
@@ -73,8 +72,7 @@ export default function CraftCalculator({ tamer, updateTamer, allItems }) {
   const activeRecipe = useMemo(() => {
     if (!activeRecipeId) return null;
     if (activeRecipeId.startsWith('PREBUILT_')) {
-      const name = activeRecipeId.replace('PREBUILT_', '');
-      return PREBUILT_RECIPES.find(r => r.name === name);
+      return PREBUILT_RECIPES.find(r => r.uniqueId === activeRecipeId);
     }
     return recipes.find(r => r.id === activeRecipeId);
   }, [activeRecipeId, recipes]);
@@ -269,7 +267,7 @@ export default function CraftCalculator({ tamer, updateTamer, allItems }) {
                     return false;
                   })
                   .map((pr, i) => (
-                    <option key={`prebuilt-${pr.name}`} value={`PREBUILT_${pr.name}`}>{pr.name} (Taxa: {pr.feeTeras}T)</option>
+                    <option key={pr.uniqueId} value={pr.uniqueId}>{pr.name} (Taxa: {pr.feeTeras}T)</option>
                   ))
               )}
             </select>

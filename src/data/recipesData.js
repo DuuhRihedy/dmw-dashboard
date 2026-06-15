@@ -206,4 +206,4 @@ const taichiRecipes = [
   }
 ];
 
-export const PREBUILT_RECIPES = [...taichiRecipes, ...nanomonData, ...extraNpcsData, ...exchangeNpcsData];
+export const PREBUILT_RECIPES = [...taichiRecipes, ...nanomonData, ...extraNpcsData, ...exchangeNpcsData].map((r, i) => ({ ...r, uniqueId: `PREBUILT_${i}` }));

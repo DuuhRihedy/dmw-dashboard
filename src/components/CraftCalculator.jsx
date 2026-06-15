@@ -60,6 +60,9 @@ export default function CraftCalculator({ tamer, updateTamer, allItems }) {
   const [routeMode, setRouteMode] = useState(false);
   const [baseItem, setBaseItem] = useState('');
   
+  const [inventory, setInventory] = useState({});
+  const [priceOverrides, setPriceOverrides] = useState({});
+  
   // Category filter
   const [selectedCategory, setSelectedCategory] = useState('All');
   const [selectedType, setSelectedType] = useState('All');
@@ -155,10 +158,16 @@ export default function CraftCalculator({ tamer, updateTamer, allItems }) {
       matches.sort((a, b) => a.cost - b.cost);
       
       const cheapest = matches.length > 0 ? matches[0].cost : null;
-      const unitCost = comp.manualPrice !== null ? comp.manualPrice : cheapest;
+      const overridePrice = priceOverrides[comp.name];
+      const unitCost = overridePrice !== undefined ? overridePrice : cheapest;
+      
       // Base items we already have cost 0
-      const actualUnitCost = comp.isBase ? 0 : unitCost;
-      const compTotal = actualUnitCost !== null ? actualUnitCost * comp.qty : 0;
+      const actualUnitCost = comp.isBase ? 0 : (unitCost || 0);
+      
+      const owned = inventory[comp.name] || 0;
+      const missingQty = Math.max(0, comp.qty - owned);
+      
+      const compTotal = missingQty * actualUnitCost;
       
       totalCraft += compTotal;
       
@@ -166,6 +175,8 @@ export default function CraftCalculator({ tamer, updateTamer, allItems }) {
         ...comp,
         cheapestFound: cheapest,
         usedCost: unitCost,
+        missingQty,
+        ownedQty: owned,
         total: compTotal,
         hasMarketData: matches.length > 0
       };
@@ -394,7 +405,8 @@ export default function CraftCalculator({ tamer, updateTamer, allItems }) {
               <thead>
                 <tr>
                   <th>Componente</th>
-                  <th>Qtd</th>
+                  <th>Necessário</th>
+                  <th>Na Mochila</th>
                   <th>Menor Preço (Market)</th>
                   <th>Preço Usado (Unit.)</th>
                   <th>Custo Total</th>
@@ -408,6 +420,22 @@ export default function CraftCalculator({ tamer, updateTamer, allItems }) {
                       {comp.isBase && <span className="ml-2 text-xs text-green-400 bg-green-500/10 px-2 py-0.5 rounded border border-green-500/20">Você já tem</span>}
                     </td>
                     <td>x{comp.qty}</td>
+                    <td>
+                      {!comp.isBase && (
+                        <input 
+                          type="number" 
+                          className="form-input input-sm" 
+                          style={{ width: 60 }}
+                          min="0"
+                          value={inventory[comp.name] !== undefined ? inventory[comp.name] : ''}
+                          onChange={e => {
+                            const val = e.target.value ? parseInt(e.target.value, 10) : undefined;
+                            setInventory(prev => ({ ...prev, [comp.name]: val }));
+                          }}
+                          placeholder="0"
+                        />
+                      )}
+                    </td>
                     <td>
                       {comp.isBase ? (
                         <span className="text-gray-500">-</span>
@@ -424,19 +452,21 @@ export default function CraftCalculator({ tamer, updateTamer, allItems }) {
                           type="number" 
                           className="form-input input-sm" 
                           placeholder={comp.cheapestFound || '0'}
-                          value={comp.manualPrice !== null ? comp.manualPrice : ''}
+                          value={priceOverrides[comp.name] !== undefined ? priceOverrides[comp.name] : ''}
                           onChange={e => {
-                            const val = e.target.value ? parseInt(e.target.value, 10) : null;
-                            const nextR = { ...activeRecipe };
-                            nextR.components[i].manualPrice = val;
-                            updateTamer({ recipes: recipes.map(r => r.id === activeRecipe.id ? nextR : r) });
+                            const val = e.target.value ? parseInt(e.target.value, 10) : undefined;
+                            setPriceOverrides(prev => ({ ...prev, [comp.name]: val }));
                           }}
                           title="Digite um preço manual se o mercado não tiver o item"
                         />
                       </div>
                       )}
                     </td>
-                    <td><strong style={{ color: 'var(--amber)' }}>{formatCost(comp.total)}</strong></td>
+                    <td>
+                      <strong style={{ color: 'var(--amber)' }}>
+                        {comp.missingQty === 0 ? <span className="text-green-500">Pronto</span> : formatCost(comp.total)}
+                      </strong>
+                    </td>
                   </tr>
                 ))}
               </tbody>

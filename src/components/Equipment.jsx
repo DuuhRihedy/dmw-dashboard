@@ -39,17 +39,7 @@ function renderRow(item, type, isChecked, onToggle, id) {
           <td style={{ textAlign: 'center' }}>{item.recharge}</td>
         </tr>
       );
-    case 'fanglongmon':
-      return (
-        <tr key={id} className={isChecked ? 'checked' : ''} onClick={onToggle}>
-          <td><span className={`table-status ${statusClass}`}>{statusIcon}</span></td>
-          <td><strong>{item.name}</strong></td>
-          <td style={{ fontFamily: 'var(--font-mono)', color: 'var(--amber)', textAlign: 'center' }}>{item.applyAtt}</td>
-          <td style={{ fontFamily: 'var(--font-mono)', color: 'var(--cyan)', textAlign: 'center' }}>{item.attrSlot}</td>
-          <td style={{ fontSize: '0.82rem', color: 'var(--text-secondary)' }}>{item.stats}</td>
-          <td style={{ fontSize: '0.82rem', color: 'var(--amber)' }}>{item.special}</td>
-        </tr>
-      );
+
     case 'costume':
       return (
         <tr key={id} className={isChecked ? 'checked' : ''} onClick={onToggle}>
@@ -77,7 +67,7 @@ const COLUMN_HEADERS = {
   digivice: ['', 'Nome', 'Slots', 'Stats', 'Como Obter'],
   spiral: ['', 'Nome', 'Stats', 'Como Obter'],
   clothing: ['', 'Nome', 'Apply%', 'Attr', 'Stats', 'Como Obter', '♻️'],
-  fanglongmon: ['', 'Nome', 'Apply%', 'Attr', 'Stats Option', 'Special Stats'],
+
   costume: ['', 'Nome', 'Effect', 'Como Obter'],
   accessory: ['', 'Nome', 'Opts', 'Num Chg', 'Como Obter'],
 };

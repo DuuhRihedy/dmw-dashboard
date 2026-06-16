@@ -1,0 +1,216 @@
+/* Progression.css */
+.progression-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.progression-tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.progression-tab {
+  flex: 1;
+  padding: 12px;
+  background: var(--bg-darker);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  color: var(--text-color);
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.progression-tab:hover {
+  background: var(--bg-dark);
+}
+
+.progression-tab.active {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+}
+
+/* Meta Builds */
+.class-selector {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.class-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px;
+  background: var(--bg-darker);
+  border: 2px solid transparent;
+  border-radius: 8px;
+  color: var(--text-color);
+  font-weight: bold;
+  font-size: 1.1em;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.class-btn:hover {
+  background: var(--bg-dark);
+}
+
+.class-btn.active {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: var(--class-color);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.build-content {
+  background: var(--bg-darker);
+  border-top: 4px solid;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.build-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.build-card {
+  background: var(--bg-dark);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.build-card.full-width {
+  grid-column: 1 / -1;
+}
+
+.build-card h4 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  color: var(--text-color);
+  font-size: 1.1em;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 8px;
+}
+
+.build-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.build-list li {
+  line-height: 1.4;
+}
+
+.equipment-list li {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.eq-icon {
+  font-size: 1.5em;
+  background: var(--bg-darker);
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.eq-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.eq-info strong {
+  color: var(--text-muted);
+  font-size: 0.9em;
+  text-transform: uppercase;
+}
+
+.deck-journey {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+}
+
+.deck-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  text-align: center;
+}
+
+.deck-number {
+  background: var(--primary);
+  color: white;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+.deck-name {
+  font-weight: 500;
+}
+
+.deck-arrow {
+  color: var(--text-muted);
+  font-size: 1.2em;
+}
+
+.seals-focus {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.seal-tag {
+  background: var(--bg-darker);
+  border: 1px solid var(--border-color);
+  padding: 6px 12px;
+  border-radius: 16px;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+
+.accessories-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
+}
+
+.accessory-item {
+  background: var(--bg-darker);
+  padding: 12px;
+  border-radius: 8px;
+  border-left: 3px solid var(--primary);
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.accessory-item strong {
+  color: var(--text-color);
+}
+
+.accessory-item span {
+  color: var(--text-muted);
+  font-size: 0.9em;
+}

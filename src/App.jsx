@@ -14,12 +14,14 @@ import Market from './components/Market';
 import Todos from './components/Todos';
 import Settings from './components/Settings';
 import DeckTracker from './components/DeckTracker';
+import NPCCrafting from './components/NPCCrafting';
 
 const NAV_ITEMS = [
   { id: 'dashboard', icon: '🏠', label: 'Dashboard' },
   { id: 'progression', icon: '📋', label: 'Progressão', badge: 'prog' },
   { id: 'digimons', icon: '🐉', label: 'Digimons', badge: 'digi' },
   { id: 'equipment', icon: '⚔️', label: 'Equipment' },
+  { id: 'crafting', icon: '🛠️', label: 'Crafting & NPCs' },
   { id: 'titles', icon: '🏆', label: 'Titles', badge: 'titles' },
   { id: 'decks', icon: '🎴', label: 'Deck System' },
   { id: 'tamers', icon: '👤', label: 'Tamer System' },
@@ -62,6 +64,7 @@ export default function App() {
       case 'progression': return <Progression tamer={tamer} toggleCheck={store.toggleCheck} isChecked={store.isChecked} />;
       case 'digimons': return <Digimons tamer={tamer} addDigimon={store.addDigimon} updateDigimon={store.updateDigimon} deleteDigimon={store.deleteDigimon} />;
       case 'equipment': return <Equipment tamer={tamer} toggleCheck={store.toggleCheck} isChecked={store.isChecked} />;
+      case 'crafting': return <NPCCrafting />;
       case 'titles': return <TitlesSection tamer={tamer} toggleCheck={store.toggleCheck} isChecked={store.isChecked} />;
       case 'decks': return <DeckTracker tamer={tamer} updateTamer={store.updateTamer} />;
       case 'tamers': return <TamerSystem tamer={tamer} updateTamer={store.updateTamer} />;
